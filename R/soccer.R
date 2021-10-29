@@ -1,0 +1,15 @@
+#' Soccer Birthdays
+#'
+#' Number of professional soccer players born on each day of their cohort year.
+#'
+#' @format A data frame with 87 observations of 4 variables
+#' \describe{
+#'   \item{day_no_dual}{Day of the year, adjusted to the country the player grew up in.}
+#'   \item{count}{Number of births}
+#'   \item{t_b_dual}{(day_no_dual - 0.5)/365}
+#' }
+#'
+#' This data is used to investigate the relative age effect in soccer. From the authors: "Relative Age Effects (RAEs) occur when schools and sports group children into age-banded cohorts. Within each cohort, older children study and compete at an artificially conferred advantage over younger children [1–3]. Since the start-points and end-points for age-bandings rarely change, such advantages are conferred consistently throughout childhood. Initial success tends to breed longer-term success for two good reasons."
+#'
+#' @source https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213988
+"soccer"
