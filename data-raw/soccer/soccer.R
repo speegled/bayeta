@@ -1,3 +1,4 @@
-soc <- read.csv("data/soccer_bdays.csv")
+soc <- read.csv("data-raw/soccer/soccer_bdays.csv")
 soc <- janitor::clean_names(soc)
-save(soc, file = "data/soccer.rda")
+soccer <- soc
+save(soccer, file = "data/soccer.rda")
