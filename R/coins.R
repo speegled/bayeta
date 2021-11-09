@@ -1,0 +1,19 @@
+#' Coin Tossing
+#'
+#' Results of a coin tossing experiment where the participants try to toss heads.
+#'
+#' @format A data frame with 87 observations of 4 variables
+#' \describe{
+#'   \item{albeta_offspring_id}{Unique ID of bear}
+#'   \item{sex}{F or M}
+#'   \item{mates}{number of mates the bear had}
+#'   \item{offspring}{number of offspring the bear had}
+#'   \item{num_rubs}{standardized number of rub objects that the bear rubbed on}
+#'   \item{num_occasion}{standardized number of occasions the bear rubbed on an object}
+#'   \item{rel_age}{age of bear determined by number of generations of offspring, standardized}
+#' }
+#'
+#' From the authors: "The toss of a coin has been a method used to determine random outcomes for centuries. It is still used in some research studies as a method of randomization, although it has largely been discredited as a valid randomization method. We sought to provide evidence that the toss of a coin can be manipulated."
+#'
+#' @source https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2789164/
+"coins"
