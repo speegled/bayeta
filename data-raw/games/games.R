@@ -18,14 +18,16 @@ games <- games %>%
 
 ggplot(games, aes(age, log(avg))) +
   geom_point()
+unique(games$owners)
 
 unique(games$owners)[c(10, 9, 7, 8, 6, 3, 4, 5, 1, 2)]
 games$owners <- factor(games$owners,
        levels = unique(games$owners)[c(10, 9, 7, 8, 6, 3, 4, 5, 1, 2)],
-       labels = c("1,000,000+", "10,000,000+", "100,000+", "100,000,000+",
-                                "2,000,000+", "20,000,000+", "200,000+",
-                                "5,000,000+", "50,000,000+", "500,000+")[c(3, 7, 10, 1, 5, 8, 2, 6, 9, 4)])
+       labels = c("1,000,000+", "10,000,000+", "100,000+", "20,000,000+",
+                                "2,000,000+", "20,000,000+", "100,000+",
+                                "5,000,000+", "20,000,000+", "500,000+")[c(3, 7, 10, 1, 5, 8, 2, 6, 9, 4)])
 
+table(games$owners)
 lm(log(avg) ~ age + metascore + owners, data = games) %>% summary()
 games$log_avg <- log(games$avg)
 
