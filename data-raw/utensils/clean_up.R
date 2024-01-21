@@ -87,5 +87,6 @@ utensil_data <- utensil_data %>%
 
 utensils <- utensil_data
 save(utensils, file = "data/utensils.rda")
-
+load("data/utensils.rda")
+write.csv(utensils, "data-raw/utensils/utensils.csv", row.names = F)
 

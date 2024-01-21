@@ -1,0 +1,101 @@
+"Plant Name, Unit Number",NRC Region,Type,Architect-Engineer,Construction Permit Issued,Commercial Operation Start,Licensed Megawatts,Capacity Factor 2014
+"Arkansas Nuclear One, Unit 1",W,PWR,BECH,1968,1974,2568,0.98
+"Arkansas Nuclear One, Unit 2",W,PWR,BECH,1972,1980,3026,0.85
+"Beaver Valley Power Station, Unit 1",NE,PWR,S&W,1970,1976,2900,0.86
+"Beaver Valley Power Station, Unit 2",NE,PWR,S&W,1974,1987,2900,0.98
+"Braidwood Station, Unit 1",NC,PWR,S&L,1975,1988,3645,1.03
+"Braidwood Station, Unit 2",NC,PWR,S&L,1975,1988,3645,0.96
+"Browns Ferry Nuclear Plant, Unit 1",SE,BWR,TVA,1967,1974,3458,0.9
+"Browns Ferry Nuclear Plant, Unit 2",SE,BWR,TVA,1967,1975,3458,0.98
+"Browns Ferry Nuclear Plant, Unit 3",SE,BWR,TVA,1968,1977,3458,0.88
+"Brunswick Steam Electric Plant, Unit 1",SE,BWR,UE&C,1970,1977,2923,0.89
+"Brunswick Steam Electric Plant, Unit 2",SE,BWR,UE&C,1970,1975,2923,0.98
+"Byron Station, Unit 1",NC,PWR,S&L,1975,1985,3645,0.97
+"Byron Station, Unit 2",NC,PWR,S&L,1975,1987,3645,0.94
+Callaway Plant,W,PWR,BECH,1976,1984,3565,0.89
+"Calvert Cliffs Nuclear Power Plant, Unit 1",NE,PWR,BECH,1969,1975,2737,0.91
+"Calvert Cliffs Nuclear Power Plant, Unit 2",NE,PWR,BECH,1969,1977,2737,1
+"Catawba Nuclear Station, Unit 1",SE,PWR,DUKE,1975,1985,3411,0.86
+"Catawba Nuclear Station, Unit 2",SE,PWR,DUKE,1975,1986,3411,1
+"Clinton Power Station, Unit 1",NC,BWR,S&L,1976,1987,3473,0.97
+Columbia Generating Station,W,BWR,B&R,1973,1984,3486,0.98
+"Comanche Peak Nuclear Power Plant, Unit 1",W,PWR,G&H,1974,1990,3612,0.85
+"Comanche Peak Nuclear Power Plant, Unit 2",W,PWR,BECH,1974,1993,3612,0.93
+Cooper Nuclear Station ,W,BWR,B&R,1968,1974,2419,0.88
+"Davis-Besse Nuclear Power Station, Unit 1",NC,PWR,BECH,1971,1978,2817,0.74
+"Diablo Canyon Nuclear Power Plant, Unit 1",W,PWR,PG&E,1968,1985,3411,0.87
+"Diablo Canyon Nuclear Power Plant, Unit 2",W,PWR,PG&E,1970,1986,3411,0.86
+"Donald C. Cook Nuclear Plant, Unit 1",NC,PWR,AEP,1969,1975,3304,0.94
+"Donald C. Cook Nuclear Plant, Unit 2",NC,PWR,AEP,1969,1978,3468,1.01
+"Dresden Nuclear Power Station, Unit 2",NC,BWR,S&L,1966,1970,2957,0.98
+"Dresden Nuclear Power Station, Unit 3",NC,BWR,S&L,1966,1971,2957,0.95
+Duane Arnold Energy Center,NC,BWR,BECH,1970,1975,1912,0.79
+"Edwin I. Hatch Nuclear Plant, Unit 1",SE,BWR,BECH,1969,1975,2804,0.89
+"Edwin I. Hatch Nuclear Plant, Unit 2",SE,BWR,BECH,1972,1979,2804,0.99
+"Fermi, Unit 2",NC,BWR,S&L,1972,1988,3486,0.82
+"Fort Calhoun Station, Unit 1",W,PWR,GHDR,1968,1973,1500,1
+"Grand Gulf Nuclear Station, Unit 1",W,BWR,BECH,1974,1985,4408,0.82
+"H. B. Robinson Steam Electric Plant, Unit 2",SE,PWR,EBSO,1967,1971,2339,0.86
+"Hope Creek Generating Station, Unit 1",NE,BWR,BECH,1974,1986,3840,1.02
+"Indian Point Nuclear Generating, Unit 2",NE,PWR,UE&C,1966,1974,3216,0.93
+"Indian Point Nuclear Generating, Unit 3",NE,PWR,UE&C,1969,1976,3216,0.98
+James A. FitzPatrick Nuclear Power Plant,NE,BWR,S&W,1970,1975,2536,0.79
+"Joseph M. Farley Nuclear Plant, Unit 1",SE,PWR,SSI,1972,1977,2775,1.02
+"Joseph M. Farley Nuclear Plant, Unit 2",SE,PWR,SSI,1972,1981,2775,0.89
+"LaSalle County Station, Unit  1",NC,BWR,S&L,1973,1984,3546,0.93
+"LaSalle County Station, Unit  2",NC,BWR,S&L,1973,1984,3546,0.95
+"Limerick Generating Station, Unit 1",NE,BWR,BECH,1974,1986,3515,0.91
+"Limerick Generating Station, Unit 2",NE,BWR,BECH,1974,1990,3515,0.99
+"McGuire Nuclear Station, Unit 1",SE,PWR,DUKE,1973,1981,3411,0.82
+"McGuire Nuclear Station, Unit 2",SE,PWR,DUKE,1973,1984,3411,0.94
+"Millstone Power Station, Unit 2",NE,PWR,BECH,1970,1975,2700,0.85
+"Millstone Power Station, Unit 3",NE,PWR,S&W,1974,1986,3650,0.87
+"Monticello Nuclear Generating Plant, Unit 1",NC,BWR,BECH,1967,1971,2004,0.78
+"Nine Mile Point Nuclear Station, Unit 1",NE,BWR,NIAG,1965,1969,1850,0.98
+"Nine Mile Point Nuclear Station, Unit 2",NE,BWR,S&W,1974,1988,3988,0.87
+"North Anna Power Station, Unit 1",SE,PWR,S&W,1971,1978,2940,1
+"North Anna Power Station, Unit 2",SE,PWR,S&W,1971,1980,2940,0.92
+"Oconee Nuclear Station, Unit 1",SE,PWR,DBDB,1967,1973,2568,0.91
+"Oconee Nuclear Station, Unit 2",SE,PWR,DBDB,1967,1974,2568,1.01
+"Oconee Nuclear Station, Unit 3",SE,PWR,DBDB,1967,1974,2568,0.92
+Oyster Creek Nuclear Generating Station,NE,BWR,B&R,1964,1969,1930,0.9
+Palisades Nuclear Plant,NC,PWR,BECH,1967,1971,2565.4,0.86
+"Palo Verde Nuclear Generating Station, Unit 1",W,PWR,BECH,1976,1986,3990,0.9
+"Palo Verde Nuclear Generating Station, Unit 2",W,PWR,BECH,1976,1986,3990,0.9
+"Palo Verde Nuclear Generating Station, Unit 3",W,PWR,BECH,1976,1988,3990,1.01
+"Peach Bottom Atomic Power Station, Unit 2",NE,BWR,BECH,1968,1974,3514,0.88
+"Peach Bottom Atomic Power Station, Unit 3",NE,BWR,BECH,1968,1974,3514,1.03
+"Perry Nuclear Power Plant, Unit 1",NC,BWR,GIL,1977,1987,3758,0.96
+Pilgrim Nuclear Power Station,NE,BWR,BECH,1968,1972,2028,0.97
+"Point Beach Nuclear Plant, Unit 1",NC,PWR,BECH,1967,1970,1800,0.9
+"Point Beach Nuclear Plant, Unit 2",NC,PWR,BECH,1968,1972,1800,0.9
+"Prairie Island Nuclear Generating Plant, Unit 1",NC,PWR,FLUR,1968,1973,1677,0.84
+"Prairie Island Nuclear Generating Plant, Unit 2",NC,PWR,FLUR,1968,1974,1677,1.01
+"Quad Cities Nuclear Power Station, Unit 1",NC,BWR,S&L,1967,1973,2957,1.03
+"Quad Cities Nuclear Power Station, Unit 2",NC,BWR,S&L,1967,1973,2957,0.9
+R.E. Ginna Nuclear Power Plant,NE,PWR,GIL,1966,1970,1775,0.91
+"River Bend Station, Unit 1",W,BWR,S&W,1977,1986,3091,0.96
+"St. Lucie Plant, Unit 1",SE,PWR,EBSO,1970,1976,3020,1.01
+"St. Lucie Plant, Unit 2",SE,PWR,EBSO,1977,1983,3020,0.82
+"Salem Nuclear Generating Station, Unit 1",NE,PWR,PSEG,1968,1977,3459,0.86
+"Salem Nuclear Generating Station, Unit 2",NE,PWR,PSEG,1968,1981,3459,0.73
+"Seabrook Station, Unit 1",NE,PWR,UE&C,1976,1990,3648,0.93
+"Sequoyah Nuclear Plant, Unit 1",SE,PWR,TVA,1970,1981,3455,1
+"Sequoyah Nuclear Plant, Unit 2",SE,PWR,TVA,1970,1982,3455,0.9
+"Shearon Harris Nuclear Power Plant, Unit 1",SE,PWR,EBSO,1978,1987,2900,0.99
+"South Texas Project, Unit 1",W,PWR,BECH,1975,1988,3853,0.81
+"South Texas Project, Unit 2",W,PWR,BECH,1975,1989,3853,1.03
+"Surry Power Station, Unit 1",SE,PWR,S&W,1968,1972,2587,0.99
+"Surry Power Station, Unit 2",SE,PWR,S&W,1968,1973,2587,0.95
+"Susquehanna Steam Electric Station, Unit 1",NE,BWR,BECH,1973,1983,3952,0.83
+"Susquehanna Steam Electric Station, Unit 2",NE,BWR,BECH,1973,1985,3952,0.88
+"Three Mile Island Nuclear Station, Unit 1",NE,PWR,GIL,1968,1974,2568,1.04
+Turkey Point Nuclear Generating Unit No. 3,SE,PWR,BECH,1967,1972,2644,0.84
+Turkey Point Nuclear Generating Unit No. 4,SE,PWR,BECH,1967,1973,2644,0.88
+"Virgil C. Summer Nuclear Station, Unit 1",SE,PWR,GIL,1973,1984,2900,0.81
+"Vogtle Electric Generating Plant, Unit 1",SE,PWR,SBEC,1974,1987,3625.6,0.87
+"Vogtle Electric Generating Plant, Unit 2",SE,PWR,SBEC,1974,1989,3625.6,0.92
+"Waterford Steam Electric Station, Unit 3",W,PWR,EBSO,1974,1985,3716,0.9
+"Watts Bar Nuclear Plant, Unit 1",SE,PWR,TVA,1973,1996,3459,0.89
+"Watts Bar Nuclear Plant, Unit 2",SE,PWR,TVA,1973,,3411,
+"Wolf Creek Generating Station, Unit 1",W,PWR,BECH,1977,1985,3565,0.83
