@@ -30,3 +30,14 @@ mcd <- mod_df(mcd)
 
 three_stocks <- bind_rows(aapl, wmt, mcd)
 write.csv(three_stocks, "data-raw/apple/three_stocks.csv", row.names = F)
+
+hist(three_stocks$percent_change)
+hist(three_stocks$percent_change[three_stocks$symbol == "WMT"])
+
+three_stocks %>%
+  group_by(symbol) %>%
+  summarize(skew = e1071::skewness(percent_change, na.rm = T),
+            sd = sd(percent_change, na.rm = T),
+            med = median(percent_change, na.rm = T),
+            mean = mean(percent_change, na.rm = T))
+
