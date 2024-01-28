@@ -1,6 +1,8 @@
 
+# https://bechdeltest.com/
 aa <- jsonlite::fromJSON(here::here("data-raw/bechdel/bechdel-raw.tex"))
 
+# https://ivanmillanes.netlify.app/post/2020-05-27-movie-dataset-with-r/
 bb <- readr::read_rds(here::here("data-raw/bechdel/movies.rds"))
 bb$imdbid <- bb$tconst
 bb <- bb %>%
