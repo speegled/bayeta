@@ -1,4 +1,1291 @@
 "imdbid","year","rating","title","originalTitle","isAdult","startYear","runtimeMinutes","genres","averageRating","metascore","country","budget","open_usa","gross_usa","gross_world","won_oscar","oscars_won","nominated_oscar","oscars_nominations"
+"0065421",1970,"ok","The Aristocats","The AristoCats",FALSE,1970,78,"Adventure,Animation,Comedy",7.1,66,"USA",4e+06,3168071,35452658,35459543,0,0,0,0
+"0065134",1970,"ok","Two Mules for Sister Sara","Two Mules for Sister Sara",FALSE,1970,116,"Adventure,Romance,War",7,62,"USA;Mexico",2500000,NA,5050000,5050000,0,0,0,0
+"0066011",1970,"no_talk","Love Story","Love Story",FALSE,1970,100,"Drama,Romance",6.9,84,"USA",2200000,87198,106550690,106550690,1,1,0,0
+"0065488",1970,"no_women","The Boys in the Band","The Boys in the Band",FALSE,1970,118,"Drama",7.6,NA,"USA",5500000,NA,2695,2695,0,0,0,0
+"0065377",1970,"ok","Airport","Airport",FALSE,1970,137,"Action,Drama,Thriller",6.6,42,"USA",1e+07,NA,100489151,100489151,1,1,0,0
+"0065571",1970,"ok","The Conformist","Il conformista",FALSE,1970,113,"Drama",8,100,"Italy;France;WestGermany",750000,NA,58657,400747,0,0,1,1
+"0065988",1970,"no_talk","Little Big Man","Little Big Man",FALSE,1970,139,"Adventure,Comedy,Drama",7.6,63,"USA",1.5e+07,NA,31559552,31559552,0,0,1,1
+"0067961",1970,"ok","Wanda","Wanda",FALSE,1970,102,"Crime,Drama",7.1,NA,"USA",115000,10679,51713,108522,0,0,0,0
+"0066206",1970,"no_talk","Patton","Patton",FALSE,1970,172,"Biography,Drama,War",7.9,91,"USA",1.2e+07,NA,61749765,61749765,1,7,0,0
+"0067866",1970,"about_men","El Topo","El Topo",FALSE,1970,125,"Drama,Western",7.5,NA,"Mexico",1e+06,6857,80302,160468,0,0,0,0
+"0067992",1971,"about_men","Willy Wonka & the Chocolate Factory","Willy Wonka & the Chocolate Factory",FALSE,1971,100,"Family,Fantasy,Musical",7.8,67,"USA;EastGermany;WestGermany;Belgium",3e+06,526633,526633,526633,0,0,1,1
+"0066434",1971,"no_women","THX 1138","THX 1138",FALSE,1971,86,"Drama,Sci-Fi,Thriller",6.7,75,"USA",777000,NA,2437000,2437000,0,0,0,0
+"0066921",1971,"no_talk","A Clockwork Orange","A Clockwork Orange",FALSE,1971,136,"Crime,Drama,Sci-Fi",8.3,80,"UK;USA",2200000,NA,26589355,26903440,0,0,1,4
+"0067328",1971,"about_men","The Last Picture Show","The Last Picture Show",FALSE,1971,118,"Drama,Romance",8,93,"USA",1300000,NA,29133000,29146131,1,2,0,0
+"0067065",1971,"no_talk","Escape from the Planet of the Apes","Escape from the Planet of the Apes",FALSE,1971,98,"Action,Sci-Fi",6.3,69,"USA",2500000,NA,12348905,12348905,0,0,0,0
+"0067588",1971,"ok","Play Misty for Me","Play Misty for Me",FALSE,1971,102,"Drama,Thriller",7,78,"USA",725000,NA,10600000,10600000,0,0,0,0
+"0067116",1971,"no_talk","The French Connection","The French Connection",FALSE,1971,104,"Action,Crime,Drama",7.7,94,"USA",1800000,NA,51700000,51700000,1,5,0,0
+"0066995",1971,"no_talk","Diamonds Are Forever","Diamonds Are Forever",FALSE,1971,120,"Action,Adventure,Thriller",6.6,59,"UK",7200000,NA,43819547,43819547,0,0,1,1
+"0067927",1971,"no_women","Vanishing Point","Vanishing Point",FALSE,1971,99,"Action,Crime,Thriller",7.2,61,"USA",1585000,NA,12442673,12442673,0,0,0,0
+"0068646",1972,"about_men","The Godfather","The Godfather",FALSE,1972,175,"Crime,Drama",9.2,100,"USA",6e+06,302393,134966411,246120974,1,3,0,0
+"0069495",1972,"about_men","What's Up, Doc?","What's Up, Doc?",FALSE,1972,94,"Comedy",7.7,NA,"USA",4e+06,NA,6.6e+07,6.6e+07,0,0,0,0
+"0070849",1972,"ok","Last Tango in Paris","Ultimo tango a Parigi",FALSE,1972,129,"Drama,Romance",7,77,"France;Italy",1250000,NA,36144000,36179290,0,0,1,2
+"0069113",1972,"no_talk","The Poseidon Adventure","The Poseidon Adventure",FALSE,1972,117,"Action,Adventure,Drama",7.1,70,"USA",5e+06,264850,84563118,84563118,1,1,0,0
+"0070047",1973,"ok","The Exorcist","The Exorcist",FALSE,1973,122,"Horror",8,81,"USA",1.1e+07,8175666,232906145,441306145,1,2,0,0
+"0070917",1973,"ok","The Wicker Man","The Wicker Man",FALSE,1973,88,"Horror,Mystery,Thriller",7.5,87,"UK",810000,5493,60891,98201,0,0,0,0
+"0070735",1973,"no_talk","The Sting","The Sting",FALSE,1973,129,"Comedy,Crime,Drama",8.3,83,"USA",5500000,NA,1.56e+08,1.56e+08,1,7,0,0
+"0070707",1973,"no_talk","Sleeper","Sleeper",FALSE,1973,89,"Comedy,Sci-Fi",7.2,77,"USA",2e+06,NA,18344729,18344729,0,0,0,0
+"0070666",1973,"no_talk","Serpico","Serpico",FALSE,1973,130,"Biography,Crime,Drama",7.7,87,"Italy;USA",3e+06,NA,29800000,29829963,0,0,1,2
+"0071615",1973,"no_talk","The Holy Mountain","La montaña sagrada",FALSE,1973,114,"Adventure,Drama,Fantasy",7.9,NA,"Mexico",750000,4143,61001,104160,0,0,0,0
+"0070511",1973,"no_women","Papillon","Papillon",FALSE,1973,151,"Biography,Crime,Drama",8,58,"France;USA",1.2e+07,NA,53267000,53267000,0,0,1,1
+"0069704",1973,"about_men","American Graffiti","American Graffiti",FALSE,1973,110,"Comedy,Drama",7.4,97,"USA",777000,NA,1.15e+08,1.15e+08,0,0,1,5
+"0068699",1973,"no_talk","High Plains Drifter","High Plains Drifter",FALSE,1973,105,"Drama,Mystery,Western",7.5,69,"USA",5500000,NA,15700000,15706540,0,0,0,0
+"0070379",1973,"no_talk","Mean Streets","Mean Streets",FALSE,1973,112,"Crime,Drama,Thriller",7.3,96,"USA",5e+05,32645,32645,41131,0,0,0,0
+"0070328",1973,"no_talk","Live and Let Die","Live and Let Die",FALSE,1973,121,"Action,Adventure,Thriller",6.8,55,"UK",7e+06,NA,35377836,35377836,0,0,1,1
+"0071230",1974,"no_talk","Blazing Saddles","Blazing Saddles",FALSE,1974,93,"Comedy,Western",7.7,73,"USA",2600000,NA,119601481,119601481,0,0,1,3
+"0072431",1974,"about_men","Young Frankenstein","Young Frankenstein",FALSE,1974,106,"Comedy",8,80,"USA",2800000,NA,86273333,86273333,0,0,1,2
+"0071115",1974,"ok","Alice Doesn't Live Here Anymore","Alice Doesn't Live Here Anymore",FALSE,1974,112,"Drama,Romance",7.3,78,"USA",1800000,NA,18600000,18600000,1,1,0,0
+"0071315",1974,"about_men","Chinatown","Chinatown",FALSE,1974,130,"Drama,Mystery,Thriller",8.2,92,"USA",6e+06,NA,29200000,29225935,1,1,0,0
+"0072271",1974,"no_talk","The Texas Chain Saw Massacre","The Texas Chain Saw Massacre",FALSE,1974,83,"Horror",7.5,75,"USA",3e+05,NA,30859000,30859000,0,0,0,0
+"0071562",1974,"about_men","The Godfather: Part II","The Godfather: Part II",FALSE,1974,202,"Crime,Drama",9,90,"USA",1.3e+07,171417,47834595,48035783,1,6,0,0
+"0071360",1974,"no_talk","The Conversation","The Conversation",FALSE,1974,113,"Drama,Mystery,Thriller",7.8,85,"USA",1600000,NA,4420000,4432180,0,0,1,3
+"0072308",1974,"no_talk","The Towering Inferno","The Towering Inferno",FALSE,1974,165,"Action,Drama,Thriller",7,69,"USA",1.4e+07,NA,1.16e+08,1.16e+08,1,3,0,0
+"0071807",1974,"no_talk","The Man with the Golden Gun","The Man with the Golden Gun",FALSE,1974,125,"Action,Adventure,Thriller",6.8,43,"UK",7e+06,NA,20972000,20972000,0,0,0,0
+"0071402",1974,"ok","Death Wish","Death Wish",FALSE,1974,93,"Action,Crime,Drama",7,51,"USA;Canada",3e+06,NA,2.2e+07,2.2e+07,0,0,0,0
+"0072226",1974,"about_men","The Sugarland Express","The Sugarland Express",FALSE,1974,110,"Crime,Drama",6.8,65,"USA",3e+06,NA,7500000,7504841,0,0,0,0
+"0073802",1975,"no_talk","Three Days of the Condor","Three Days of the Condor",FALSE,1975,117,"Mystery,Thriller",7.4,63,"USA",2e+07,NA,27476252,27476252,0,0,1,1
+"0073812",1975,"no_talk","Tommy","Tommy",FALSE,1975,111,"Drama,Musical",6.6,66,"UK",5e+06,NA,34251525,34272986,0,0,1,2
+"0073486",1975,"about_men","One Flew Over the Cuckoo's Nest","One Flew Over the Cuckoo's Nest",FALSE,1975,133,"Drama",8.7,83,"USA",3e+06,NA,108981275,108997629,1,5,0,0
+"0073629",1975,"ok","The Rocky Horror Picture Show","The Rocky Horror Picture Show",FALSE,1975,100,"Comedy,Musical",7.4,58,"UK;USA",1200000,NA,112892319,113105321,0,0,0,0
+"0073195",1975,"ok","Jaws","Jaws",FALSE,1975,124,"Adventure,Thriller",8,87,"USA",7e+06,7061513,2.6e+08,471203004,1,3,0,0
+"0072890",1975,"ok","Dog Day Afternoon","Dog Day Afternoon",FALSE,1975,125,"Biography,Crime,Drama",8,86,"USA",1800000,NA,5e+07,5e+07,1,1,0,0
+"0073440",1975,"ok","Nashville","Nashville",FALSE,1975,160,"Comedy,Drama,Music",7.7,96,"USA",2200000,NA,9984123,9984123,1,1,0,0
+"0073778",1975,"ok","Maggie's Stiletto Sisters","The Jezebels",FALSE,1975,91,"Action,Crime,Drama",6.6,NA,"USA",320000,14532,51264,51264,0,0,0,0
+"0073312",1975,"ok","Love and Death","Love and Death",FALSE,1975,85,"Comedy,War",7.7,89,"USA",3e+06,NA,20123742,20123742,0,0,0,0
+"0074285",1976,"ok","Carrie","Carrie",FALSE,1976,98,"Horror",7.4,85,"USA",1800000,NA,33800000,33800000,0,0,1,2
+"0075029",1976,"about_men","The Outlaw Josey Wales","The Outlaw Josey Wales",FALSE,1976,135,"Western",7.8,69,"USA",3700000,NA,31800000,31800000,0,0,1,1
+"0075005",1976,"ok","The Omen","The Omen",FALSE,1976,111,"Horror",7.5,62,"UK;USA",2800000,4273886,60922980,60922980,1,1,0,0
+"0074958",1976,"ok","Network","Network",FALSE,1976,121,"Drama",8.1,83,"USA",3800000,NA,23689877,23690757,1,4,0,0
+"0075314",1976,"no_talk","Taxi Driver","Taxi Driver",FALSE,1976,114,"Crime,Drama",8.3,94,"USA",1300000,116458,28262574,28441292,0,0,1,4
+"0075148",1976,"no_talk","Rocky","Rocky",FALSE,1976,120,"Drama,Sport",8.1,70,"USA",960000,NA,117235147,117235147,1,3,0,0
+"0075222",1976,"no_talk","Silent Movie","Silent Movie",FALSE,1976,87,"Comedy",6.7,75,"USA",4400000,NA,36145695,36145695,0,0,0,0
+"0074860",1976,"no_talk","Marathon Man","Marathon Man",FALSE,1976,125,"Crime,Thriller",7.5,64,"USA",6500000,NA,21709020,21709020,0,0,1,1
+"0075265",1976,"no_women","A Star Is Born","A Star Is Born",FALSE,1976,139,"Drama,Music,Romance",6.2,59,"USA",6e+06,NA,8e+07,8e+07,1,1,0,0
+"0075223",1976,"no_talk","Silver Streak","Silver Streak",FALSE,1976,114,"Action,Comedy,Crime",6.9,41,"USA",6500000,NA,51079064,51079064,0,0,1,1
+"0074119",1976,"no_talk","All the President's Men","All the President's Men",FALSE,1976,138,"Biography,Drama,History",8,84,"USA",8500000,NA,70600000,70600000,1,4,0,0
+"0076759",1977,"no_talk","Star Wars: Episode IV - A New Hope","Star Wars",FALSE,1977,121,"Action,Adventure,Fantasy",8.6,90,"USA",1.1e+07,1554475,460998507,775512064,1,6,0,0
+"0076245",1977,"ok","Julia","Julia",FALSE,1977,117,"Drama",7.2,58,"USA",7840000,NA,20714400,20714400,1,3,0,0
+"0076666",1977,"no_talk","Saturday Night Fever","Saturday Night Fever",FALSE,1977,118,"Drama,Music",6.8,77,"USA",3e+06,3878099,94213184,237113184,0,0,1,1
+"0076618",1977,"ok","The Rescuers","The Rescuers",FALSE,1977,78,"Adventure,Animation,Comedy",6.9,74,"USA",7500000,2111582,71215869,71215869,0,0,1,1
+"0075686",1977,"ok","Annie Hall","Annie Hall",FALSE,1977,93,"Comedy,Romance",8,92,"USA",4e+06,NA,38251425,38287178,1,4,0,0
+"0075784",1977,"no_talk","A Bridge Too Far","A Bridge Too Far",FALSE,1977,175,"Drama,History,War",7.4,NA,"USA",2.7e+07,NA,50750000,50750000,0,0,0,0
+"0075860",1977,"no_talk","Close Encounters of the Third Kind","Close Encounters of the Third Kind",FALSE,1977,138,"Drama,Sci-Fi",7.6,90,"USA",2e+07,1767758,135189114,306898466,1,1,0,0
+"0076141",1977,"no_talk","High Anxiety","High Anxiety",FALSE,1977,94,"Comedy,Mystery,Thriller",6.7,55,"USA",4015000,NA,31063038,31063038,0,0,0,0
+"0076752",1977,"no_talk","The Spy Who Loved Me","The Spy Who Loved Me",FALSE,1977,125,"Action,Adventure,Thriller",7.1,55,"UK",1.4e+07,NA,46838673,46838673,0,0,1,3
+"0076538",1977,"about_men","Pete's Dragon","Pete's Dragon",FALSE,1977,128,"Adventure,Animation,Comedy",6.4,46,"USA",1e+07,NA,39588000,39588000,0,0,1,2
+"0076175",1977,"no_women","March or Die","March or Die",FALSE,1977,107,"Adventure,Drama,Romance",6.3,NA,"UK",9e+06,NA,1e+06,1e+06,0,0,0,0
+"0077405",1978,"ok","Days of Heaven","Days of Heaven",FALSE,1978,94,"Drama,Romance",7.8,93,"USA",3e+06,NA,3446749,3475702,1,1,0,0
+"0077975",1978,"about_men","National Lampoon's Animal House","National Lampoon's Animal House",FALSE,1978,109,"Comedy",7.5,79,"USA",3e+06,276538,141600000,141600000,0,0,0,0
+"0077631",1978,"ok","Grease","Grease",FALSE,1978,110,"Musical,Romance",7.2,70,"USA",6e+06,8941717,189969103,396961563,0,0,1,1
+"0077394",1978,"about_men","Damien: Omen II","Damien: Omen II",FALSE,1978,107,"Drama,Horror",6.3,45,"UK;USA",6800000,3880880,26518355,26518355,0,0,0,0
+"0077742",1978,"ok","Interiors","Interiors",FALSE,1978,92,"Drama",7.4,67,"USA",1e+07,NA,10432366,10432366,0,0,1,5
+"0078346",1978,"no_talk","Superman","Superman",FALSE,1978,143,"Action,Adventure,Drama",7.3,80,"USA;UK;Canada;Switzerland",5.5e+07,7465343,134451603,300451603,0,0,1,3
+"0077416",1978,"no_talk","The Deer Hunter","The Deer Hunter",FALSE,1978,183,"Drama,War",8.1,86,"USA",1.5e+07,NA,48979328,49074243,1,5,0,0
+"0077651",1978,"ok","Halloween","Halloween",FALSE,1978,91,"Horror,Thriller",7.8,87,"USA",325000,NA,4.7e+07,4.7e+07,0,0,0,0
+"0077413",1978,"ok","Death on the Nile","Death on the Nile",FALSE,1978,140,"Crime,Drama,Mystery",7.3,59,"UK",7920000,NA,14560084,14560084,1,1,0,0
+"0077928",1978,"no_women","Midnight Express","Midnight Express",FALSE,1978,121,"Biography,Crime,Drama",7.6,59,"UK;USA",2300000,NA,3.5e+07,3.5e+07,1,2,0,0
+"0078504",1978,"ok","The Wiz","The Wiz",FALSE,1978,134,"Adventure,Family,Fantasy",5.4,53,"USA",2.4e+07,NA,21049053,21049053,0,0,1,4
+"0077766",1978,"about_men","Jaws 2","Jaws 2",FALSE,1978,116,"Adventure,Horror,Thriller",5.8,51,"USA",2e+07,9866023,81766007,187884007,0,0,0,0
+"0077869",1978,"no_talk","The Lord of the Rings","The Lord of the Rings",FALSE,1978,132,"Adventure,Animation,Fantasy",6.2,NA,"USA;UK;Spain",4e+06,626649,30471420,30471420,0,0,0,0
+"0077275",1978,"no_talk","The Brink's Job","The Brink's Job",FALSE,1978,104,"Comedy,Crime,Drama",6.5,NA,"USA",15500000,NA,7909950,7909950,0,0,1,1
+"0077369",1978,"no_women","Convoy","Convoy",FALSE,1978,110,"Action,Drama",6.4,47,"USA",1.2e+07,NA,22765081,22765081,0,0,0,0
+"0078748",1979,"ok","Alien","Alien",FALSE,1979,117,"Horror,Sci-Fi",8.4,89,"UK;USA",1.1e+07,3527881,81765459,108283202,1,1,0,0
+"0079522",1979,"no_talk","Manhattan","Manhattan",FALSE,1979,96,"Comedy,Drama,Romance",7.9,83,"USA",9e+06,485734,39946780,40278393,0,0,1,2
+"0080120",1979,"no_talk","The Warriors","The Warriors",FALSE,1979,92,"Action,Crime,Thriller",7.6,65,"USA",4e+06,3529675,22490039,22490039,0,0,0,0
+"0079470",1979,"ok","Monty Python's Life of Brian","Life of Brian",FALSE,1979,94,"Comedy",8.1,77,"UK",4e+06,140034,20206622,20738621,0,0,0,0
+"0079180",1979,"no_talk","The Frisco Kid","The Frisco Kid",FALSE,1979,119,"Comedy,Drama,Western",6.4,38,"USA",9e+06,160292,9346177,9346177,0,0,0,0
+"0079945",1979,"no_talk","Star Trek","Star Trek: The Motion Picture",FALSE,1979,132,"Adventure,Mystery,Sci-Fi",6.4,48,"USA",3.5e+07,11926421,82604699,82604699,0,0,1,3
+"0078788",1979,"no_women","Apocalypse Now","Apocalypse Now",FALSE,1979,147,"Drama,Mystery,War",8.4,94,"USA",31500000,118558,83471511,91968688,1,2,0,0
+"0078966",1979,"ok","The China Syndrome","The China Syndrome",FALSE,1979,122,"Drama,Thriller",7.4,81,"USA",6e+06,NA,51718367,51718367,0,0,1,4
+"0079116",1979,"no_women","Escape from Alcatraz","Escape from Alcatraz",FALSE,1979,112,"Biography,Crime,Drama",7.6,76,"USA",8e+06,5306354,4.3e+07,43004381,0,0,0,0
+"0079574",1979,"no_talk","Moonraker","Moonraker",FALSE,1979,126,"Action,Adventure,Sci-Fi",6.3,66,"UK;France",3.4e+07,7108344,70308099,210308099,0,0,1,1
+"0078767",1979,"ok","The Amityville Horror","The Amityville Horror",FALSE,1979,117,"Horror",6.3,28,"USA",4700000,7843467,86432000,86432000,0,0,1,1
+"0079501",1979,"ok","Mad Max","Mad Max",FALSE,1979,88,"Action,Adventure,Sci-Fi",6.9,73,"Australia",3e+05,NA,8750000,8771757,0,0,0,0
+"0079817",1979,"no_talk","Rocky II","Rocky II",FALSE,1979,119,"Drama,Sport",7.3,61,"USA",7e+06,6390537,85182160,85182160,0,0,0,0
+"0079714",1979,"no_talk","Phantasm","Phantasm",FALSE,1979,89,"Horror,Sci-Fi",6.8,72,"USA",3e+05,NA,11988469,11988469,0,0,0,0
+"0078869",1979,"no_women","The Black Hole","The Black Hole",FALSE,1979,98,"Action,Sci-Fi",6,52,"USA",2e+07,NA,35841901,35841901,0,0,1,2
+"0079261",1979,"ok","Hair","Hair",FALSE,1979,121,"Comedy,Drama,Musical",7.6,68,"USA;WestGermany",1.1e+07,NA,15284643,15313606,0,0,0,0
+"0079417",1979,"no_talk","Kramer vs. Kramer","Kramer vs. Kramer",FALSE,1979,105,"Drama",7.8,77,"USA",8e+06,NA,106260000,106260000,1,5,0,0
+"0079826",1979,"no_talk","The Rose","The Rose",FALSE,1979,125,"Drama,Music,Romance",7,67,"USA",8500000,793063,29174648,29174648,0,0,1,4
+"0080455",1980,"no_talk","The Blues Brothers","The Blues Brothers",FALSE,1980,133,"Adventure,Comedy,Crime",7.9,60,"USA",2.7e+07,4858152,57229890,115229890,0,0,0,0
+"0080684",1980,"no_women","Star Wars: Episode V - The Empire Strikes Back","Star Wars: Episode V - The Empire Strikes Back",FALSE,1980,124,"Action,Adventure,Fantasy",8.7,82,"USA",1.8e+07,4910483,290271960,547897454,1,1,0,0
+"0080319",1980,"ok","9 to 5","Nine to Five",FALSE,1980,109,"Comedy",6.8,58,"USA",1e+07,3966832,103290500,103300143,0,0,1,1
+"0080339",1980,"ok","Airplane!","Airplane!",FALSE,1980,88,"Comedy",7.7,78,"USA",3500000,NA,83453539,83453539,0,0,0,0
+"0081505",1980,"about_men","The Shining","The Shining",FALSE,1980,146,"Drama,Horror",8.4,66,"UK;USA",1.9e+07,622337,45332952,46208870,0,0,0,0
+"0081398",1980,"no_talk","Raging Bull","Raging Bull",FALSE,1980,129,"Biography,Drama,Sport",8.2,89,"USA",1.8e+07,128590,23383987,23402117,1,2,0,0
+"0080388",1980,"ok","Atlantic City","Atlantic City, USA",FALSE,1980,104,"Crime,Drama,Romance",7.3,85,"France;Canada",7200000,NA,12729675,12729675,0,0,1,5
+"0081249",1980,"no_talk","The Nude Bomb","The Nude Bomb",FALSE,1980,94,"Comedy,Crime,Mystery",5.2,NA,"USA",1.5e+07,3565066,14662035,14662035,0,0,0,0
+"0080377",1980,"no_talk","Any Which Way You Can","Any Which Way You Can",FALSE,1980,116,"Action,Comedy",6.2,51,"USA",1.5e+07,8024663,70687344,70687344,0,0,0,0
+"0080749",1980,"ok","The Fog","The Fog",FALSE,1980,89,"Horror,Thriller",6.8,55,"USA",1e+06,39565,21448782,21448782,0,0,0,0
+"0081375",1980,"ok","Private Benjamin","Private Benjamin",FALSE,1980,109,"Comedy,War",6.2,59,"USA",1e+07,4739769,69847348,69847348,0,0,1,3
+"0081777",1980,"ok","Xanadu","Xanadu",FALSE,1980,96,"Fantasy,Musical,Romance",5.2,35,"USA",2e+07,1471595,22762571,22762571,0,0,0,0
+"0080569",1980,"no_women","Cruising","Cruising",FALSE,1980,102,"Crime,Drama,Mystery",6.5,43,"WestGermany;USA",1.1e+07,NA,19798718,19814523,0,0,0,0
+"0080745",1980,"ok","Flash Gordon","Flash Gordon",FALSE,1980,111,"Action,Adventure,Sci-Fi",6.5,58,"UK",2e+07,3934030,27107960,27107960,0,0,0,0
+"0081534",1980,"about_men","Somewhere in Time","Somewhere in Time",FALSE,1980,103,"Drama,Fantasy,Romance",7.2,29,"USA",5100000,1203011,9709597,9709597,0,0,1,1
+"0081573",1980,"ok","Superman II","Superman II",FALSE,1980,127,"Action,Adventure,Sci-Fi",6.8,83,"USA;UK;Canada",5.4e+07,14100523,108185706,108185706,0,0,0,0
+"0080761",1980,"ok","Friday the 13th","Friday the 13th",FALSE,1980,95,"Horror,Mystery,Thriller",6.5,22,"USA",550000,5816321,39754601,39754601,0,0,0,0
+"0080453",1980,"no_women","The Blue Lagoon","The Blue Lagoon",FALSE,1980,104,"Adventure,Drama,Romance",5.8,31,"USA",4500000,NA,58853106,58853106,0,0,1,1
+"0081283",1980,"about_men","Ordinary People","Ordinary People",FALSE,1980,124,"Drama",7.7,86,"USA",6e+06,170335,54766923,54766923,1,4,0,0
+"0080736",1980,"no_women","The Final Countdown","The Final Countdown",FALSE,1980,103,"Action,Sci-Fi",6.7,51,"USA",1.2e+07,NA,16647800,16647800,0,0,0,0
+"0081353",1980,"ok","Popeye","Popeye",FALSE,1980,114,"Adventure,Comedy,Family",5.3,64,"USA",2e+07,6310520,49823037,49823037,0,0,0,0
+"0080365",1980,"ok","American Gigolo","American Gigolo",FALSE,1980,117,"Crime,Drama,Mystery",6.2,57,"USA",4800000,3559930,22743674,22743674,0,0,0,0
+"0080979",1980,"no_women","Kagemusha","Kagemusha",FALSE,1980,180,"Drama,History,War",8,84,"Japan;USA",6e+06,NA,4e+06,4017462,0,0,1,2
+"0080487",1980,"about_men","Caddyshack","Caddyshack",FALSE,1980,98,"Comedy,Sport",7.3,48,"USA",6e+06,3142689,39846344,39846344,0,0,0,0
+"0082971",1981,"ok","Indiana Jones and the Raiders of the Lost Ark","Raiders of the Lost Ark",FALSE,1981,115,"Action,Adventure",8.4,85,"USA",1.8e+07,8305823,248159971,390133212,1,4,0,0
+"0082186",1981,"ok","Clash of the Titans","Clash of the Titans",FALSE,1981,118,"Action,Adventure,Family",6.9,59,"UK;USA",1.5e+07,NA,41092328,41092328,0,0,0,0
+"0082406",1981,"about_men","The Fox and the Hound","The Fox and the Hound",FALSE,1981,83,"Adventure,Animation,Drama",7.3,65,"USA",1.2e+07,4819215,63456988,63456988,0,0,0,0
+"0082340",1981,"no_women","Escape from New York","Escape from New York",FALSE,1981,99,"Action,Adventure,Sci-Fi",7.2,76,"USA",6e+06,NA,25244626,25244626,0,0,0,0
+"0082517",1981,"no_talk","History of the World: Part I","History of the World: Part I",FALSE,1981,92,"Comedy,History,Musical",6.9,47,"USA",1.1e+07,4792731,31672907,31672907,0,0,0,0
+"0082484",1981,"no_talk","Quest for Fire","La guerre du feu",FALSE,1981,100,"Adventure,Drama,History",7.3,79,"Canada;France",12500000,NA,20959585,20962615,1,1,0,0
+"0082979",1981,"ok","Reds","Reds",FALSE,1981,195,"Biography,Drama,History",7.3,76,"USA",3.2e+07,2325029,40382659,40382659,1,3,0,0
+"0081633",1981,"no_talk","Time Bandits","Time Bandits",FALSE,1981,116,"Adventure,Comedy,Fantasy",7,79,"UK",5e+06,6507356,42365581,42368025,0,0,0,0
+"0082869",1981,"no_talk","Outland","Outland",FALSE,1981,109,"Action,Crime,Sci-Fi",6.6,48,"UK",1.6e+07,3059638,17374595,17374595,0,0,1,1
+"0082010",1981,"about_men","An American Werewolf in London","An American Werewolf in London",FALSE,1981,97,"Comedy,Horror",7.5,60,"UK;USA",1e+07,3786512,30565292,30565292,1,1,0,0
+"0082509",1981,"no_talk","Heavy Metal","Heavy Metal",FALSE,1981,86,"Adventure,Animation,Fantasy",6.7,51,"Canada",9300000,204660,546545,546545,0,0,0,0
+"0082766",1981,"ok","Mommie Dearest","Mommie Dearest",FALSE,1981,129,"Biography,Drama",6.7,55,"USA",5e+06,NA,19032261,19032261,0,0,0,0
+"0083907",1981,"no_talk","The Evil Dead","The Evil Dead",FALSE,1981,85,"Horror",7.5,71,"USA",350000,NA,2400000,2893091,0,0,0,0
+"0082894",1981,"no_talk","Pennies from Heaven","Pennies from Heaven",FALSE,1981,108,"Drama,Musical,Romance",6.5,64,"USA",2.2e+07,NA,9171289,9171289,0,0,1,3
+"0082418",1981,"about_men","Friday the 13th Part 2","Friday the 13th Part 2",FALSE,1981,87,"Horror,Mystery,Thriller",6.1,26,"USA",1250000,6429784,21722776,21722776,0,0,0,0
+"0082495",1981,"ok","Halloween II","Halloween II",FALSE,1981,92,"Horror",6.5,40,"USA",2500000,7446508,25533818,25533818,0,0,0,0
+"0083131",1981,"about_men","Stripes","Stripes",FALSE,1981,106,"Comedy,War",6.9,68,"USA",1e+07,6130197,85297000,85297000,0,0,0,0
+"0082533",1981,"ok","The Howling","The Howling",FALSE,1981,91,"Horror",6.6,68,"USA",1e+06,NA,17985893,17985893,0,0,0,0
+"0082398",1981,"ok","For Your Eyes Only","For Your Eyes Only",FALSE,1981,127,"Action,Adventure,Thriller",6.8,54,"UK",2.8e+07,6834967,54812802,54812802,0,0,1,1
+"0082158",1981,"no_talk","Chariots of Fire","Chariots of Fire",FALSE,1981,125,"Biography,Drama,Sport",7.2,78,"UK",5500000,68907,58972904,59303359,1,4,0,0
+"0082085",1981,"ok","Blow Out","Blow Out",FALSE,1981,108,"Mystery,Thriller",7.4,86,"USA",1.8e+07,NA,1.2e+07,1.2e+07,0,0,0,0
+"0082288",1981,"no_talk","Dragonslayer","Dragonslayer",FALSE,1981,108,"Action,Adventure,Fantasy",6.7,68,"USA;UK",1.8e+07,2407939,14110013,14110013,0,0,1,2
+"0082307",1981,"ok","The Beyond","...E tu vivrai nel terrore! L'aldilà",FALSE,1981,87,"Horror",6.8,38,"Italy",4e+05,18148,123843,123843,0,0,0,0
+"0082348",1981,"no_talk","Excalibur","Excalibur",FALSE,1981,140,"Adventure,Drama,Fantasy",7.4,56,"USA;UK",1.1e+07,4519706,34967437,34971136,0,0,1,1
+"0083190",1981,"no_women","Thief","Thief",FALSE,1981,123,"Action,Crime,Drama",7.4,78,"USA",5500000,NA,11492915,11492915,0,0,0,0
+"0081974",1981,"ok","Absence of Malice","Absence of Malice",FALSE,1981,116,"Drama,Romance,Thriller",6.9,64,"USA",1.2e+07,97667,40716963,40716963,0,0,1,3
+"0083284",1981,"no_women","Victory","Victory",FALSE,1981,116,"Drama,Sport,War",6.7,57,"UK;USA;Italy",1e+07,NA,10853418,10853418,0,0,0,0
+"0082817",1981,"no_women","Nighthawks","Nighthawks",FALSE,1981,99,"Action,Crime,Thriller",6.4,56,"USA",5e+06,2525360,14905359,19905359,0,0,0,0
+"0083658",1982,"no_talk","Blade Runner","Blade Runner",FALSE,1982,117,"Action,Sci-Fi,Thriller",8.1,84,"USA",2.8e+07,6150002,32868943,41473619,0,0,1,2
+"0082198",1982,"no_talk","Conan the Barbarian","Conan the Barbarian",FALSE,1982,129,"Action,Adventure,Fantasy",6.9,43,"USA;Spain;Mexico",2e+07,9603139,39565475,68851475,0,0,0,0
+"0083564",1982,"ok","Annie","Annie",FALSE,1982,126,"Comedy,Drama,Family",6.6,39,"USA",5e+07,510632,57059003,57059003,0,0,1,2
+"0084726",1982,"ok","Star Trek II: The Wrath of Khan","Star Trek II: The Wrath of Khan",FALSE,1982,113,"Action,Adventure,Sci-Fi",7.7,67,"USA",11200000,14347221,78912963,78912963,0,0,0,0
+"0084827",1982,"no_women","TRON","TRON",FALSE,1982,96,"Action,Adventure,Sci-Fi",6.8,58,"USA",1.7e+07,4761795,3.3e+07,3.3e+07,0,0,1,2
+"0084707",1982,"ok","Sophie's Choice","Sophie's Choice",FALSE,1982,150,"Drama,Romance",7.6,68,"UK;USA",1.2e+07,202131,30036000,30036000,1,1,0,0
+"0083791",1982,"no_talk","The Dark Crystal","The Dark Crystal",FALSE,1982,93,"Adventure,Family,Fantasy",7.2,66,"USA;UK",1.5e+07,4657335,41357492,41373966,0,0,0,0
+"0084649",1982,"ok","The Secret of NIMH","The Secret of NIMH",FALSE,1982,82,"Adventure,Animation,Drama",7.6,76,"USA",7e+06,386530,14665733,14665733,0,0,0,0
+"0084237",1982,"ok","The Last Unicorn","The Last Unicorn",FALSE,1982,92,"Adventure,Animation,Drama",7.5,70,"UK;France;WestGermany;Japan;USA",3500000,2250000,6455330,6455330,0,0,0,0
+"0083866",1982,"ok","E.T. the Extra-Terrestrial","E.T. the Extra-Terrestrial",FALSE,1982,115,"Family,Sci-Fi",7.8,91,"USA",10500000,11835389,435110554,793482178,1,4,0,0
+"0084787",1982,"no_women","The Thing","The Thing",FALSE,1982,109,"Horror,Mystery,Sci-Fi",8.1,57,"USA",1.5e+07,3107897,19629760,19629760,0,0,0,0
+"0085794",1982,"no_talk","The King of Comedy","The King of Comedy",FALSE,1982,109,"Comedy,Crime,Drama",7.8,73,"USA",2e+07,137624,2536242,2536242,0,0,0,0
+"0083929",1982,"about_men","Fast Times at Ridgemont High","Fast Times at Ridgemont High",FALSE,1982,90,"Comedy,Drama",7.2,61,"USA",4500000,2545674,27092880,27092880,0,0,0,0
+"0083745",1982,"ok","Come Back to the 5 & Dime Jimmy Dean, Jimmy Dean","Come Back to the 5 & Dime Jimmy Dean, Jimmy Dean",FALSE,1982,109,"Comedy,Drama",7.2,NA,"USA",850000,NA,840958,840958,0,0,0,0
+"0083722",1982,"ok","Cat People","Cat People",FALSE,1982,118,"Fantasy,Horror,Thriller",6.2,62,"USA",1.8e+07,1617636,7e+06,7e+06,0,0,0,0
+"0084805",1982,"no_talk","Tootsie","Tootsie",FALSE,1982,116,"Comedy,Drama,Romance",7.4,88,"USA",2.1e+07,5540470,177200000,177200000,1,1,0,0
+"0084021",1982,"ok","Grease 2","Grease 2",FALSE,1982,115,"Comedy,Drama,Musical",4.4,52,"USA",13200000,4645411,15171476,15171476,0,0,0,0
+"0083922",1982,"ok","Fanny and Alexander","Fanny och Alexander",FALSE,1982,188,"Drama",8.1,100,"Sweden;France;WestGermany",6e+06,NA,6783304,6795771,1,4,0,0
+"0083944",1982,"no_women","First Blood","First Blood",FALSE,1982,93,"Action,Adventure",7.7,61,"USA",1.5e+07,6642005,47212904,125212904,0,0,0,0
+"0084522",1982,"about_men","Porky's","Porky's",FALSE,1981,94,"Comedy",6.2,40,"Canada;USA",2500000,7623988,111289673,111289673,0,0,0,0
+"0083642",1982,"ok","The Best Little Whorehouse in Texas","The Best Little Whorehouse in Texas",FALSE,1982,114,"Comedy,Musical",6,40,"USA",3.5e+07,11874268,69701637,69701637,0,0,1,1
+"0083833",1982,"no_talk","Diner","Diner",FALSE,1982,110,"Comedy,Drama",7.1,82,"USA",5e+06,NA,14099953,14099953,0,0,1,1
+"0084516",1982,"ok","Poltergeist","Poltergeist",FALSE,1982,114,"Horror,Thriller",7.3,79,"USA",10700000,6896612,77142388,77142388,0,0,1,3
+"0083972",1982,"ok","Friday the 13th Part III","Friday the 13th Part III",FALSE,1982,95,"Horror,Thriller",5.7,30,"USA",2300000,9406522,36690067,36690067,0,0,0,0
+"0083511",1982,"about_men","48 Hrs.","48 Hrs.",FALSE,1982,96,"Action,Comedy,Crime",6.9,71,"USA",1.2e+07,4369868,78868508,78868508,0,0,0,0
+"0084503",1982,"no_women","Pink Floyd: The Wall","Pink Floyd: The Wall",FALSE,1982,95,"Animation,Drama,Fantasy",8,47,"UK",1.2e+07,NA,22244207,22258911,0,0,0,0
+"0084855",1982,"no_talk","The Verdict","The Verdict",FALSE,1982,129,"Drama",7.7,77,"USA",1.6e+07,100982,53977250,53993738,0,0,1,5
+"0084602",1982,"no_women","Rocky III","Rocky III",FALSE,1982,99,"Drama,Sport",6.8,57,"USA;Canada",1.7e+07,12431486,125049125,125049125,0,0,1,1
+"0084434",1982,"ok","An Officer and a Gentleman","An Officer and a Gentleman",FALSE,1982,124,"Drama,Romance",7,75,"USA",7500000,3304679,129795554,129795554,1,2,0,0
+"0082748",1982,"no_talk","Pieces","Mil gritos tiene la noche",FALSE,1982,85,"Horror,Mystery,Thriller",6.2,NA,"Spain;USA;Italy;PuertoRico",3e+05,604510,2032311,2032311,0,0,0,0
+"0084335",1982,"ok","Missing","Missing",FALSE,1982,122,"Biography,Drama,History",7.7,78,"USA;Mexico",9500000,NA,1.4e+07,1.4e+07,1,1,0,0
+"0083908",1982,"ok","Evil Under the Sun","Evil Under the Sun",FALSE,1982,117,"Crime,Drama,Mystery",7.1,61,"UK",1e+07,1690774,6110000,6110000,0,0,0,0
+"0082334",1982,"ok","The Entity","The Entity",FALSE,1982,125,"Drama,Horror",6.7,35,"USA",9e+06,3685654,13277558,13277558,0,0,0,0
+"0083987",1982,"about_men","Gandhi","Gandhi",FALSE,1982,191,"Biography,Drama,History",8,79,"UK;India",2.2e+07,131153,52767889,52767889,1,8,0,0
+"0084917",1982,"ok","The World According to Garp","The World According to Garp",FALSE,1982,136,"Comedy,Drama",7.2,63,"USA",1.7e+07,2902088,29712172,29712172,0,0,1,2
+"0086312",1983,"ok","Silkwood","Silkwood",FALSE,1983,131,"Biography,Drama,History",7.2,64,"USA",1e+07,1218322,35615609,35615609,0,0,1,5
+"0085333",1983,"no_talk","Christine","Christine",FALSE,1983,110,"Horror,Thriller",6.7,57,"USA",9700000,3408904,21017849,21017849,0,0,0,0
+"0086190",1983,"no_talk","Star Wars: Episode VI - Return of the Jedi","Star Wars: Episode VI - Return of the Jedi",FALSE,1983,131,"Action,Adventure,Fantasy",8.3,58,"USA",32500000,23019618,309306177,475347111,0,0,1,4
+"0086465",1983,"no_talk","Trading Places","Trading Places",FALSE,1983,116,"Comedy",7.5,69,"USA",1.5e+07,7348200,90404800,90404800,0,0,1,1
+"0086618",1983,"no_talk","Yellowbeard","Yellowbeard",FALSE,1983,96,"Action,Adventure,Comedy",6,NA,"UK;Mexico",6500000,1564155,4300000,4300000,0,0,0,0
+"0086216",1983,"about_men","Rumble Fish","Rumble Fish",FALSE,1983,94,"Crime,Drama,Romance",7.2,63,"USA",1e+07,18985,2494480,2494480,0,0,0,0
+"0086567",1983,"no_talk","WarGames","WarGames",FALSE,1983,114,"Action,Adventure,Drama",7.1,77,"USA",1.2e+07,6227804,79567667,79567667,0,0,1,3
+"0086541",1983,"about_men","Videodrome","Videodrome",FALSE,1983,87,"Horror,Sci-Fi,Thriller",7.2,60,"Canada",5952000,1194175,2120439,2120439,0,0,0,0
+"0085549",1983,"ok","Flashdance","Flashdance",FALSE,1983,95,"Drama,Music,Romance",6.2,39,"USA",4e+06,4076124,92921203,92921203,1,1,0,0
+"0086393",1983,"ok","Superman III","Superman III",FALSE,1983,125,"Action,Adventure,Comedy",5,44,"UK;USA",3.9e+07,13352357,59950623,59950623,0,0,0,0
+"0086425",1983,"no_talk","Terms of Endearment","Terms of Endearment",FALSE,1983,132,"Comedy,Drama",7.4,79,"USA",8e+06,3498813,108423489,108423489,1,5,0,0
+"0086425",1983,"ok","Terms of Endearment","Terms of Endearment",FALSE,1983,132,"Comedy,Drama",7.4,79,"USA",8e+06,3498813,108423489,108423489,1,5,0,0
+"0085672",1983,"ok","Hercules","Hercules",FALSE,1983,98,"Adventure,Fantasy",4,NA,"Italy;USA",2500000,3473635,10676194,10676194,0,0,0,0
+"0086250",1983,"no_talk","Scarface","Scarface",FALSE,1983,170,"Crime,Drama",8.3,65,"USA",2.5e+07,4597536,45408703,66023329,0,0,0,0
+"0085407",1983,"no_talk","The Dead Zone","The Dead Zone",FALSE,1983,103,"Drama,Horror,Sci-Fi",7.2,69,"USA",1e+07,4556083,20766616,20766616,0,0,0,0
+"0085334",1983,"no_talk","A Christmas Story","A Christmas Story",FALSE,1983,94,"Comedy,Family",7.9,77,"USA;Canada",3300000,2072473,20605209,20618717,0,0,0,0
+"0085811",1983,"no_talk","Krull","Krull",FALSE,1983,116,"Action,Adventure,Fantasy",6.1,45,"UK",4.7e+07,5469415,16916617,16916617,0,0,0,0
+"0086034",1983,"about_men","Octopussy","Octopussy",FALSE,1983,131,"Action,Adventure,Thriller",6.6,63,"UK",27500000,8902564,67893619,67893619,0,0,0,0
+"0085959",1983,"no_talk","The Meaning of Life","The Meaning of Life",FALSE,1983,107,"Comedy,Musical",7.6,NA,"UK",9e+06,1987853,14929552,14949697,0,0,0,0
+"0086066",1983,"about_men","The Outsiders","The Outsiders",FALSE,1983,91,"Crime,Drama",7.1,41,"USA;France",1e+07,5068165,25697647,25697647,0,0,0,0
+"0086619",1983,"ok","Yentl","Yentl",FALSE,1983,133,"Drama,Musical,Romance",6.5,68,"UK;USA",1.2e+07,NA,40218899,40218899,1,1,0,0
+"0085382",1983,"ok","Cujo","Cujo",FALSE,1983,93,"Horror,Thriller",6.1,57,"USA",5e+06,6114899,21156152,21156152,0,0,0,0
+"0086373",1983,"no_talk","Strange Brew","The Adventures of Bob & Doug McKenzie: Strange Brew",FALSE,1983,90,"Comedy,Crime,Sci-Fi",6.7,50,"Canada;USA",4e+06,1913389,8571374,8571374,0,0,0,0
+"0087127",1983,"no_talk","Deathstalker","Deathstalker",FALSE,1983,80,"Adventure,Fantasy",4.6,NA,"USA;Argentina",457000,456700,11919250,11919250,0,0,0,0
+"0086200",1983,"ok","Risky Business","Risky Business",FALSE,1983,99,"Comedy,Crime,Drama",6.8,75,"USA",6200000,4275327,63541777,63541777,0,0,0,0
+"0086510",1983,"no_talk","Under Fire","Under Fire",FALSE,1983,128,"Drama,War",7,NA,"USA;Mexico",9500000,1837768,5696391,5696391,0,0,1,1
+"0087332",1984,"about_men","Ghostbusters","Ghostbusters",FALSE,1984,105,"Action,Comedy,Fantasy",7.8,71,"USA",3e+07,13578151,242582079,295743767,0,0,1,2
+"0087363",1984,"no_talk","Gremlins","Gremlins",FALSE,1984,106,"Comedy,Fantasy,Horror",7.3,70,"USA",1.1e+07,12511634,153083102,153334030,0,0,0,0
+"0087078",1984,"ok","Conan the Destroyer","Conan the Destroyer",FALSE,1984,103,"Action,Adventure,Fantasy",5.9,53,"USA;Mexico",1.8e+07,6958872,31042035,31042035,0,0,0,0
+"0087544",1984,"ok","Nausicaä of the Valley of the Wind","Kaze no tani no Naushika",FALSE,1984,117,"Adventure,Animation,Fantasy",8.1,86,"Japan;USA",1e+06,NA,495770,2340981,0,0,0,0
+"0087928",1984,"ok","Police Academy","Police Academy",FALSE,1984,96,"Comedy",6.7,41,"USA",4500000,8570007,81198894,81198894,0,0,0,0
+"0086879",1984,"ok","Amadeus","Amadeus",FALSE,1984,160,"Biography,Drama,History",8.3,88,"USA;France;Czechoslovakia;Italy",1.8e+07,505276,51973029,52066791,1,8,0,0
+"0087469",1984,"no_women","Indiana Jones and the Temple of Doom","Indiana Jones and the Temple of Doom",FALSE,1984,118,"Action,Adventure",7.6,57,"USA",2.8e+07,25337110,179870271,333107271,1,1,0,0
+"0088170",1984,"no_talk","Star Trek III: The Search for Spock","Star Trek III: The Search for Spock",FALSE,1984,105,"Action,Adventure,Sci-Fi",6.7,56,"USA",1.7e+07,16673295,76471046,76471046,0,0,0,0
+"0088247",1984,"ok","The Terminator","The Terminator",FALSE,1984,107,"Action,Sci-Fi",8,84,"UK;USA",6400000,4020663,38371200,78475971,0,0,0,0
+"0088128",1984,"ok","Sixteen Candles","Sixteen Candles",FALSE,1984,93,"Comedy,Romance",7.1,61,"USA",6500000,4461520,23686027,23686027,0,0,0,0
+"0087538",1984,"ok","The Karate Kid","The Karate Kid",FALSE,1984,126,"Action,Drama,Family",7.2,60,"USA",8e+06,5031753,91077276,91077276,0,0,1,1
+"0087182",1984,"ok","Dune","Dune",FALSE,1984,137,"Action,Adventure,Sci-Fi",6.5,40,"USA;Mexico",4e+07,6025091,30925690,30925690,0,0,1,1
+"0088258",1984,"no_talk","This Is Spinal Tap","This Is Spinal Tap",FALSE,1984,82,"Comedy,Music",7.9,92,"USA",2500000,30835,4736202,4736202,0,0,0,0
+"0086960",1984,"no_women","Beverly Hills Cop","Beverly Hills Cop",FALSE,1984,105,"Action,Comedy,Crime",7.3,66,"USA",1.4e+07,15214805,234760478,316360478,0,0,1,1
+"0088206",1984,"ok","Supergirl","Supergirl",FALSE,1984,124,"Action,Adventure,Fantasy",4.4,42,"UK;USA",3.5e+07,5738249,14296438,14296438,0,0,0,0
+"0088146",1984,"no_women","A Soldier's Story","A Soldier's Story",FALSE,1984,101,"Crime,Drama,Mystery",7.2,66,"USA",6e+06,156383,21821347,21821347,0,0,1,3
+"0087799",1984,"ok","Night of the Comet","Night of the Comet",FALSE,1984,95,"Comedy,Horror,Sci-Fi",6.4,59,"USA",7e+05,3580578,14418922,14418922,0,0,0,0
+"0088161",1984,"no_talk","Splash","Splash",FALSE,1984,111,"Comedy,Fantasy,Romance",6.2,71,"USA",8e+06,6174059,69821334,69821334,0,0,1,1
+"0087781",1984,"no_talk","The Natural","The Natural",FALSE,1984,138,"Drama,Sport",7.5,61,"USA",2.8e+07,5088381,47951979,47951979,0,0,1,4
+"0088323",1984,"no_talk","The NeverEnding Story","Die unendliche Geschichte",FALSE,1984,102,"Adventure,Drama,Family",7.4,46,"WestGermany",2.7e+07,4325823,20158808,20250857,0,0,0,0
+"0087800",1984,"ok","A Nightmare on Elm Street","A Nightmare on Elm Street",FALSE,1984,91,"Horror",7.5,76,"USA",1800000,1271000,25504513,25504513,0,0,0,0
+"0087957",1984,"ok","Purple Rain","Purple Rain",FALSE,1984,111,"Drama,Music,Musical",6.6,55,"USA",7200000,7766201,70261052,70261906,1,1,0,0
+"0087995",1984,"about_men","Repo Man","Repo Man",FALSE,1984,92,"Action,Comedy,Crime",6.9,75,"USA",1500000,95300,129000,129000,0,0,0,0
+"0086837",1984,"no_talk","2010","2010: The Year We Make Contact",FALSE,1984,116,"Adventure,Mystery,Sci-Fi",6.8,53,"USA",2.8e+07,7393361,40400657,40400657,0,0,1,5
+"0087597",1984,"ok","The Last Starfighter","The Last Starfighter",FALSE,1984,101,"Action,Adventure,Sci-Fi",6.8,67,"USA",1.5e+07,6011695,28733290,28733290,0,0,0,0
+"0088286",1984,"no_women","Top Secret!","Top Secret!",FALSE,1984,90,"Comedy,Music",7.2,68,"UK;USA",9e+06,4406205,20458340,20458340,0,0,0,0
+"0087892",1984,"ok","A Passage to India","A Passage to India",FALSE,1984,164,"Adventure,Drama,History",7.3,78,"UK;USA",1.6e+07,84580,27187653,27201244,1,2,0,0
+"0086984",1984,"about_men","Body Double","Body Double",FALSE,1984,114,"Crime,Drama,Mystery",6.8,69,"USA",1e+07,2837978,8801940,8801940,0,0,0,0
+"0087298",1984,"ok","Friday the 13th: The Final Chapter","Friday the 13th: The Final Chapter",FALSE,1984,91,"Horror,Thriller",6,33,"USA",2600000,11183148,32980880,32980880,0,0,0,0
+"0086979",1984,"no_talk","Blood Simple","Blood Simple",FALSE,1984,99,"Crime,Drama,Thriller",7.6,81,"USA",1500000,42971,3851855,4227849,0,0,0,0
+"0088000",1984,"no_talk","Revenge of the Nerds","Revenge of the Nerds",FALSE,1984,90,"Comedy",6.6,44,"USA",8e+06,1513090,40874452,40874452,0,0,0,0
+"0088172",1984,"no_women","Starman","Starman",FALSE,1984,115,"Romance,Sci-Fi",7,70,"USA",2.2e+07,2872022,28744356,28744356,0,0,1,1
+"0087050",1984,"ok","Children of the Corn","Children of the Corn",FALSE,1984,92,"Horror,Thriller",5.7,45,"USA",8e+05,2042821,14568989,14568989,0,0,0,0
+"0086927",1984,"ok","Bachelor Party","Bachelor Party",FALSE,1984,105,"Comedy",6.3,56,"USA",5e+06,4573530,38435947,38435947,0,0,0,0
+"0087507",1984,"ok","Johnny Dangerously","Johnny Dangerously",FALSE,1984,90,"Comedy,Crime",6.5,54,"USA",9e+06,2947746,17124395,17124395,0,0,0,0
+"0087344",1984,"no_women","Godzilla 1985","Godzilla 1985",FALSE,1985,82,"Action,Horror,Sci-Fi",6.2,31,"Japan",2e+06,509502,4116395,4116395,0,0,0,0
+"0088117",1984,"ok","Silent Night, Deadly Night","Silent Night, Deadly Night",FALSE,1984,79,"Horror,Thriller",5.9,31,"USA",1065000,1432800,2491460,2491460,0,0,0,0
+"0087910",1984,"no_talk","The Philadelphia Experiment","The Philadelphia Experiment",FALSE,1984,102,"Adventure,Drama,Romance",6.1,44,"USA",2.1e+07,1877000,8103330,8103330,0,0,0,0
+"0087451",1984,"about_men","The Ice Pirates","The Ice Pirates",FALSE,1984,91,"Action,Adventure,Comedy",5.7,44,"USA",9e+06,4358022,14255801,14255801,0,0,0,0
+"0086896",1984,"ok","Angel","Angel",FALSE,1984,94,"Action,Crime,Thriller",5.7,NA,"USA",3e+06,2214824,17488564,17488564,0,0,0,0
+"0088011",1984,"ok","Romancing the Stone","Romancing the Stone",FALSE,1984,106,"Action,Adventure,Comedy",6.9,63,"Mexico;USA",1e+07,5105741,76572238,86572238,0,0,1,1
+"0087015",1984,"about_men","C.H.U.D.","C.H.U.D.",FALSE,1984,88,"Horror,Sci-Fi",5.6,57,"USA",1250000,1762922,4654423,4654423,0,0,0,0
+"0087075",1984,"ok","The Company of Wolves","The Company of Wolves",FALSE,1984,95,"Drama,Fantasy,Horror",6.7,NA,"UK",2e+06,2234776,4389334,4389334,0,0,0,0
+"0088763",1985,"about_men","Back to the Future","Back to the Future",FALSE,1985,116,"Adventure,Comedy,Sci-Fi",8.5,87,"USA",1.9e+07,11152500,211159762,388355305,1,1,0,0
+"0088847",1985,"ok","The Breakfast Club","The Breakfast Club",FALSE,1985,97,"Comedy,Drama",7.9,66,"USA",1e+06,5107599,45875171,51525171,0,0,0,0
+"0089893",1985,"ok","Red Sonja","Red Sonja",FALSE,1985,89,"Action,Adventure,Fantasy",5.1,35,"USA;Netherlands",17900000,2263553,6948633,6951415,0,0,0,0
+"0090305",1985,"ok","Weird Science","Weird Science",FALSE,1985,94,"Comedy,Romance,Sci-Fi",6.6,46,"USA",7500000,4895421,23834048,38934048,0,0,0,0
+"0089822",1985,"no_talk","Police Academy 2: Their First Assignment","Police Academy 2: Their First Assignment",FALSE,1985,87,"Comedy",5.8,39,"USA",7600000,10675896,55600000,55600000,0,0,0,0
+"0088683",1985,"ok","Agnes of God","Agnes of God",FALSE,1985,98,"Drama,Mystery",6.6,52,"USA;Canada",1e+07,221552,25627836,25627836,0,0,1,3
+"0088846",1985,"ok","Brazil","Brazil",FALSE,1985,132,"Drama,Sci-Fi",7.9,84,"UK;USA",1.5e+07,30099,9929135,9947816,0,0,1,2
+"0088939",1985,"ok","The Color Purple","The Color Purple",FALSE,1985,154,"Drama",7.8,78,"USA",1.5e+07,1710333,98467863,98467863,0,0,1,11
+"0089886",1985,"no_talk","Real Genius","Real Genius",FALSE,1985,108,"Comedy,Romance,Sci-Fi",7,71,"USA",8e+06,2557180,12952019,12952019,0,0,0,0
+"0088930",1985,"ok","Clue","Clue",FALSE,1985,94,"Comedy,Crime,Mystery",7.3,39,"USA",1.5e+07,2014166,14643997,14643997,0,0,0,0
+"0089457",1985,"no_women","Ladyhawke","Ladyhawke",FALSE,1985,121,"Adventure,Comedy,Drama",7,64,"USA;Italy",2e+07,3450536,18432000,18432000,0,0,1,2
+"0091867",1985,"ok","A Room with a View","A Room with a View",FALSE,1985,117,"Drama,Romance",7.3,83,"UK",3e+06,42970,20966644,20966644,1,3,0,0
+"0089017",1985,"ok","Desperately Seeking Susan","Desperately Seeking Susan",FALSE,1985,104,"Comedy,Drama",6,71,"USA",4500000,1526098,27398584,27398584,0,0,0,0
+"0089155",1985,"no_talk","Fletch","Fletch",FALSE,1985,98,"Comedy,Crime,Mystery",6.9,68,"USA",8e+06,7022970,50612888,59612888,0,0,0,0
+"0088814",1985,"ok","The Black Cauldron","The Black Cauldron",FALSE,1985,80,"Action,Adventure,Animation",6.4,59,"USA;UK",4.4e+07,4180110,21288692,21288692,0,0,0,0
+"0089092",1985,"no_women","Enemy Mine","Enemy Mine",FALSE,1985,108,"Action,Adventure,Drama",6.9,59,"USA;WestGermany;UK",4e+07,1594702,12303411,12303411,0,0,0,0
+"0089881",1985,"no_talk","Ran","Ran",FALSE,1985,162,"Action,Drama,War",8.2,96,"Japan;France",11500000,3567,4135750,4160924,1,1,0,0
+"0088944",1985,"no_talk","Commando","Commando",FALSE,1985,90,"Action,Adventure,Thriller",6.7,51,"USA",1e+07,7700015,35100000,57491000,0,0,0,0
+"0089908",1985,"ok","Return to Oz","Return to Oz",FALSE,1985,113,"Adventure,Family,Fantasy",6.7,42,"UK;USA",2.5e+07,2844895,11137801,11137801,0,0,1,1
+"0089218",1985,"ok","The Goonies","The Goonies",FALSE,1985,114,"Adventure,Comedy,Family",7.8,62,"USA",1.9e+07,9105913,62367596,62613569,0,0,0,0
+"0089015",1985,"ok","Desert Hearts","Desert Hearts",FALSE,1985,91,"Drama,Romance",7,67,"USA",1250000,NA,2492088,2492088,0,0,0,0
+"0088915",1985,"ok","A Chorus Line","A Chorus Line",FALSE,1985,113,"Drama,Music,Musical",6.2,46,"USA",2.7e+07,222919,14202899,14202899,0,0,1,3
+"0088993",1985,"no_women","Day of the Dead","Day of the Dead",FALSE,1985,96,"Horror,Thriller",7.2,60,"USA",3500000,1700000,5e+06,5e+06,0,0,0,0
+"0088680",1985,"about_men","After Hours","After Hours",FALSE,1985,97,"Comedy,Crime,Drama",7.7,90,"USA",4500000,45435,10609321,10609321,0,0,0,0
+"0089469",1985,"ok","Legend","Legend",FALSE,1985,94,"Adventure,Fantasy,Romance",6.5,30,"USA",24500000,4261154,15502112,15502112,0,0,1,1
+"0088885",1985,"ok","The Care Bears Movie","The Care Bears Movie",FALSE,1985,77,"Adventure,Animation,Comedy",5.7,NA,"Canada;USA",2e+06,3725001,22934622,22934622,0,0,0,0
+"0089853",1985,"ok","The Purple Rose of Cairo","The Purple Rose of Cairo",FALSE,1985,82,"Comedy,Fantasy,Romance",7.7,75,"USA",1.5e+07,114095,10631333,10631333,0,0,1,1
+"0090103",1985,"ok","The Sure Thing","The Sure Thing",FALSE,1985,100,"Comedy,Drama,Romance",7,76,"USA",4500000,3124782,18135531,18135531,0,0,0,0
+"0089173",1985,"ok","Friday the 13th: A New Beginning","Friday the 13th: A New Beginning",FALSE,1985,92,"Horror,Mystery,Thriller",4.8,16,"USA",2200000,8032883,21930418,21930418,0,0,0,0
+"0089885",1985,"no_women","Re-Animator","Re-Animator",FALSE,1985,104,"Comedy,Horror,Sci-Fi",7.2,73,"USA",9e+05,543728,2023414,2023414,0,0,0,0
+"0090056",1985,"no_talk","Spies Like Us","Spies Like Us",FALSE,1985,102,"Adventure,Comedy",6.4,22,"USA",2.2e+07,8614039,60088980,60088980,0,0,0,0
+"0090329",1985,"ok","Witness","Witness",FALSE,1985,112,"Crime,Drama,Romance",7.4,76,"USA",1.2e+07,4539990,68706993,68706993,1,2,0,0
+"0089175",1985,"about_men","Fright Night","Fright Night",FALSE,1985,106,"Horror,Thriller",7.1,62,"USA",9e+06,6118543,24922237,24922237,0,0,0,0
+"0089686",1985,"ok","A Nightmare on Elm Street 2: Freddy's Revenge","A Nightmare on Elm Street Part 2: Freddy's Revenge",FALSE,1985,87,"Horror",5.5,43,"USA",3e+06,2865475,29999213,29999213,0,0,0,0
+"0089755",1985,"ok","Out of Africa","Out of Africa",FALSE,1985,161,"Biography,Drama,Romance",7.2,69,"USA;UK",3.1e+07,3637290,87071205,227542205,1,7,0,0
+"0090264",1985,"no_talk","A View to a Kill","A View to a Kill",FALSE,1985,131,"Action,Adventure,Thriller",6.4,40,"UK",3e+07,10687114,50327960,50327960,0,0,0,0
+"0089869",1985,"no_women","The Quiet Earth","The Quiet Earth",FALSE,1985,91,"Drama,Mystery,Sci-Fi",6.8,NA,"NewZealand",1e+06,9825,2123135,2123135,0,0,0,0
+"0089880",1985,"no_women","Rambo: First Blood Part II","Rambo: First Blood Part II",FALSE,1985,96,"Action,Adventure,Thriller",6.5,47,"USA;Mexico",4.4e+07,20176217,150415432,300400432,0,0,1,1
+"0089927",1985,"about_men","Rocky IV","Rocky IV",FALSE,1985,91,"Drama,Sport",6.9,40,"USA",3e+07,19991537,127873716,300473716,0,0,0,0
+"0089791",1985,"no_talk","Pee-wee's Big Adventure","Pee-wee's Big Adventure",FALSE,1985,91,"Adventure,Comedy,Family",7,47,"USA",6e+06,4545847,40940662,40940662,0,0,0,0
+"0089461",1985,"ok","The Last Dragon","The Last Dragon",FALSE,1985,109,"Action,Comedy,Drama",6.9,NA,"USA",1e+07,5254359,25754284,25754284,0,0,0,0
+"0089767",1985,"about_men","Pale Rider","Pale Rider",FALSE,1985,115,"Drama,Western",7.3,61,"USA",6900000,9119111,41410568,41410568,0,0,0,0
+"0089730",1985,"ok","Once Bitten","Once Bitten",FALSE,1985,94,"Comedy,Drama,Fantasy",5.5,64,"USA",3200000,4025657,1e+07,1e+07,0,0,0,0
+"0091949",1986,"ok","Short Circuit","Short Circuit",FALSE,1986,98,"Comedy,Family,Sci-Fi",6.7,50,"USA",9e+06,5346808,40697761,40697761,0,0,0,0
+"0091042",1986,"ok","Ferris Bueller's Day Off","Ferris Bueller's Day Off",FALSE,1986,103,"Comedy",7.8,61,"USA",6e+06,6275647,70136369,70136369,0,0,0,0
+"0091369",1986,"ok","Labyrinth","Labyrinth",FALSE,1986,101,"Adventure,Family,Fantasy",7.4,50,"UK;USA",2.5e+07,3549243,13758362,13935204,0,0,0,0
+"0090605",1986,"ok","Aliens","Aliens",FALSE,1986,137,"Action,Adventure,Sci-Fi",8.3,84,"USA;UK",18500000,10052042,85160248,131335326,1,2,0,0
+"0092005",1986,"no_women","Stand by Me","Stand by Me",FALSE,1986,89,"Adventure,Drama",8.1,75,"USA",8e+06,242795,52287414,52287414,0,0,1,1
+"0091167",1986,"ok","Hannah and Her Sisters","Hannah and Her Sisters",FALSE,1986,107,"Comedy,Drama",7.9,90,"USA",6400000,1265826,40084041,40084041,1,3,0,0
+"0091203",1986,"about_men","Highlander","Highlander",FALSE,1986,116,"Action,Adventure,Fantasy",7.1,24,"UK",1.6e+07,2453021,5900000,5900000,0,0,0,0
+"0090848",1986,"ok","The Clan of the Cave Bear","The Clan of the Cave Bear",FALSE,1986,98,"Adventure,Drama,Fantasy",5.4,34,"USA",1.5e+07,25428,1953732,1953732,0,0,1,1
+"0092099",1986,"about_men","Top Gun","Top Gun",FALSE,1986,110,"Action,Drama",6.9,50,"USA",1.5e+07,8193052,179800601,356830601,1,1,0,0
+"0091419",1986,"no_talk","Little Shop of Horrors","Little Shop of Horrors",FALSE,1986,94,"Comedy,Horror,Musical",7,81,"USA",2.5e+07,3659884,38982260,38982260,0,0,1,2
+"0091738",1986,"ok","Peggy Sue Got Married","Peggy Sue Got Married",FALSE,1986,103,"Comedy,Drama,Fantasy",6.3,74,"USA",1.8e+07,6942408,41382841,41488348,0,0,1,3
+"0090728",1986,"ok","Big Trouble in Little China","Big Trouble in Little China",FALSE,1986,99,"Action,Adventure,Comedy",7.3,53,"USA",2.5e+07,2723211,11100000,11100000,0,0,0,0
+"0091541",1986,"about_men","The Money Pit","The Money Pit",FALSE,1986,91,"Comedy",6.4,49,"USA",1e+07,5344555,37499651,54999651,0,0,0,0
+"0090660",1986,"no_talk","Armed and Dangerous","Armed and Dangerous",FALSE,1986,88,"Action,Comedy,Crime",5.7,17,"USA",1.2e+07,4348276,15945534,15945534,0,0,0,0
+"0092007",1986,"ok","Star Trek IV: The Voyage Home","Star Trek IV: The Voyage Home",FALSE,1986,119,"Adventure,Comedy,Sci-Fi",7.3,71,"USA",2.5e+07,16881888,109713132,109713132,0,0,1,4
+"0091993",1986,"ok","SpaceCamp","SpaceCamp",FALSE,1986,107,"Adventure,Family,Sci-Fi",5.7,40,"USA",1.8e+07,2918072,9697739,9697739,0,0,0,0
+"0090756",1986,"no_talk","Blue Velvet","Blue Velvet",FALSE,1986,120,"Drama,Mystery,Thriller",7.8,76,"USA",6e+06,789409,8551228,8617408,0,0,1,1
+"0091064",1986,"about_men","The Fly","The Fly",FALSE,1986,96,"Drama,Horror,Sci-Fi",7.6,79,"USA;UK;Canada",1.5e+07,7007423,40456565,60632088,1,1,0,0
+"0090967",1986,"no_talk","Down by Law","Down by Law",FALSE,1986,107,"Comedy,Crime,Drama",7.8,75,"USA;WestGermany",1100000,NA,1435668,1504286,0,0,0,0
+"0091763",1986,"no_women","Platoon","Platoon",FALSE,1986,120,"Drama,War",8.1,92,"USA;UK",6e+06,241080,138530565,138545632,1,4,0,0
+"0090555",1986,"ok","Crocodile Dundee","'Crocodile' Dundee",FALSE,1986,97,"Action,Adventure,Comedy",6.6,62,"Australia",8800000,8038855,174803506,328203506,0,0,1,1
+"0091149",1986,"no_talk","The Great Mouse Detective","The Great Mouse Detective",FALSE,1986,74,"Adventure,Animation,Family",7.2,73,"USA",1.4e+07,3220225,38625550,38625550,0,0,0,0
+"0092106",1986,"no_women","The Transformers: The Movie","The Transformers: The Movie",FALSE,1986,84,"Action,Adventure,Animation",7.3,NA,"USA;Japan",6e+06,1779559,5849647,5860601,0,0,0,0
+"0091790",1986,"ok","Pretty in Pink","Pretty in Pink",FALSE,1986,97,"Comedy,Drama,Romance",6.8,57,"USA",9e+06,6065870,40471663,40471663,0,0,0,0
+"0091059",1986,"ok","Flight of the Navigator","Flight of the Navigator",FALSE,1986,90,"Adventure,Comedy,Family",6.9,64,"USA",9e+06,3115097,18564613,18564613,0,0,0,0
+"0090685",1986,"no_talk","Back to School","Back to School",FALSE,1986,96,"Comedy,Romance,Sport",6.6,68,"USA",1.1e+07,8881035,91258000,91258000,0,0,0,0
+"0091877",1986,"ok","Ruthless People","Ruthless People",FALSE,1986,93,"Comedy,Crime",6.9,78,"USA",1.3e+07,5274306,71624879,71624879,0,0,0,0
+"0091225",1986,"ok","Howard the Duck","Howard the Duck",FALSE,1986,110,"Action,Adventure,Comedy",4.7,28,"USA",3.7e+07,5070136,16295774,37962774,0,0,0,0
+"0091499",1986,"about_men","Maximum Overdrive","Maximum Overdrive",FALSE,1986,98,"Action,Comedy,Horror",5.5,24,"USA",1e+07,3205644,7433663,7433663,0,0,0,0
+"0089118",1986,"no_talk","F/X","F/X",FALSE,1986,109,"Action,Thriller",6.7,71,"USA",1e+07,3240695,20603715,20603715,0,0,0,0
+"0092086",1986,"about_men","¡Three Amigos!","¡Three Amigos!",FALSE,1986,104,"Comedy,Western",6.5,52,"USA",2.5e+07,5939000,39246734,39246734,0,0,0,0
+"0091474",1986,"no_talk","Manhunter","Manhunter",FALSE,1986,120,"Crime,Horror,Mystery",7.2,75,"USA",1.5e+07,2204400,8620929,8620929,0,0,0,0
+"0090830",1986,"ok","Children of a Lesser God","Children of a Lesser God",FALSE,1986,119,"Drama,Romance",7.2,80,"USA",10500000,1909084,31853080,31853080,1,1,0,0
+"0090655",1986,"ok","April Fool's Day","April Fool's Day",FALSE,1986,89,"Horror,Mystery",6.2,49,"USA;Canada",5e+06,3373779,12947763,12947763,0,0,0,0
+"0091530",1986,"no_women","The Mission","The Mission",FALSE,1986,125,"Adventure,Drama,History",7.4,55,"UK;France",24500000,40366,17218023,17269723,1,1,0,0
+"0091083",1986,"ok","From Beyond","From Beyond",FALSE,1986,85,"Horror,Sci-Fi",6.7,NA,"USA",4500000,514417,1261000,1261000,0,0,0,0
+"0091472",1986,"about_men","The Manhattan Project","The Manhattan Project",FALSE,1986,117,"Sci-Fi,Thriller",6.2,61,"USA",1.8e+07,1503545,3900000,3900000,0,0,0,0
+"0091757",1986,"no_women","Pirates","Pirates",FALSE,1986,121,"Adventure,Comedy,Family",6.2,32,"France;Tunisia",4e+07,1035447,1641825,1641825,0,0,1,1
+"0090887",1986,"about_men","Critters","Critters",FALSE,1986,86,"Comedy,Horror,Sci-Fi",6.1,52,"USA",2e+06,1618800,13167232,13167232,0,0,0,0
+"0091939",1986,"ok","She's Gotta Have It","She's Gotta Have It",FALSE,1986,84,"Comedy,Romance",6.7,79,"USA",175000,28473,7137502,7137502,0,0,0,0
+"0090583",1986,"ok","About Last Night","About Last Night...",FALSE,1986,113,"Comedy,Drama,Romance",6.2,70,"USA",8500000,3152469,38702310,38702310,0,0,0,0
+"0090859",1986,"no_talk","Cobra","Cobra",FALSE,1986,87,"Action,Crime,Thriller",5.8,25,"USA;Israel",2.5e+07,12653032,49042224,49042224,0,0,0,0
+"0090927",1986,"no_talk","The Delta Force","The Delta Force",FALSE,1986,125,"Action,Adventure,Drama",5.6,37,"USA;Israel",1.2e+07,5959505,17768900,17768900,0,0,0,0
+"0091080",1986,"ok","Friday the 13th Part VI: Jason Lives","Friday the 13th Part VI: Jason Lives",FALSE,1986,86,"Horror,Thriller",6,30,"USA",3e+06,6750837,19472057,19472057,0,0,0,0
+"0092076",1986,"no_women","The Texas Chainsaw Massacre 2","The Texas Chainsaw Massacre 2",FALSE,1986,101,"Comedy,Horror",5.6,42,"USA",4700000,2822439,8025872,8025872,0,0,0,0
+"0091217",1986,"no_talk","Hoosiers","Hoosiers",FALSE,1986,114,"Drama,Sport",7.5,76,"UK;USA",6e+06,220068,28607524,28607524,0,0,1,2
+"0093105",1987,"no_talk","Good Morning, Vietnam","Good Morning, Vietnam",FALSE,1987,121,"Biography,Comedy,Drama",7.3,67,"USA",1.3e+07,194308,123922370,123922370,0,0,1,1
+"0092890",1987,"ok","Dirty Dancing","Dirty Dancing",FALSE,1987,100,"Drama,Music,Romance",7,65,"USA",6e+06,3900000,64577242,217688008,1,1,0,0
+"0093779",1987,"about_men","The Princess Bride","The Princess Bride",FALSE,1987,98,"Adventure,Family,Fantasy",8.1,77,"USA",1.6e+07,206243,30857814,30877156,0,0,1,1
+"0093870",1987,"no_talk","RoboCop","RoboCop",FALSE,1987,102,"Action,Crime,Sci-Fi",7.5,67,"USA",1.3e+07,8008721,53424681,53424681,0,0,1,2
+"0093058",1987,"no_women","Full Metal Jacket","Full Metal Jacket",FALSE,1987,116,"Drama,War",8.3,76,"UK;USA",3e+07,2217307,46357676,46357676,0,0,1,1
+"0093409",1987,"no_talk","Lethal Weapon","Lethal Weapon",FALSE,1987,109,"Action,Crime,Thriller",7.6,68,"USA",1.5e+07,6829949,65207127,120207127,0,0,1,1
+"0094012",1987,"ok","Spaceballs","Spaceballs",FALSE,1987,96,"Adventure,Comedy,Sci-Fi",7.1,46,"USA",22700000,6613837,38119483,38119483,0,0,0,0
+"0093940",1987,"ok","September","September",FALSE,1987,83,"Drama",6.5,NA,"USA",1e+07,85731,486434,486434,0,0,0,0
+"0092644",1987,"no_talk","Beverly Hills Cop II","Beverly Hills Cop II",FALSE,1987,100,"Action,Comedy,Crime",6.5,48,"USA",2.8e+07,26348555,153665036,299965036,0,0,1,1
+"0093773",1987,"no_women","Predator","Predator",FALSE,1987,107,"Action,Adventure,Sci-Fi",7.8,45,"USA;Mexico",1.5e+07,12031638,59735548,98399956,0,0,1,1
+"0094332",1987,"ok","The Witches of Eastwick","The Witches of Eastwick",FALSE,1987,118,"Comedy,Fantasy,Horror",6.5,67,"USA",2.2e+07,9454238,63766510,63766510,0,0,1,2
+"0093818",1987,"no_talk","Radio Days","Radio Days",FALSE,1987,88,"Comedy",7.5,74,"USA",1.6e+07,1522423,14792779,14792779,0,0,1,2
+"0092563",1987,"no_talk","Angel Heart","Angel Heart",FALSE,1987,113,"Horror,Mystery,Thriller",7.3,61,"UK;Canada;USA",1.7e+07,3688721,17185632,17185632,0,0,0,0
+"0093565",1987,"ok","Moonstruck","Moonstruck",FALSE,1987,102,"Comedy,Drama,Romance",7.1,83,"USA",1.5e+07,127599,80640528,80640528,1,3,0,0
+"0093748",1987,"no_talk","Planes, Trains & Automobiles","Planes, Trains & Automobiles",FALSE,1987,93,"Comedy,Drama",7.6,72,"USA",3e+07,7009482,49530280,49530280,0,0,0,0
+"0093177",1987,"ok","Hellraiser","Hellraiser",FALSE,1987,94,"Horror,Thriller",7,57,"UK",1e+06,4453232,14564027,14575193,0,0,0,0
+"0093777",1987,"ok","Prince of Darkness","Prince of Darkness",FALSE,1987,102,"Horror",6.7,50,"USA",3e+06,4657401,14182492,14182492,0,0,0,0
+"0093822",1987,"ok","Raising Arizona","Raising Arizona",FALSE,1987,94,"Comedy,Crime",7.3,68,"USA",6e+06,36240,22847564,29180280,0,0,0,0
+"0092991",1987,"ok","Evil Dead II","Evil Dead II",FALSE,1987,84,"Comedy,Horror",7.8,69,"USA",3600000,807260,5923044,5923044,0,0,0,0
+"0090738",1987,"ok","Black Widow","Black Widow",FALSE,1987,102,"Crime,Drama,Thriller",6.3,70,"USA",10500000,3426831,25205460,25205460,0,0,0,0
+"0092925",1987,"ok","Dragnet","Dragnet",FALSE,1987,106,"Comedy,Crime",6,62,"USA",2e+07,10542669,57387516,66673516,0,0,0,0
+"0093010",1987,"ok","Fatal Attraction","Fatal Attraction",FALSE,1987,119,"Drama,Thriller",6.9,67,"USA",1.4e+07,7602740,156645693,320145693,0,0,1,6
+"0092699",1987,"ok","Broadcast News","Broadcast News",FALSE,1987,133,"Comedy,Drama,Romance",7.2,84,"USA",2e+07,197542,51249404,67331309,0,0,1,7
+"0092965",1987,"no_talk","Empire of the Sun","Empire of the Sun",FALSE,1987,153,"Action,Drama,History",7.7,62,"USA",3.5e+07,1314509,22238696,22238696,0,0,1,6
+"0093629",1987,"ok","A Nightmare on Elm Street 3: Dream Warriors","A Nightmare on Elm Street 3: Dream Warriors",FALSE,1987,96,"Fantasy,Horror",6.6,49,"USA",4500000,8880555,44793222,44793222,0,0,0,0
+"0092796",1987,"ok","Creepshow 2","Creepshow 2",FALSE,1987,92,"Fantasy,Horror",6.1,39,"USA",3500000,3584077,1.4e+07,1.4e+07,0,0,0,0
+"0094137",1987,"no_talk","Three Men and a Baby","3 Men and a Baby",FALSE,1987,102,"Comedy,Drama,Family",6,61,"USA;France",1.1e+07,10384392,167780960,167780960,0,0,0,0
+"0092513",1987,"ok","Adventures in Babysitting","Adventures in Babysitting",FALSE,1987,102,"Adventure,Comedy,Crime",6.9,45,"USA",7e+06,2901297,34368475,34368475,0,0,0,0
+"0093936",1987,"no_talk","The Secret of My Success","The Secret of My Success",FALSE,1987,111,"Comedy,Romance",6.5,36,"USA",1.2e+07,7766452,66995879,110996879,0,0,0,0
+"0093894",1987,"ok","The Running Man","The Running Man",FALSE,1987,101,"Action,Sci-Fi,Thriller",6.7,45,"USA",2.7e+07,8117465,38122105,38122105,0,0,0,0
+"0093507",1987,"ok","Masters of the Universe","Masters of the Universe",FALSE,1987,106,"Action,Adventure,Fantasy",5.4,35,"USA;Israel",2.2e+07,4883168,17336370,17336370,0,0,0,0
+"0094142",1987,"no_talk","Throw Momma from the Train","Throw Momma from the Train",FALSE,1987,88,"Comedy,Crime,Thriller",6.3,56,"USA",1.4e+07,7318878,57915972,57915972,0,0,1,1
+"0093640",1987,"no_talk","No Way Out","No Way Out",FALSE,1987,114,"Action,Crime,Drama",7.1,77,"USA",1.5e+07,4259460,35509515,35509515,0,0,0,0
+"0093493",1987,"no_talk","Mannequin","Mannequin",FALSE,1987,90,"Comedy,Fantasy,Romance",5.9,21,"USA",6e+06,6001208,42721196,42721196,0,0,1,1
+"0094226",1987,"no_talk","The Untouchables","The Untouchables",FALSE,1987,119,"Crime,Drama,Thriller",7.9,79,"USA",2.5e+07,10023094,76270454,76270454,1,1,0,0
+"0096438",1988,"no_talk","Who Framed Roger Rabbit","Who Framed Roger Rabbit",FALSE,1988,104,"Adventure,Animation,Comedy",7.7,83,"USA",7e+07,11226239,156452370,329803958,1,3,0,0
+"0094898",1988,"ok","Coming to America","Coming to America",FALSE,1988,116,"Comedy,Romance",7,47,"USA",3.9e+07,21404420,128152301,288752301,0,0,1,2
+"0096283",1988,"ok","My Neighbor Totoro","Tonari no Totoro",FALSE,1988,86,"Animation,Family,Fantasy",8.2,86,"Japan",3700000,539245,2250213,30476708,0,0,0,0
+"0096320",1988,"ok","Twins","Twins",FALSE,1988,107,"Comedy,Crime",6.1,53,"USA",1.5e+07,11174980,111938388,216614388,0,0,0,0
+"0095016",1988,"ok","Die Hard","Die Hard",FALSE,1988,132,"Action,Thriller",8.2,72,"USA",2.8e+07,601851,83519093,141482154,0,0,1,4
+"0094721",1988,"ok","Beetlejuice","Beetlejuice",FALSE,1988,92,"Comedy,Fantasy",7.5,70,"USA",1.5e+07,8030897,74220408,74270074,1,1,0,0
+"0096446",1988,"ok","Willow","Willow",FALSE,1988,126,"Action,Adventure,Drama",7.3,47,"USA",3.5e+07,8300169,57269863,57269863,0,0,1,2
+"0095583",1988,"ok","Maniac Cop","Maniac Cop",FALSE,1988,85,"Action,Crime,Horror",6,40,"USA",1100000,NA,671382,671382,0,0,0,0
+"0097493",1988,"ok","Heathers","Heathers",FALSE,1989,103,"Comedy,Crime",7.2,72,"USA",3e+06,177247,1108462,1163969,0,0,0,0
+"0095690",1988,"ok","Mystic Pizza","Mystic Pizza",FALSE,1988,104,"Comedy,Drama,Romance",6.3,60,"USA",6e+06,1163939,12793213,12793213,0,0,0,0
+"0096463",1988,"ok","Working Girl","Working Girl",FALSE,1988,113,"Comedy,Drama,Romance",6.8,73,"USA",2.8e+07,4718485,63779477,102956984,1,1,0,0
+"0096256",1988,"no_women","They Live","They Live",FALSE,1988,94,"Action,Horror,Sci-Fi",7.3,54,"USA",4e+06,4827903,13008928,13008928,0,0,0,0
+"0095776",1988,"about_men","Oliver & Company","Oliver & Company",FALSE,1988,74,"Adventure,Animation,Comedy",6.7,58,"USA",3.1e+07,4022752,74151346,74151346,0,0,0,0
+"0092675",1988,"no_talk","Bloodsport","Bloodsport",FALSE,1988,92,"Action,Biography,Drama",6.8,29,"USA",1100000,515721,11806119,11806119,0,0,0,0
+"0094947",1988,"ok","Dangerous Liaisons","Dangerous Liaisons",FALSE,1988,119,"Drama,Romance",7.6,74,"USA;UK",1.4e+07,84451,34670720,34670720,1,3,0,0
+"0095889",1988,"ok","Poltergeist III","Poltergeist III",FALSE,1988,98,"Horror,Thriller",4.7,40,"USA",10500000,4344308,14114488,14114488,0,0,0,0
+"0095705",1988,"no_talk","The Naked Gun: From the Files of Police Squad!","The Naked Gun: From the Files of Police Squad!",FALSE,1988,85,"Comedy,Crime",7.6,76,"USA",1.2e+07,9331746,78756177,78756177,0,0,0,0
+"0095159",1988,"ok","A Fish Called Wanda","A Fish Called Wanda",FALSE,1988,108,"Comedy,Crime",7.5,80,"UK;USA",7500000,115418,62493712,62493712,1,1,0,0
+"0095631",1988,"about_men","Midnight Run","Midnight Run",FALSE,1988,126,"Action,Comedy,Crime",7.5,78,"USA",3e+07,5506290,38413606,81613606,0,0,0,0
+"0095675",1988,"ok","Women on the Verge of a Nervous Breakdown","Mujeres al borde de un ataque de ""nervios""",FALSE,1988,88,"Comedy,Drama",7.6,85,"Spain",7e+05,13399,7251740,7262580,0,0,1,1
+"0095270",1988,"ok","Hairspray","Hairspray",FALSE,1988,92,"Comedy,Drama,Family",6.9,77,"USA",2e+06,577287,6671108,6671108,0,0,0,0
+"0094715",1988,"ok","Beaches","Beaches",FALSE,1988,123,"Comedy,Drama,Music",7,46,"USA",2e+07,198361,57041866,57041866,0,0,1,1
+"0094608",1988,"ok","The Accused","The Accused",FALSE,1988,111,"Crime,Drama",7.1,65,"Canada;USA",6e+06,4316369,32078318,32078318,1,1,0,0
+"0094612",1988,"no_talk","Action Jackson","Action Jackson",FALSE,1988,96,"Action,Comedy,Crime",5.5,36,"USA",7e+06,5424783,20256975,20256975,0,0,0,0
+"0094631",1988,"no_talk","Alien Nation","Alien Nation",FALSE,1988,91,"Action,Sci-Fi",6.3,45,"USA",1.6e+07,8421429,25216243,32155047,0,0,0,0
+"0095489",1988,"ok","The Land Before Time","The Land Before Time",FALSE,1988,69,"Adventure,Animation,Drama",7.4,66,"USA;Ireland",12500000,7526025,48092846,84576957,0,0,0,0
+"0095953",1988,"no_talk","Rain Man","Rain Man",FALSE,1988,133,"Drama",8,65,"USA",2.5e+07,7005719,172825435,354825435,1,4,0,0
+"0095593",1988,"ok","Married to the Mob","Married to the Mob",FALSE,1988,104,"Comedy,Crime,Romance",6.2,71,"USA",1e+07,3231056,21486757,21486757,0,0,1,1
+"0096487",1988,"no_talk","Young Guns","Young Guns",FALSE,1988,107,"Action,Western",6.9,50,"USA",1.3e+07,7011393,45661556,45661556,0,0,0,0
+"0094964",1988,"about_men","Dead Ringers","Dead Ringers",FALSE,1988,116,"Drama,Horror,Thriller",7.3,86,"Canada",1.3e+07,3012180,8038508,8038508,0,0,0,0
+"0094862",1988,"ok","Child's Play","Child's Play",FALSE,1988,87,"Horror,Thriller",6.6,58,"USA",9e+06,6583963,33244684,44196684,0,0,0,0
+"0095687",1988,"ok","My Stepmother Is an Alien","My Stepmother Is an Alien",FALSE,1988,105,"Comedy,Sci-Fi",5.3,NA,"USA",2e+07,2066980,13854000,13854000,0,0,0,0
+"0096061",1988,"ok","Scrooged","Scrooged",FALSE,1988,101,"Comedy,Drama,Fantasy",7,38,"USA",3.2e+07,13027842,60328558,60328558,0,0,1,1
+"0094921",1988,"ok","Crossing Delancey","Crossing Delancey",FALSE,1988,97,"Comedy,Romance",6.9,NA,"USA",4e+06,46711,16262415,16262415,0,0,0,0
+"0095765",1988,"no_talk","Cinema Paradiso","Nuovo Cinema Paradiso",FALSE,1988,155,"Drama",8.5,80,"Italy;France",5e+06,16552,12397210,12887661,1,1,0,0
+"0095497",1988,"about_men","The Last Temptation of Christ","The Last Temptation of Christ",FALSE,1988,164,"Drama",7.6,80,"Canada;USA",7e+06,401211,8373585,8865702,0,0,1,1
+"0095294",1988,"no_talk","Hellbound: Hellraiser II","Hellbound: Hellraiser II",FALSE,1988,97,"Horror,Thriller",6.5,41,"UK",3e+06,3185511,12090735,12090735,0,0,0,0
+"0094737",1988,"no_talk","Big","Big",FALSE,1988,104,"Comedy,Drama,Fantasy",7.3,73,"USA",1.8e+07,8216190,114968774,151668774,0,0,1,2
+"0094663",1988,"ok","Another Woman","Another Woman",FALSE,1988,81,"Drama",7.3,NA,"USA",1e+07,75196,1562749,1562749,0,0,0,0
+"0096764",1988,"no_talk","The Adventures of Baron Munchausen","The Adventures of Baron Munchausen",FALSE,1988,126,"Adventure,Comedy,Fantasy",7.2,69,"UK;WestGermany",46630000,597400,8083123,8083123,0,0,1,4
+"0095327",1988,"no_women","Grave of the Fireflies","Hotaru no haka",FALSE,1988,89,"Animation,Drama,War",8.5,94,"Japan",3700000,158101,516962,516962,0,0,0,0
+"0095742",1988,"ok","A Nightmare on Elm Street 4: The Dream Master","A Nightmare on Elm Street 4: The Dream Master",FALSE,1988,93,"Horror",5.7,56,"USA",1.3e+07,12833403,49369899,49369899,0,0,0,0
+"0095925",1988,"ok","Pumpkinhead","Pumpkinhead",FALSE,1988,86,"Fantasy,Horror",6.2,47,"USA",3500000,686567,4385516,4385516,0,0,0,0
+"0094919",1988,"ok","Critters 2","Critters 2",FALSE,1988,86,"Comedy,Horror,Sci-Fi",5.5,48,"USA",4500000,1898751,3813293,3813293,0,0,0,0
+"0097257",1988,"about_men","Earth Girls Are Easy","Earth Girls Are Easy",FALSE,1988,100,"Comedy,Musical,Romance",5.4,66,"UK;France;USA",1e+07,892742,3916303,3916303,0,0,0,0
+"0095484",1988,"no_talk","Lady in White","Lady in White",FALSE,1988,113,"Fantasy,Horror,Mystery",6.6,70,"USA",4700000,282652,1705139,1705139,0,0,0,0
+"0095243",1988,"ok","Gorillas in the Mist","Gorillas in the Mist: The Story of Dian Fossey",FALSE,1988,129,"Biography,Drama",7,NA,"USA",2.2e+07,366925,24720479,61149479,0,0,1,5
+"0094812",1988,"about_men","Bull Durham","Bull Durham",FALSE,1988,108,"Comedy,Romance,Sport",7.1,73,"USA",7e+06,5009301,50888729,50888729,0,0,1,1
+"0095956",1988,"no_women","Rambo III","Rambo III",FALSE,1988,102,"Action,Adventure",5.8,36,"USA",6.3e+07,13034238,53715611,189015611,0,0,0,0
+"0096378",1988,"no_talk","Vibes","Vibes",FALSE,1988,99,"Adventure,Comedy,Romance",5.7,NA,"USA",1.8e+07,916482,1883811,1883811,0,0,0,0
+"0095088",1988,"ok","Elvira: Mistress of the Dark","Elvira: Mistress of the Dark",FALSE,1988,96,"Comedy,Horror",6.6,43,"USA",7500000,1660041,5596267,5596267,0,0,0,0
+"0098180",1988,"no_women","Red Scorpion","Red Scorpion",FALSE,1988,105,"Action,Adventure",5.2,NA,"SouthAfrica;USA;Namibia",1.6e+07,1972994,4192440,4192440,0,0,0,0
+"0095253",1988,"ok","The Great Outdoors","The Great Outdoors",FALSE,1988,91,"Comedy",6.7,24,"USA",2.4e+07,6121115,41455230,43455230,0,0,0,0
+"0092493",1988,"about_men","Crocodile Dundee II","'Crocodile' Dundee II",FALSE,1988,108,"Action,Adventure,Comedy",5.6,41,"Australia",1.4e+07,24462976,109306210,239606210,0,0,0,0
+"0096874",1989,"ok","Back to the Future Part II","Back to the Future Part II",FALSE,1989,108,"Adventure,Comedy,Sci-Fi",7.8,57,"USA",4e+07,27835125,119000002,335949377,0,0,1,1
+"0098554",1989,"ok","Uncle Buck","Uncle Buck",FALSE,1989,100,"Comedy",7,51,"USA",1.5e+07,8794501,66758538,79258538,0,0,0,0
+"0098635",1989,"ok","When Harry Met Sally...","When Harry Met Sally...",FALSE,1989,95,"Comedy,Drama,Romance",7.6,76,"USA",1.6e+07,1094453,93075866,93083444,0,0,1,1
+"0098206",1989,"no_talk","Road House","Road House",FALSE,1989,114,"Action,Thriller",6.6,36,"USA",1.7e+07,5957656,30050028,30050028,0,0,0,0
+"0098105",1989,"no_talk","Police Academy 6: City Under Siege","Police Academy 6: City Under Siege",FALSE,1989,84,"Comedy,Crime",4.5,16,"USA",1.2e+07,4032480,11567217,11567217,0,0,0,0
+"0097940",1989,"ok","Mystery Train","Mystery Train",FALSE,1989,110,"Comedy,Crime,Drama",7.6,80,"Japan;USA",2800000,NA,1541218,1544973,0,0,0,0
+"0097757",1989,"ok","The Little Mermaid","The Little Mermaid",FALSE,1989,83,"Animation,Family,Fantasy",7.6,88,"USA",4e+07,6031914,111543479,274176364,1,2,0,0
+"0097336",1989,"no_talk","Fat Man and Little Boy","Fat Man and Little Boy",FALSE,1989,127,"Biography,Drama,History",6.5,NA,"USA;Mexico",3e+07,1476994,3563162,3563162,0,0,0,0
+"0098519",1989,"ok","Troop Beverly Hills","Troop Beverly Hills",FALSE,1989,105,"Adventure,Comedy",5.8,32,"USA",1.8e+07,2283443,8508843,8508843,0,0,0,0
+"0098384",1989,"ok","Steel Magnolias","Steel Magnolias",FALSE,1989,117,"Comedy,Drama,Romance",7.3,56,"USA",1.5e+07,5425440,84614512,96759512,0,0,1,1
+"0096895",1989,"no_talk","Batman","Batman",FALSE,1989,126,"Action,Adventure",7.5,69,"USA;UK",3.5e+07,40489746,251348343,411556825,1,1,0,0
+"0097576",1989,"no_women","Indiana Jones and the Last Crusade","Indiana Jones and the Last Crusade",FALSE,1989,127,"Action,Adventure",8.2,65,"USA",4.8e+07,29355021,197171806,474310887,1,1,0,0
+"0098382",1989,"no_talk","Star Trek V: The Final Frontier","Star Trek V: The Final Frontier",FALSE,1989,107,"Action,Adventure,Fantasy",5.5,43,"USA",27800000,17375648,52210049,52210049,0,0,0,0
+"0097428",1989,"about_men","Ghostbusters II","Ghostbusters II",FALSE,1989,108,"Action,Comedy,Fantasy",6.6,56,"USA",3.7e+07,29472894,112494738,215394738,0,0,0,0
+"0097523",1989,"ok","Honey, I Shrunk the Kids","Honey, I Shrunk the Kids",FALSE,1989,93,"Adventure,Comedy,Family",6.3,63,"USA;Mexico",1.8e+07,14262961,130724172,222724172,0,0,0,0
+"0096754",1989,"ok","The Abyss","The Abyss",FALSE,1989,171,"Adventure,Drama,Mystery",7.6,62,"USA",7e+07,9319797,54461047,90000098,1,1,0,0
+"0097731",1989,"about_men","Let It Ride","Let It Ride",FALSE,1989,90,"Action,Comedy",6.8,33,"USA",1.8e+07,1925049,4973285,4973285,0,0,0,0
+"0097366",1989,"no_talk","Fletch Lives","Fletch Lives",FALSE,1989,95,"Comedy,Crime,Mystery",6.1,40,"USA",8e+06,8045760,35150960,39450960,0,0,0,0
+"0098724",1989,"about_men","Sex, Lies, and Videotape","Sex, Lies, and Videotape",FALSE,1989,100,"Drama",7.2,86,"USA",1200000,155982,24741667,24741667,0,0,1,1
+"0096734",1989,"no_talk","The 'Burbs","The 'Burbs",FALSE,1989,102,"Comedy,Mystery,Thriller",6.9,45,"USA",1.8e+07,11101197,36601993,49101993,0,0,0,0
+"0097499",1989,"ok","Henry V","Henry V",FALSE,1989,137,"Action,Biography,Drama",7.5,83,"UK",9e+06,64933,10161099,10161099,1,1,0,0
+"0097165",1989,"no_talk","Dead Poets Society","Dead Poets Society",FALSE,1989,128,"Comedy,Drama",8.1,79,"USA",16400000,340456,95860116,235860116,1,1,0,0
+"0096928",1989,"about_men","Bill & Ted's Excellent Adventure","Bill & Ted's Excellent Adventure",FALSE,1989,90,"Adventure,Comedy,Music",6.9,50,"USA",1e+07,6167651,40485039,40485039,0,0,0,0
+"0096787",1989,"ok","All Dogs Go to Heaven","All Dogs Go to Heaven",FALSE,1989,84,"Animation,Comedy,Drama",6.8,50,"Ireland;UK;USA",13800000,4712834,27100027,27100027,0,0,0,0
+"0097123",1989,"ok","Crimes and Misdemeanors","Crimes and Misdemeanors",FALSE,1989,104,"Comedy,Drama",7.9,77,"USA",1.9e+07,911385,18254702,18254702,0,0,1,3
+"0097815",1989,"no_talk","Major League","Major League",FALSE,1989,107,"Comedy,Sport",7.2,62,"USA",1.1e+07,8836265,49797148,49797148,0,0,0,0
+"0097737",1989,"ok","Leviathan","Leviathan",FALSE,1989,98,"Adventure,Horror,Mystery",5.8,51,"USA;Italy",2.5e+07,5029164,15704614,15704614,0,0,0,0
+"0097240",1989,"about_men","Drugstore Cowboy","Drugstore Cowboy",FALSE,1989,101,"Crime,Drama",7.3,82,"USA",2500000,25805,4729352,4729352,0,0,0,0
+"0098546",1989,"no_talk","UHF","UHF",FALSE,1989,97,"Comedy",7,32,"USA",5e+06,2251831,6157157,6157157,0,0,0,0
+"0098300",1989,"ok","Shag","Shag",FALSE,1989,98,"Comedy,Drama,Romance",6.4,56,"UK;USA",5e+06,2029496,6957975,6957975,0,0,0,0
+"0097742",1989,"about_men","Licence to Kill","Licence to Kill",FALSE,1989,133,"Action,Adventure,Thriller",6.6,58,"UK;Mexico;USA",3.2e+07,8774776,34667015,156167015,0,0,0,0
+"0097235",1989,"no_women","The Dream Team","The Dream Team",FALSE,1989,113,"Comedy,Crime,Thriller",6.5,54,"USA",1.5e+07,5704860,28890240,28890240,0,0,0,0
+"0097162",1989,"no_women","Dead Calm","Dead Calm",FALSE,1989,96,"Horror,Thriller",6.8,70,"Australia",10400000,2463551,7825009,7825009,0,0,0,0
+"0098536",1989,"no_talk","Turner & Hooch","Turner & Hooch",FALSE,1989,97,"Comedy,Crime,Drama",6.2,36,"USA",1.3e+07,12211042,71079915,71079915,0,0,0,0
+"0096969",1989,"ok","Born on the Fourth of July","Born on the Fourth of July",FALSE,1989,145,"Biography,Drama,War",7.2,75,"USA",1.4e+07,172021,70001698,161001698,1,2,0,0
+"0097981",1989,"ok","A Nightmare on Elm Street: The Dream Child","A Nightmare on Elm Street: The Dream Child",FALSE,1989,89,"Fantasy,Horror",5.2,54,"USA",6e+06,8115176,22168359,22168359,0,0,0,0
+"0097216",1989,"about_men","Do the Right Thing","Do the Right Thing",FALSE,1989,120,"Comedy,Drama",7.9,92,"USA",6500000,3563535,27545445,37313222,0,0,1,2
+"0097388",1989,"ok","Friday the 13th Part VIII: Jason Takes Manhattan","Friday the 13th Part VIII: Jason Takes Manhattan",FALSE,1989,100,"Adventure,Horror,Thriller",4.6,14,"USA;Canada",5e+06,6251310,14343976,14343976,0,0,0,0
+"0097441",1989,"no_women","Glory","Glory",FALSE,1989,122,"Biography,Drama,History",7.8,78,"USA",1.8e+07,63661,26979166,26979166,1,3,0,0
+"0097733",1989,"ok","Lethal Weapon 2","Lethal Weapon 2",FALSE,1989,114,"Action,Crime,Thriller",7.2,70,"USA",2.8e+07,20388800,147253986,227853986,0,0,1,1
+"0097239",1989,"ok","Driving Miss Daisy","Driving Miss Daisy",FALSE,1989,99,"Drama",7.4,81,"USA",7500000,73745,106593296,145793296,1,4,0,0
+"0097958",1989,"ok","National Lampoon's Christmas Vacation","National Lampoon's Christmas Vacation",FALSE,1989,97,"Comedy",7.6,49,"USA",2.7e+07,11750203,72705146,72705146,0,0,0,0
+"0097659",1989,"no_women","Kickboxer","Kickboxer",FALSE,1989,97,"Action,Sport,Thriller",6.5,33,"USA",1500000,4134098,14697005,14697005,0,0,0,0
+"0096945",1989,"no_talk","Blind Fury","Blind Fury",FALSE,1989,86,"Action,Comedy,Crime",6.4,NA,"USA",1e+07,868380,2692037,2692037,0,0,0,0
+"0097334",1989,"no_women","Farewell to the King","Farewell to the King",FALSE,1989,117,"Action,Adventure,Drama",6.3,NA,"USA",2e+07,1150531,2420917,2420917,0,0,0,0
+"0098439",1989,"no_women","Tango & Cash","Tango & Cash",FALSE,1989,104,"Action,Comedy,Crime",6.4,41,"USA",5.5e+07,6628918,63408614,63408614,0,0,0,0
+"0098193",1989,"ok","The Return of Swamp Thing","The Return of Swamp Thing",FALSE,1989,88,"Action,Adventure,Comedy",4.7,39,"USA",4e+06,NA,192816,192816,0,0,0,0
+"0098067",1989,"ok","Parenthood","Parenthood",FALSE,1989,124,"Comedy,Drama",7,82,"USA",2e+07,10506450,100047830,126297830,0,0,1,2
+"0098273",1989,"no_women","Sea of Love","Sea of Love",FALSE,1989,113,"Crime,Drama,Mystery",6.8,66,"USA;Canada",1.9e+07,10017840,58571513,110879513,0,0,0,0
+"0097027",1989,"no_women","Casualties of War","Casualties of War",FALSE,1989,113,"Crime,Drama,War",7.1,75,"USA",22500000,5201261,18671317,18671317,0,0,0,0
+"0097778",1989,"about_men","Look Who's Talking","Look Who's Talking",FALSE,1989,93,"Comedy",5.9,51,"USA",7500000,12107784,140088813,296999813,0,0,0,0
+"0100802",1990,"no_talk","Total Recall","Total Recall",FALSE,1990,113,"Action,Sci-Fi,Thriller",7.5,57,"USA;Mexico",6.5e+07,25533700,119412921,261317921,0,0,1,2
+"0099088",1990,"no_talk","Back to the Future Part III","Back to the Future Part III",FALSE,1990,118,"Adventure,Comedy,Sci-Fi",7.4,55,"USA",4e+07,19089645,88277583,246144250,0,0,0,0
+"0099785",1990,"ok","Home Alone","Home Alone",FALSE,1990,103,"Comedy,Family",7.6,63,"USA",1.8e+07,17081997,285761243,477063114,0,0,1,2
+"0100140",1990,"ok","Mermaids","Mermaids",FALSE,1990,110,"Comedy,Drama,Romance",6.7,56,"USA",2e+07,3514678,35419397,35419397,0,0,0,0
+"0100157",1990,"no_talk","Misery","Misery",FALSE,1990,107,"Drama,Thriller",7.8,75,"USA",2e+07,10076834,61276872,61276872,1,1,0,0
+"0100395",1990,"ok","Postcards from the Edge","Postcards from the Edge",FALSE,1990,101,"Comedy,Drama",6.7,71,"USA",2.2e+07,7871856,39071603,39071603,0,0,1,2
+"0099653",1990,"ok","Ghost","Ghost",FALSE,1990,127,"Drama,Fantasy,Romance",7,52,"USA",2.2e+07,12191540,217631306,505869714,1,2,0,0
+"0100332",1990,"ok","Paris Is Burning","Paris Is Burning",FALSE,1990,71,"Documentary",8.2,82,"USA",5e+05,310127,3905297,3905297,0,0,0,0
+"0100814",1990,"ok","Tremors","Tremors",FALSE,1990,96,"Comedy,Horror",7.1,65,"USA",1.1e+07,3731520,16667084,16667084,0,0,0,0
+"0100928",1990,"no_talk","White Hunter Black Heart","White Hunter Black Heart",FALSE,1990,112,"Adventure,Drama",6.6,NA,"USA",2.4e+07,165450,2319124,2319124,0,0,0,0
+"0100405",1990,"ok","Pretty Woman","Pretty Woman",FALSE,1990,119,"Comedy,Romance",7,51,"USA",1.4e+07,11280591,178406268,463406268,0,0,1,1
+"0099685",1990,"ok","Goodfellas","Goodfellas",FALSE,1990,146,"Biography,Crime,Drama",8.7,90,"USA",2.5e+07,6368901,46836214,46879633,1,1,0,0
+"0099365",1990,"no_women","Darkman","Darkman",FALSE,1990,96,"Action,Sci-Fi,Thriller",6.4,65,"USA",1.6e+07,8054860,33878502,48878502,0,0,0,0
+"0099165",1990,"about_men","The Bonfire of the Vanities","The Bonfire of the Vanities",FALSE,1990,125,"Comedy,Drama,Romance",5.6,27,"USA",4.7e+07,4216063,15691192,15691192,0,0,0,0
+"0099487",1990,"ok","Edward Scissorhands","Edward Scissorhands",FALSE,1990,105,"Drama,Fantasy,Romance",7.9,74,"USA",2e+07,159622,56362352,86024005,0,0,1,1
+"0100935",1990,"about_men","Wild at Heart","Wild at Heart",FALSE,1990,125,"Comedy,Crime,Drama",7.2,52,"USA",9500000,2913764,14560247,14560247,0,0,1,1
+"0099892",1990,"about_men","Joe Versus the Volcano","Joe Versus the Volcano",FALSE,1990,102,"Comedy,Romance",5.8,45,"USA",2.5e+07,9252232,39404261,39404261,0,0,0,0
+"0099582",1990,"ok","Flatliners","Flatliners",FALSE,1990,115,"Drama,Horror,Sci-Fi",6.6,55,"USA",2.6e+07,10034685,61489265,61489265,0,0,1,1
+"0099423",1990,"ok","Die Hard 2","Die Hard 2",FALSE,1990,124,"Action,Thriller",7.2,67,"USA",7e+07,21744661,117540947,240247433,0,0,0,0
+"0099810",1990,"no_talk","The Hunt for Red October","The Hunt for Red October",FALSE,1990,135,"Action,Adventure,Thriller",7.6,58,"USA",3e+07,17161835,122012643,200512643,1,1,0,0
+"0100530",1990,"no_women","The Russia House","The Russia House",FALSE,1990,123,"Drama,Romance,Thriller",6.1,NA,"USA",21800000,4435650,22997992,22997992,0,0,0,0
+"0099817",1990,"no_women","Dark Angel","Dark Angel",FALSE,1990,91,"Action,Crime,Horror",6.1,NA,"USA",7e+06,1912421,4348368,4348368,0,0,0,0
+"0099253",1990,"ok","Child's Play 2","Child's Play 2",FALSE,1990,84,"Horror,Thriller",5.8,37,"USA",1.3e+07,10718520,28501605,35763605,0,0,0,0
+"0100150",1990,"no_women","Miller's Crossing","Miller's Crossing",FALSE,1990,115,"Crime,Drama,Thriller",7.8,66,"USA",1.4e+07,28202,5080409,5080409,0,0,0,0
+"0099005",1990,"no_women","Air America","Air America",FALSE,1990,113,"Action,Comedy,War",5.8,33,"USA",3.5e+07,8064480,31053601,33461269,0,0,0,0
+"0100403",1990,"about_men","Predator 2","Predator 2",FALSE,1990,108,"Action,Horror,Sci-Fi",6.3,46,"USA",3.5e+07,8784943,30669413,57120318,0,0,0,0
+"0100502",1990,"no_talk","RoboCop 2","RoboCop 2",FALSE,1990,117,"Action,Crime,Sci-Fi",5.8,42,"USA",2.5e+07,14145411,45681173,45681173,0,0,0,0
+"0100758",1990,"about_men","Teenage Mutant Ninja Turtles","Teenage Mutant Ninja Turtles",FALSE,1990,93,"Action,Adventure,Comedy",6.8,51,"USA;HongKong",13500000,25398367,135265915,201965915,0,0,0,0
+"0099871",1990,"no_talk","Jacob's Ladder","Jacob's Ladder",FALSE,1990,113,"Drama,Horror,Mystery",7.5,62,"USA",2.5e+07,7500760,26118851,26118851,0,0,0,0
+"0100404",1990,"no_talk","Presumed Innocent","Presumed Innocent",FALSE,1990,127,"Mystery,Thriller",6.9,72,"USA",2.2e+07,11718981,86303188,221303188,0,0,0,0
+"0099012",1990,"ok","Alice","Alice",FALSE,1990,106,"Comedy,Romance",6.6,67,"USA",1.2e+07,36274,7331647,7331647,0,0,1,1
+"0099938",1990,"ok","Kindergarten Cop","Kindergarten Cop",FALSE,1990,111,"Comedy,Crime",6.1,61,"USA",1.5e+07,7918560,91457688,201957688,0,0,0,0
+"0099329",1990,"ok","Cry-Baby","Cry-Baby",FALSE,1990,85,"Comedy,Musical",6.5,63,"USA",1.1e+07,3004905,8266343,8266343,0,0,0,0
+"0099348",1990,"no_talk","Dances with Wolves","Dances with Wolves",FALSE,1990,181,"Adventure,Drama,Western",8,72,"USA;UK",2.2e+07,598257,184208848,424208848,1,7,0,0
+"0099277",1990,"about_men","Class of 1999","Class of 1999",FALSE,1990,99,"Action,Horror,Sci-Fi",5.9,33,"USA",5200000,767620,2459895,2459895,0,0,0,0
+"0100477",1990,"no_talk","The Rescuers Down Under","The Rescuers Down Under",FALSE,1990,77,"Adventure,Animation,Crime",6.9,70,"USA",3e+07,3499819,27931461,27931461,0,0,0,0
+"0099674",1990,"ok","The Godfather: Part III","The Godfather: Part III",FALSE,1990,162,"Crime,Drama",7.6,60,"USA",5.4e+07,6387271,66666062,136766062,0,0,1,7
+"0100142",1990,"ok","Metropolitan","Metropolitan",FALSE,1990,98,"Comedy,Drama,Romance",7.4,77,"USA;Spain",230000,46663,2960492,2960492,0,0,1,1
+"0100594",1990,"no_women","The Sheltering Sky","The Sheltering Sky",FALSE,1990,138,"Adventure,Drama",6.8,NA,"UK;Italy",2.5e+07,82753,2075084,2075084,0,0,0,0
+"0100029",1990,"no_talk","Lionheart","Lionheart",FALSE,1990,108,"Action,Crime,Drama",6.2,41,"USA",6e+06,7094552,24078196,24271196,0,0,0,0
+"0100507",1990,"no_women","Rocky V","Rocky V",FALSE,1990,104,"Drama,Sport",5.3,55,"USA",4.2e+07,14073170,40946358,119946358,0,0,0,0
+"0099700",1990,"about_men","Gremlins 2: The New Batch","Gremlins 2: The New Batch",FALSE,1990,106,"Comedy,Fantasy,Horror",6.4,NA,"USA",5e+07,9702804,41482207,41482207,0,0,0,0
+"0100260",1990,"ok","Nightbreed","Nightbreed",FALSE,1990,102,"Action,Fantasy,Horror",6.6,40,"UK;Canada;USA",1.1e+07,3708918,8862354,8862354,0,0,0,0
+"0100449",1990,"no_women","Quick Change","Quick Change",FALSE,1990,89,"Comedy,Crime",6.8,56,"USA",1.5e+07,4700960,15260154,15260154,0,0,0,0
+"0099371",1990,"about_men","Days of Thunder","Days of Thunder",FALSE,1990,107,"Action,Drama,Sport",6,60,"USA",6e+07,15490445,82670733,157920733,0,0,1,1
+"0102926",1991,"ok","The Silence of the Lambs","The Silence of the Lambs",FALSE,1991,118,"Crime,Drama,Thriller",8.6,85,"USA",1.9e+07,13766814,130742922,272753884,1,5,0,0
+"0101414",1991,"ok","Beauty and the Beast","Beauty and the Beast",FALSE,1991,84,"Animation,Family,Fantasy",8,95,"USA",2.5e+07,162146,218967620,440118382,1,2,0,0
+"0103074",1991,"ok","Thelma & Louise","Thelma & Louise",FALSE,1991,130,"Adventure,Crime,Drama",7.5,88,"USA;UK;France",16500000,6101297,45360915,45454078,1,1,0,0
+"0102685",1991,"no_women","Point Break","Point Break",FALSE,1991,122,"Action,Crime,Thriller",7.3,58,"Japan;USA",2.4e+07,8514616,43218387,83531958,0,0,0,0
+"0101921",1991,"ok","Fried Green Tomatoes","Fried Green Tomatoes",FALSE,1991,130,"Drama",7.7,64,"USA",1.1e+07,105317,82418501,119418501,0,0,1,2
+"0103064",1991,"ok","Terminator 2: Judgment Day","Terminator 2: Judgment Day",FALSE,1991,137,"Action,Sci-Fi",8.5,75,"USA",1.02e+08,31765506,205881154,520884847,1,4,0,0
+"0102898",1991,"ok","Shakes the Clown","Shakes the Clown",FALSE,1991,87,"Comedy,Crime,Drama",5.6,NA,"USA",1400000,35589,115103,115103,0,0,0,0
+"0102057",1991,"about_men","Hook","Hook",FALSE,1991,142,"Adventure,Comedy,Family",6.8,52,"USA",7e+07,13522535,119654823,300854823,0,0,1,5
+"0103247",1991,"no_talk","White Fang","White Fang",FALSE,1991,107,"Adventure,Drama",6.7,62,"USA",1.4e+07,5640712,34793160,34793160,0,0,0,0
+"0101597",1991,"no_women","Closet Land","Closet Land",FALSE,1991,89,"Drama,Thriller",7,NA,"USA",4e+06,121635,259012,259012,0,0,0,0
+"0102798",1991,"ok","Robin Hood: Prince of Thieves","Robin Hood: Prince of Thieves",FALSE,1991,143,"Action,Adventure,Drama",6.9,51,"USA;UK",4.8e+07,25625602,165493908,390493908,0,0,1,1
+"0101889",1991,"ok","The Fisher King","The Fisher King",FALSE,1991,137,"Comedy,Drama,Fantasy",7.5,61,"USA",2.4e+07,311662,41895491,41895491,1,1,0,0
+"0103112",1991,"no_women","Toy Soldiers","Toy Soldiers",FALSE,1991,111,"Action,Drama,Thriller",6.6,46,"USA",1e+07,4182300,15073942,15073942,0,0,0,0
+"0102510",1991,"no_talk","The Naked Gun 2½: The Smell of Fear","The Naked Gun 2½: The Smell of Fear",FALSE,1991,85,"Comedy,Crime",6.9,65,"USA",2.3e+07,20817139,86930411,86930411,0,0,0,0
+"0102943",1991,"ok","Slacker","Slacker",FALSE,1990,97,"Comedy,Drama",7.1,69,"USA",23000,24307,1228108,1228108,0,0,0,0
+"0101410",1991,"no_talk","Barton Fink","Barton Fink",FALSE,1991,116,"Comedy,Drama,Thriller",7.7,69,"USA;UK",9e+06,268561,6153939,6153939,0,0,1,3
+"0103060",1991,"ok","Teenage Mutant Ninja Turtles II: The Secret of the Ooze","Teenage Mutant Ninja Turtles II: The Secret of the Ooze",FALSE,1991,88,"Action,Adventure,Comedy",6,45,"USA;HongKong",2.5e+07,20030473,78656813,78656813,0,0,0,0
+"0101701",1991,"no_talk","Delirious","Delirious",FALSE,1991,96,"Comedy,Fantasy",5.9,NA,"USA",1.8e+07,1803059,5546827,5546827,0,0,0,0
+"0102536",1991,"ok","Night on Earth","Night on Earth",FALSE,1991,129,"Comedy,Drama",7.8,68,"France;UK;Germany;USA;Japan",3500000,34039,2015810,2023808,0,0,0,0
+"0101452",1991,"no_talk","Bill & Ted's Bogus Journey","Bill & Ted's Bogus Journey",FALSE,1991,93,"Adventure,Comedy,Fantasy",6.3,60,"USA",2e+07,10241268,38037513,38037513,0,0,0,0
+"0103241",1991,"about_men","What About Bob?","What About Bob?",FALSE,1991,99,"Comedy",7,60,"USA",3.5e+07,9216334,63707829,63707829,0,0,0,0
+"0102070",1991,"ok","Hudson Hawk","Hudson Hawk",FALSE,1991,100,"Action,Adventure,Comedy",5.8,17,"USA",6.5e+07,7082820,17218080,17218080,0,0,0,0
+"0102059",1991,"no_talk","Hot Shots!","Hot Shots!",FALSE,1991,84,"Action,Comedy",6.8,61,"USA",2.6e+07,10848182,69467617,181096164,0,0,0,0
+"0102975",1991,"about_men","Star Trek VI: The Undiscovered Country","Star Trek VI: The Undiscovered Country",FALSE,1991,110,"Action,Adventure,Sci-Fi",7.2,65,"USA",3e+07,18162837,74888996,96888996,0,0,1,2
+"0101272",1991,"ok","The Addams Family","The Addams Family",FALSE,1991,99,"Comedy,Fantasy",6.9,57,"USA",3e+07,24203754,113502426,191502426,0,0,1,1
+"0102803",1991,"no_talk","The Rocketeer","The Rocketeer",FALSE,1991,108,"Action,Adventure,Family",6.5,61,"USA",3.5e+07,9600754,46704056,46704056,0,0,0,0
+"0102266",1991,"ok","The Last Boy Scout","The Last Boy Scout",FALSE,1991,105,"Action,Comedy,Crime",7,52,"USA",2.9e+07,7923669,59509925,59509925,0,0,0,0
+"0102303",1991,"no_women","Life Stinks","Life Stinks",FALSE,1991,92,"Comedy",6,54,"USA",1.3e+07,1920215,4102526,4102526,0,0,0,0
+"0102370",1991,"ok","Madonna: Truth or Dare","Madonna: Truth or Dare",FALSE,1991,120,"Documentary,Music",6.4,NA,"USA",4500000,543250,15012935,29012935,0,0,0,0
+"0102492",1991,"ok","My Girl","My Girl",FALSE,1991,102,"Comedy,Drama,Family",6.9,56,"USA",1.7e+07,12391783,59489799,59489799,0,0,0,0
+"0101318",1991,"no_talk","The Lovers on the Bridge","Les amants du Pont-Neuf",FALSE,1991,125,"Drama,Romance",7.6,NA,"France",2.8e+07,21482,29679,29679,0,0,0,0
+"0101507",1991,"about_men","Boyz n the Hood","Boyz n the Hood",FALSE,1991,112,"Crime,Drama",7.7,76,"USA",6500000,10023462,57504069,57529070,0,0,1,2
+"0099422",1991,"no_talk","Dick Tracy","Dick Tracy",FALSE,1990,105,"Action,Comedy,Crime",6.1,68,"USA",4.7e+07,22543911,103738726,162738726,1,3,0,0
+"0101917",1991,"about_men","Freddy's Dead: The Final Nightmare","Freddy's Dead: The Final Nightmare",FALSE,1991,89,"Fantasy,Horror",4.9,39,"USA",1.1e+07,12966525,34872033,34872033,0,0,0,0
+"0102951",1991,"ok","Soapdish","Soapdish",FALSE,1991,97,"Comedy,Romance",6.6,65,"USA",2.5e+07,6736380,36489888,36489888,0,0,0,0
+"0105121",1991,"ok","The People Under the Stairs","The People Under the Stairs",FALSE,1991,102,"Comedy,Horror,Mystery",6.4,57,"USA",6e+06,5522250,24204154,31347154,0,0,0,0
+"0102138",1991,"ok","JFK","JFK",FALSE,1991,189,"Drama,History,Thriller",8,72,"France;USA",4e+07,5223658,70405498,205405498,1,2,0,0
+"0101587",1991,"ok","City Slickers","City Slickers",FALSE,1991,113,"Comedy,Western",6.7,70,"USA",2.7e+07,13032121,124033791,179033791,1,1,0,0
+"0101912",1991,"no_talk","Frankie and Johnny","Frankie and Johnny",FALSE,1991,118,"Comedy,Drama,Romance",6.8,66,"USA",2.9e+07,4768177,22773535,22773535,0,0,0,0
+"0102494",1991,"no_talk","My Own Private Idaho","My Own Private Idaho",FALSE,1991,104,"Drama",7.1,77,"USA",2500000,NA,6401336,6401336,0,0,0,0
+"0102603",1991,"about_men","Oscar","Oscar",FALSE,1991,109,"Comedy,Crime",6.5,NA,"USA",3.5e+07,5091027,23562716,23562716,0,0,0,0
+"0101540",1991,"ok","Cape Fear","Cape Fear",FALSE,1991,128,"Crime,Thriller",7.3,73,"USA",3.5e+07,10261025,79091969,182291969,0,0,1,2
+"0101458",1991,"ok","Until the End of the World","Bis ans Ende der Welt",FALSE,1991,158,"Action,Drama,Sci-Fi",6.7,63,"Germany;France;Australia",2.3e+07,38553,829625,829625,0,0,0,0
+"0102034",1991,"no_talk","Highlander II: The Quickening","Highlander II: The Quickening",FALSE,1991,91,"Action,Adventure,Fantasy",4.3,31,"UK;France;Argentina",3e+07,5280490,15556340,15556340,0,0,0,0
+"0101764",1991,"no_talk","Double Impact","Double Impact",FALSE,1991,110,"Action,Crime",5.6,40,"USA",1.5e+07,7574703,30102717,30102717,0,0,0,0
+"0103956",1991,"about_men","Child's Play 3","Child's Play 3",FALSE,1991,90,"Horror,Thriller",5.1,27,"UK;USA",1.3e+07,5718940,14960255,20560255,0,0,0,0
+"0102915",1991,"ok","Showdown in Little Tokyo","Showdown in Little Tokyo",FALSE,1991,79,"Action,Comedy,Crime",6.1,NA,"USA",8e+06,455192,2275557,2275557,0,0,0,0
+"0101605",1991,"ok","The Commitments","The Commitments",FALSE,1991,118,"Comedy,Drama,Music",7.6,73,"Ireland;UK",1.2e+07,271333,14919570,14919570,0,0,1,1
+"0101775",1991,"ok","Drop Dead Fred","Drop Dead Fred",FALSE,1991,103,"Comedy,Drama,Fantasy",5.9,25,"USA;UK",6788000,3625648,13878334,13878334,0,0,0,0
+"0102526",1991,"no_women","New Jack City","New Jack City",FALSE,1991,97,"Action,Crime,Drama",6.7,61,"USA",8e+06,7039622,47624353,47624353,0,0,0,0
+"0101393",1991,"no_talk","Backdraft","Backdraft",FALSE,1991,137,"Crime,Drama,Mystery",6.7,38,"USA",4e+07,12686200,77868585,152368585,0,0,1,3
+"0101902",1991,"ok","For the Boys","For the Boys",FALSE,1991,138,"Comedy,Drama,Music",6.4,NA,"USA",4e+07,71348,17860280,23202444,0,0,1,1
+"0105236",1992,"no_women","Reservoir Dogs","Reservoir Dogs",FALSE,1992,99,"Crime,Drama,Thriller",8.3,79,"USA",1200000,147839,2832029,2859750,0,0,0,0
+"0103639",1992,"no_women","Aladdin","Aladdin",FALSE,1992,90,"Adventure,Animation,Comedy",8,86,"USA",2.8e+07,196664,217350219,504050219,1,2,0,0
+"0103644",1992,"no_women","Alien³","Alien³",FALSE,1992,114,"Action,Horror,Sci-Fi",6.5,59,"USA",5e+07,19449867,55473545,159814498,0,0,1,1
+"0104431",1992,"ok","Home Alone 2: Lost in New York","Home Alone 2: Lost in New York",FALSE,1992,120,"Adventure,Comedy,Crime",6.7,NA,"USA",2.8e+07,31126882,173585516,365154932,0,0,0,0
+"0104348",1992,"no_women","Glengarry Glen Ross","Glengarry Glen Ross",FALSE,1992,100,"Crime,Drama,Mystery",7.7,82,"USA",12500000,2104402,10725228,10725228,0,0,1,1
+"0104257",1992,"no_talk","A Few Good Men","A Few Good Men",FALSE,1992,138,"Drama,Thriller",7.7,62,"USA",4.1e+07,15517468,141340178,243240178,0,0,1,4
+"0104694",1992,"ok","A League of Their Own","A League of Their Own",FALSE,1992,128,"Comedy,Drama,Family",7.3,67,"USA",4e+07,13739456,107533928,132440069,0,0,0,0
+"0103893",1992,"ok","Buffy the Vampire Slayer","Buffy the Vampire Slayer",FALSE,1992,86,"Action,Comedy,Fantasy",5.7,48,"USA",7e+06,4515541,16624456,16624456,0,0,0,0
+"0103776",1992,"no_women","Batman Returns","Batman Returns",FALSE,1992,126,"Action,Crime,Fantasy",7,68,"USA;UK",8e+07,45687711,162902340,266903053,0,0,1,2
+"0105417",1992,"ok","Sister Act","Sister Act",FALSE,1992,100,"Comedy,Crime,Family",6.4,51,"USA",3.1e+07,11894587,139605150,231605150,0,0,0,0
+"0106308",1992,"about_men","Army of Darkness","Army of Darkness",FALSE,1992,81,"Comedy,Horror",7.5,57,"USA",1.1e+07,4424535,11502976,11502976,0,0,0,0
+"0104940",1992,"ok","The Muppet Christmas Carol","The Muppet Christmas Carol",FALSE,1992,85,"Comedy,Drama,Family",7.7,64,"USA;UK",1.2e+07,5010109,27281507,32319318,0,0,0,0
+"0104868",1992,"no_talk","The Mighty Ducks","The Mighty Ducks",FALSE,1992,104,"Comedy,Drama,Family",6.5,46,"USA",1e+07,6035133,50752337,50752337,0,0,0,0
+"0104254",1992,"ok","FernGully: The Last Rainforest","FernGully: The Last Rainforest",FALSE,1992,76,"Adventure,Animation,Family",6.5,67,"Australia;USA",2.4e+07,3549338,24650296,32710894,0,0,0,0
+"0105629",1992,"ok","Toys","Toys",FALSE,1992,118,"Adventure,Comedy,Drama",5.1,40,"USA",4.3e+07,4810027,23278931,23278931,0,0,1,2
+"0104070",1992,"ok","Death Becomes Her","Death Becomes Her",FALSE,1992,104,"Comedy,Fantasy,Horror",6.6,56,"USA",5.5e+07,12110355,58422650,149022650,1,1,0,0
+"0107756",1992,"about_men","Orlando","Orlando",FALSE,1992,94,"Biography,Drama,Fantasy",7.2,74,"UK;Russia;Italy;France;Netherlands",4e+06,107030,5377643,5377643,0,0,1,2
+"0104815",1992,"no_women","El Mariachi","El mariachi",FALSE,1992,81,"Action,Crime,Thriller",6.9,73,"Mexico;USA",7000,312528,2040920,2040920,0,0,0,0
+"0104952",1992,"no_talk","My Cousin Vinny","My Cousin Vinny",FALSE,1992,120,"Comedy,Crime",7.6,68,"USA",1.1e+07,7416751,52929168,64088552,1,1,0,0
+"0105107",1992,"ok","Passion Fish","Passion Fish",FALSE,1992,135,"Drama",7.4,NA,"USA",3330000,14385,4814619,4814619,0,0,1,2
+"0105665",1992,"ok","Twin Peaks: Fire Walk with Me","Twin Peaks: Fire Walk with Me",FALSE,1992,134,"Drama,Horror,Mystery",7.3,28,"France;USA",1e+07,1813559,4160851,4183547,0,0,0,0
+"0105414",1992,"ok","Single White Female","Single White Female",FALSE,1992,107,"Drama,Thriller",6.4,63,"USA",1.6e+07,10212401,48017402,48017402,0,0,0,0
+"0104990",1992,"no_talk","Newsies","Newsies",FALSE,1992,121,"Drama,Family,History",7,46,"USA",1.5e+07,1232508,2819485,2819485,0,0,0,0
+"0105151",1992,"ok","The Player","The Player",FALSE,1992,124,"Comedy,Crime,Drama",7.5,86,"USA",8e+06,302216,21706101,21706101,0,0,1,3
+"0105323",1992,"no_talk","Scent of a Woman","Scent of a Woman",FALSE,1992,156,"Drama",8,59,"USA",3.1e+07,357468,63095253,134095253,1,1,0,0
+"0103767",1992,"no_women","Baraka","Baraka",FALSE,1992,96,"Documentary",8.6,NA,"USA",2e+06,26812,1332110,1332110,0,0,0,0
+"0103873",1992,"ok","Dead Alive","Braindead",FALSE,1992,104,"Comedy,Horror",7.5,54,"NewZealand",3e+06,23765,242623,242623,0,0,0,0
+"0104797",1992,"ok","Malcolm X","Malcolm X",FALSE,1992,202,"Biography,Drama,History",7.7,72,"USA;Japan",3.3e+07,9871125,48169910,48169910,0,0,1,2
+"0105793",1992,"no_talk","Wayne's World","Wayne's World",FALSE,1992,94,"Comedy,Music",7,57,"USA",2e+07,18122710,121697323,183097323,0,0,0,0
+"0105477",1992,"about_men","Stop! Or My Mom Will Shoot","Stop! Or My Mom Will Shoot",FALSE,1992,87,"Action,Comedy",4.3,NA,"USA",4.5e+07,7058590,28411210,70611210,0,0,0,0
+"0103939",1992,"no_talk","Chaplin","Chaplin",FALSE,1992,143,"Biography,Comedy,Drama",7.6,47,"UK;France;Italy;Japan;USA",3.1e+07,84669,9493259,9493259,0,0,1,3
+"0103994",1992,"ok","Like Water for Chocolate","Como agua para chocolate",FALSE,1992,105,"Drama,Romance",7.1,86,"Mexico",2e+06,23600,21665468,21744201,0,0,0,0
+"0104466",1992,"ok","Husbands and Wives","Husbands and Wives",FALSE,1992,108,"Comedy,Drama,Romance",7.5,NA,"USA",2e+07,3520550,10555619,10555619,0,0,1,2
+"0103772",1992,"no_talk","Basic Instinct","Basic Instinct",FALSE,1992,127,"Drama,Mystery,Thriller",7,41,"France;USA;UK",4.9e+07,15129385,117727224,352927224,0,0,1,2
+"0103874",1992,"ok","Bram Stoker's Dracula","Dracula",FALSE,1992,128,"Horror",7.4,57,"USA",4e+07,30521679,82522790,215862692,1,3,0,0
+"0104412",1992,"no_talk","Hero","Hero",FALSE,1992,119,"Comedy,Drama,Romance",6.5,NA,"USA",4.2e+07,5210875,19507345,19507345,0,0,0,0
+"0103919",1992,"ok","Candyman","Candyman",FALSE,1992,99,"Horror,Thriller",6.6,61,"USA;UK",6e+06,5404320,25792310,25792310,0,0,0,0
+"0104692",1992,"no_talk","The Lawnmower Man","The Lawnmower Man",FALSE,1992,108,"Horror,Sci-Fi",5.5,42,"UK;USA;Japan",1e+07,7751971,32100816,32100816,0,0,0,0
+"0103859",1992,"ok","Boomerang","Boomerang",FALSE,1992,117,"Comedy,Drama,Romance",5.5,45,"USA",4.2e+07,13640706,70052444,131052444,0,0,0,0
+"0105435",1992,"no_talk","Sneakers","Sneakers",FALSE,1992,126,"Comedy,Crime,Drama",7.1,65,"USA",3.5e+07,10031145,51432691,105232691,0,0,0,0
+"0105265",1992,"about_men","A River Runs Through It","A River Runs Through It",FALSE,1992,123,"Drama",7.2,68,"USA",1.2e+07,298277,43440294,43440294,1,1,0,0
+"0104409",1992,"ok","Hellraiser III: Hell on Earth","Hellraiser III: Hell on Earth",FALSE,1992,97,"Horror",5.5,50,"USA;UK",5e+06,3208009,12534961,12534961,0,0,0,0
+"0105130",1992,"ok","Peter's Friends","Peter's Friends",FALSE,1992,101,"Comedy,Drama,Romance",7,NA,"UK",5e+06,353610,4058564,4058564,0,0,0,0
+"0105695",1992,"ok","Unforgiven","Unforgiven",FALSE,1992,130,"Drama,Western",8.2,85,"USA",14400000,15018007,101157447,159157447,1,4,0,0
+"0104691",1992,"about_men","The Last of the Mohicans","The Last of the Mohicans",FALSE,1992,112,"Action,Adventure,Drama",7.7,76,"USA",4e+07,10976661,75505856,75505856,1,1,0,0
+"0105459",1992,"no_women","Split Second","Split Second",FALSE,1992,90,"Action,Crime,Horror",6.2,NA,"UK",7e+06,2250000,5430822,5430822,0,0,0,0
+"0105616",1992,"ok","Tom and Jerry: The Movie","Tom and Jerry: The Movie",FALSE,1992,84,"Animation,Comedy,Family",5.4,NA,"USA;Germany",8e+06,1255912,3560469,3560469,0,0,0,0
+"0104779",1992,"ok","Bitter Moon","Bitter Moon",FALSE,1992,139,"Drama,Romance,Thriller",7.2,NA,"France;UK",5e+06,37997,1862805,1862805,0,0,0,0
+"0104187",1992,"no_talk","Encino Man","Encino Man",FALSE,1992,88,"Comedy",5.8,25,"USA",7e+06,9866120,40693477,40693477,0,0,0,0
+"0103855",1992,"about_men","The Bodyguard","The Bodyguard",FALSE,1992,129,"Action,Drama,Music",6.3,39,"USA",2.5e+07,16611793,122006740,411006740,0,0,1,2
+"0104389",1992,"ok","The Hand That Rocks the Cradle","The Hand That Rocks the Cradle",FALSE,1992,110,"Drama,Thriller",6.6,64,"USA",11700000,7675016,88036683,88036683,0,0,0,0
+"0105466",1992,"about_men","Stay Tuned","Stay Tuned",FALSE,1992,88,"Adventure,Comedy,Fantasy",6.2,NA,"USA",2.5e+07,3532540,10736401,10736401,0,0,0,0
+"0105104",1992,"no_talk","Passenger 57","Passenger 57",FALSE,1992,84,"Action,Crime,Thriller",5.9,NA,"USA",1.5e+07,10513925,44065653,44065653,0,0,0,0
+"0104231",1992,"ok","Far and Away","Far and Away",FALSE,1992,140,"Adventure,Drama,Romance",6.6,49,"USA",6e+07,10194520,58883840,137783840,0,0,0,0
+"0107290",1993,"ok","Jurassic Park","Jurassic Park",FALSE,1993,127,"Action,Adventure,Sci-Fi",8.1,68,"USA",6.3e+07,47026828,402828120,1032020521,1,3,0,0
+"0107048",1993,"about_men","Groundhog Day","Groundhog Day",FALSE,1993,101,"Comedy,Fantasy,Romance",8,72,"USA",14600000,12517672,70906973,70906973,0,0,0,0
+"0106697",1993,"no_women","Demolition Man","Demolition Man",FALSE,1993,115,"Action,Sci-Fi,Thriller",6.7,34,"USA",5.7e+07,14262432,58055768,58055768,0,0,0,0
+"0107614",1993,"ok","Mrs. Doubtfire","Mrs. Doubtfire",FALSE,1993,125,"Comedy,Drama,Family",7,53,"USA",2.5e+07,20468847,219195243,441286195,1,1,0,0
+"0108160",1993,"about_men","Sleepless in Seattle","Sleepless in Seattle",FALSE,1993,105,"Comedy,Drama,Romance",6.8,72,"USA",2.1e+07,17253733,126808165,227927165,0,0,1,2
+"0107120",1993,"ok","Hocus Pocus","Hocus Pocus",FALSE,1993,96,"Comedy,Family,Fantasy",6.9,NA,"USA",2.8e+07,8125471,39514713,39514713,0,0,0,0
+"0107507",1993,"ok","Manhattan Murder Mystery","Manhattan Murder Mystery",FALSE,1993,104,"Comedy,Mystery",7.4,NA,"USA",13500000,2015360,11330911,11330911,0,0,0,0
+"0106677",1993,"ok","Dazed and Confused","Dazed and Confused",FALSE,1993,102,"Comedy",7.6,78,"USA",6900000,918127,7993039,7993039,0,0,0,0
+"0107977",1993,"ok","Robin Hood: Men in Tights","Robin Hood: Men in Tights",FALSE,1993,104,"Adventure,Comedy,Musical",6.7,44,"France;USA",2e+07,6841830,35739755,35739755,0,0,0,0
+"0106611",1993,"no_talk","Cool Runnings","Cool Runnings",FALSE,1993,98,"Adventure,Comedy,Family",7,60,"USA",1.4e+07,7046648,68856263,154856263,0,0,0,0
+"0107156",1993,"ok","The Wedding Banquet","Xi yan",FALSE,1993,106,"Comedy,Drama,Romance",7.7,NA,"Taiwan;USA",1e+06,134870,6933459,6933459,0,0,1,1
+"0106673",1993,"ok","Dave","Dave",FALSE,1993,110,"Comedy,Romance",6.8,76,"USA",2.8e+07,7306755,63270710,63270710,0,0,1,1
+"0108071",1993,"ok","The Secret Garden","The Secret Garden",FALSE,1993,101,"Drama,Family,Fantasy",7.3,74,"UK;USA",1.8e+07,4625583,31181347,31181347,0,0,0,0
+"0106220",1993,"ok","Addams Family Values","Addams Family Values",FALSE,1993,94,"Comedy,Fantasy",6.7,62,"USA",4.7e+07,14117545,48919043,48919043,0,0,1,1
+"0108147",1993,"ok","Sister Act 2: Back in the Habit","Sister Act 2: Back in the Habit",FALSE,1993,107,"Comedy,Family,Music",5.6,38,"USA",3.8e+07,7569219,57319029,57319029,0,0,0,0
+"0108052",1993,"ok","Schindler's List","Schindler's List",FALSE,1993,195,"Biography,Drama,History",8.9,94,"USA",2.2e+07,656636,96898818,322287794,1,7,0,0
+"0106834",1993,"ok","Even Cowgirls Get the Blues","Even Cowgirls Get the Blues",FALSE,1993,95,"Comedy,Drama,Romance",4.4,28,"USA",8e+06,676978,1708873,1708873,0,0,0,0
+"0112389",1993,"no_women","The Thief and the Cobbler","The Thief and the Cobbler",FALSE,1993,90,"Action,Adventure,Animation",7.1,NA,"UK;USA;Canada;Taiwan;Ireland;China;HongKong;Thailand",2.5e+07,319723,669276,669276,0,0,0,0
+"0107822",1993,"ok","The Piano","The Piano",FALSE,1993,121,"Drama,Music,Romance",7.6,89,"NewZealand;Australia;France",7e+06,151419,40157856,40168956,1,3,0,0
+"0107745",1993,"ok","Once Upon a Forest","Once Upon a Forest",FALSE,1993,71,"Adventure,Animation,Drama",6.5,NA,"UK;USA;Taiwan;Spain;Canada;Denmark;Argentina;China",1.3e+07,2206251,6582052,6582052,0,0,0,0
+"0107688",1993,"no_talk","The Nightmare Before Christmas","The Nightmare Before Christmas",FALSE,1993,76,"Animation,Family,Fantasy",8,82,"USA",1.8e+07,191232,75082668,89140058,0,0,1,1
+"0107426",1993,"no_talk","Little Buddha","Little Buddha",FALSE,1993,123,"Drama",6.1,NA,"France;Liechtenstein;UK",3.5e+07,873983,4858139,4858139,0,0,0,0
+"0106977",1993,"about_men","The Fugitive","The Fugitive",FALSE,1993,130,"Action,Crime,Drama",7.8,87,"USA",4.4e+07,23758855,183875760,368875760,1,1,0,0
+"0107282",1993,"ok","The Joy Luck Club","The Joy Luck Club",FALSE,1993,139,"Drama",7.7,84,"USA;China",1.1e+07,159009,32901136,32901136,0,0,0,0
+"0106226",1993,"ok","The Age of Innocence","The Age of Innocence",FALSE,1993,139,"Drama,Romance",7.2,90,"USA",3.4e+07,2317289,32255440,32255440,1,1,0,0
+"0107091",1993,"about_men","Heart and Souls","Heart and Souls",FALSE,1993,104,"Comedy,Drama,Fantasy",7,NA,"USA",2.5e+07,4322250,16589540,16589540,0,0,0,0
+"0311648",1993,"ok","Pieces of April","Pieces of April",FALSE,2003,80,"Comedy,Drama",7,70,"USA",3e+05,48422,2528664,3282321,0,0,1,1
+"0108358",1993,"ok","Tombstone","Tombstone",FALSE,1993,130,"Action,Biography,Drama",7.8,50,"USA",2.5e+07,6454752,56505065,56505065,0,0,0,0
+"0108065",1993,"no_women","Searching for Bobby Fischer","Searching for Bobby Fischer",FALSE,1993,109,"Biography,Drama",7.4,89,"USA",1.2e+07,1121354,7266383,7266383,0,0,1,1
+"0106582",1993,"no_talk","Cliffhanger","Cliffhanger",FALSE,1993,113,"Action,Adventure,Thriller",6.4,60,"USA;Italy;France",7e+07,16176967,84049211,255000211,0,0,1,3
+"0108451",1993,"ok","Untamed Heart","Untamed Heart",FALSE,1993,102,"Comedy,Drama,Romance",6.8,NA,"USA",7500000,4125556,18898806,18898806,0,0,0,0
+"0106400",1993,"ok","The Beverly Hillbillies","The Beverly Hillbillies",FALSE,1993,92,"Comedy,Family",5,37,"USA",2.5e+07,9525375,44029386,57405220,0,0,0,0
+"0107943",1993,"no_talk","The Remains of the Day","The Remains of the Day",FALSE,1993,134,"Drama,Romance",7.8,84,"USA;UK",1.5e+07,1528982,23237911,23237911,0,0,1,8
+"0108255",1993,"ok","Super Mario Bros.","Super Mario Bros.",FALSE,1993,104,"Adventure,Comedy,Family",4,NA,"UK;USA;Japan;France",4.8e+07,8532623,20915465,20915465,0,0,0,0
+"0106598",1993,"ok","Coneheads","Coneheads",FALSE,1993,88,"Comedy,Sci-Fi",5.3,49,"USA",3.3e+07,7100501,21274717,21274717,0,0,0,0
+"0106364",1993,"no_women","Batman: Mask of the Phantasm","Batman: Mask of the Phantasm",FALSE,1993,76,"Action,Animation,Crime",7.8,NA,"USA",6e+06,1189975,5635204,5635204,0,0,0,0
+"0107212",1993,"ok","Indian Summer","Indian Summer",FALSE,1993,97,"Comedy,Drama,Romance",6.6,NA,"Canada;USA",9e+06,3368711,14904910,14904910,0,0,0,0
+"0106770",1993,"ok","Dragon: The Bruce Lee Story","Dragon: The Bruce Lee Story",FALSE,1993,120,"Action,Biography,Drama",7,NA,"USA",1.4e+07,10019970,35113743,63513743,0,0,0,0
+"0107978",1993,"ok","RoboCop 3","RoboCop 3",FALSE,1993,104,"Action,Crime,Sci-Fi",4.1,40,"USA",2.2e+07,4304829,10696210,10696210,0,0,0,0
+"0106453",1993,"ok","Body of Evidence","Body of Evidence",FALSE,1992,99,"Drama,Thriller",4.5,29,"Germany;USA",3e+07,7365429,13273595,13273595,0,0,0,0
+"0106452",1993,"ok","Body Snatchers","Body Snatchers",FALSE,1993,87,"Horror,Sci-Fi",5.9,65,"USA",1.3e+07,31494,428868,428868,0,0,0,0
+"0107969",1993,"no_talk","Rising Sun","Rising Sun",FALSE,1993,125,"Action,Crime,Drama",6.2,56,"USA",3.5e+07,15195941,63179523,107198790,0,0,0,0
+"0106918",1993,"ok","The Firm","The Firm",FALSE,1993,154,"Drama,Mystery,Thriller",6.8,58,"USA",4.2e+07,25400000,158348367,270248367,0,0,1,2
+"0106469",1993,"no_women","Blood In, Blood Out","Bound by Honor",FALSE,1993,180,"Crime,Drama",8,47,"USA",3.5e+07,1002548,4496583,4496583,0,0,0,0
+"0107818",1993,"about_men","Philadelphia","Philadelphia",FALSE,1993,125,"Drama",7.7,66,"USA",2.6e+07,143433,77446440,206678440,1,2,0,0
+"0108162",1993,"ok","Sliver","Sliver",FALSE,1993,107,"Drama,Thriller",5,38,"USA",4e+07,12138283,36300000,116300000,0,0,0,0
+"0107144",1993,"ok","Hot Shots! Part Deux","Hot Shots! Part Deux",FALSE,1993,86,"Action,Comedy",6.6,NA,"USA",2.5e+07,10250661,38922972,133752825,0,0,0,0
+"0106332",1993,"no_women","Farewell My Concubine","Ba wang bie ji",FALSE,1993,171,"Drama,Music,Romance",8.1,NA,"China;HongKong",4e+06,69408,5216888,5756775,0,0,1,2
+"0108399",1993,"no_talk","True Romance","True Romance",FALSE,1993,119,"Crime,Drama,Romance",7.9,59,"USA;France",1.3e+07,4023420,12281551,12281551,0,0,0,0
+"0108550",1993,"ok","What's Eating Gilbert Grape","What's Eating Gilbert Grape",FALSE,1993,118,"Drama",7.8,73,"USA",1.1e+07,74421,10032765,10032765,0,0,1,1
+"0107529",1993,"no_talk","Matinee","Matinee",FALSE,1993,99,"Comedy,Drama",6.9,NA,"USA",1.3e+07,3601015,9532895,9532895,0,0,0,0
+"0107798",1993,"ok","The Pelican Brief","The Pelican Brief",FALSE,1993,141,"Crime,Drama,Mystery",6.6,50,"USA",4.5e+07,16864404,100768056,195268056,0,0,0,0
+"0107207",1993,"about_men","In the Name of the Father","In the Name of the Father",FALSE,1993,133,"Biography,Drama",8.1,84,"Ireland;UK",1.3e+07,109805,25096862,65796862,0,0,1,7
+"0108551",1993,"ok","What's Love Got to Do with It","What's Love Got to Do with It",FALSE,1993,118,"Biography,Drama,Music",7.3,NA,"USA",1.5e+07,1222718,39100956,39100956,0,0,1,2
+"0107808",1993,"no_talk","A Perfect World","A Perfect World",FALSE,1993,138,"Crime,Drama,Thriller",7.6,71,"USA",3e+07,8075582,31130999,135130999,0,0,0,0
+"0107211",1993,"no_women","Indecent Proposal","Indecent Proposal",FALSE,1993,117,"Drama,Romance",6,35,"USA",3.8e+07,18387632,106614059,266614059,0,0,0,0
+"0107206",1993,"no_talk","In the Line of Fire","In the Line of Fire",FALSE,1993,128,"Action,Crime,Drama",7.2,74,"USA",4e+07,15269388,102314823,176997168,0,0,1,3
+"0107151",1993,"ok","The House of the Spirits","The House of the Spirits",FALSE,1993,140,"Drama,Romance",6.9,NA,"Portugal;Germany;Denmark;USA;France",4e+07,1719085,6265311,6265311,0,0,0,0
+"0107840",1993,"ok","Poetic Justice","Poetic Justice",FALSE,1993,109,"Drama,Romance",6.1,51,"USA",1.4e+07,11728455,27515786,27515786,0,0,1,1
+"0107096",1993,"about_men","Heaven & Earth","Heaven & Earth",FALSE,1993,140,"Action,Biography,Drama",6.8,NA,"France;USA",3.3e+07,379807,5864949,5864949,0,0,0,0
+"0108149",1993,"ok","Six Degrees of Separation","Six Degrees of Separation",FALSE,1993,112,"Comedy,Drama,Mystery",6.8,72,"USA",1.2e+07,53058,6405918,6405918,0,0,1,1
+"0107616",1993,"no_talk","Much Ado About Nothing","Much Ado About Nothing",FALSE,1993,111,"Comedy,Drama,Romance",7.3,NA,"UK;USA",1.1e+07,108617,22549338,22549338,0,0,0,0
+"0106880",1993,"no_talk","Fear of a Black Hat","Fear of a Black Hat",FALSE,1993,88,"Comedy,Music",7.2,NA,"USA;UK",999999,15191,233824,233824,0,0,0,0
+"0107362",1993,"no_talk","Last Action Hero","Last Action Hero",FALSE,1993,130,"Action,Adventure,Comedy",6.4,44,"USA",8.5e+07,15338241,50016394,137298489,0,0,0,0
+"0107076",1993,"no_talk","Hard Target","Hard Target",FALSE,1993,97,"Action,Adventure,Drama",6.2,NA,"USA",1.8e+07,10106500,32589677,74189677,0,0,0,0
+"0107387",1993,"no_talk","Leprechaun","Leprechaun",FALSE,1993,92,"Comedy,Fantasy,Horror",4.8,17,"USA",9e+05,2493020,8556940,8556940,0,0,0,0
+"0107057",1993,"about_men","Guilty as Sin","Guilty as Sin",FALSE,1993,107,"Crime,Drama,Thriller",5.6,NA,"USA",1.2e+07,5713708,22866222,22866222,0,0,0,0
+"0106965",1993,"no_talk","Free Willy","Free Willy",FALSE,1993,112,"Adventure,Drama,Family",6,79,"USA;France;Mexico",2e+07,7868829,77698625,153698625,0,0,0,0
+"0108174",1993,"ok","So I Married an Axe Murderer","So I Married an Axe Murderer",FALSE,1993,93,"Comedy,Romance",6.4,NA,"USA",2e+07,3466930,11585483,11585483,0,0,0,0
+"0108308",1993,"about_men","Teenage Mutant Ninja Turtles III","Teenage Mutant Ninja Turtles III",FALSE,1993,96,"Action,Adventure,Comedy",4.8,40,"USA;HongKong",2.1e+07,12419597,42273609,42273609,0,0,0,0
+"0106489",1993,"no_talk","A Bronx Tale","A Bronx Tale",FALSE,1993,121,"Crime,Drama,Romance",7.8,80,"USA",2.2e+07,3716456,17287898,17287898,0,0,0,0
+"0110912",1994,"ok","Pulp Fiction","Pulp Fiction",FALSE,1994,154,"Crime,Drama",8.9,94,"USA",8e+06,9311882,107928762,214179088,1,1,0,0
+"0110357",1994,"no_talk","The Lion King","The Lion King",FALSE,1994,88,"Adventure,Animation,Drama",8.5,88,"USA",4.5e+07,1586753,422783777,968511805,1,2,0,0
+"0110148",1994,"no_talk","Interview with the Vampire: The Vampire Chronicles","Interview with the Vampire: The Vampire Chronicles",FALSE,1994,123,"Drama,Horror",7.6,59,"USA",6e+07,36389705,105264608,223664608,0,0,1,2
+"0111161",1994,"no_women","The Shawshank Redemption","The Shawshank Redemption",FALSE,1994,142,"Drama",9.3,80,"USA",2.5e+07,727327,28699976,28787337,0,0,1,7
+"0111257",1994,"ok","Speed","Speed",FALSE,1994,116,"Action,Adventure,Thriller",7.2,78,"USA",3e+07,14456194,121248145,350448145,1,2,0,0
+"0109040",1994,"about_men","Ace Ventura: Pet Detective","Ace Ventura: Pet Detective",FALSE,1994,86,"Comedy",6.9,37,"USA",1.5e+07,12115105,72217396,107217396,0,0,0,0
+"0109445",1994,"no_talk","Clerks","Clerks",FALSE,1994,92,"Comedy",7.7,70,"USA",27000,31665,3151130,3151130,0,0,0,0
+"0110005",1994,"ok","Heavenly Creatures","Heavenly Creatures",FALSE,1994,99,"Biography,Crime,Drama",7.3,NA,"NewZealand;Germany",5e+06,31592,3049135,3049135,0,0,1,1
+"0109676",1994,"about_men","Drop Zone","Drop Zone",FALSE,1994,101,"Action,Adventure,Thriller",5.6,NA,"USA",4.5e+07,6143566,28735315,28735315,0,0,0,0
+"0111438",1994,"no_talk","Timecop","Timecop",FALSE,1994,99,"Action,Crime,Sci-Fi",5.9,48,"Canada;USA;Japan",2.7e+07,12064625,44853581,101646581,0,0,0,0
+"0109830",1994,"no_talk","Forrest Gump","Forrest Gump",FALSE,1994,142,"Drama,Romance",8.8,82,"USA",5.5e+07,24450602,330455270,678222284,1,6,0,0
+"0110950",1994,"ok","Reality Bites","Reality Bites",FALSE,1994,99,"Comedy,Drama,Romance",6.6,67,"USA",11500000,5113050,20982557,33351557,0,0,0,0
+"0109686",1994,"about_men","Dumb and Dumber","Dumb and Dumber",FALSE,1994,107,"Comedy",7.3,41,"USA",1.7e+07,16363442,127175374,247275374,0,0,0,0
+"0111282",1994,"no_talk","Stargate","Stargate",FALSE,1994,116,"Action,Adventure,Sci-Fi",7.1,42,"USA;France",5.5e+07,16651018,71567262,196567262,0,0,0,0
+"0110367",1994,"ok","Little Women","Little Women",FALSE,1994,115,"Drama,Family,Romance",7.3,87,"USA;Canada",1.8e+07,2411247,50083616,50083616,0,0,1,3
+"0111070",1994,"no_talk","The Santa Clause","The Santa Clause",FALSE,1994,97,"Comedy,Drama,Family",6.5,57,"USA;Canada",2.2e+07,19321992,144833357,189833357,0,0,0,0
+"0110763",1994,"no_talk","The Pagemaster","The Pagemaster",FALSE,1994,80,"Adventure,Animation,Comedy",6.1,NA,"USA",2.7e+07,4188399,13670688,13670688,0,0,0,0
+"0109127",1994,"no_talk","Angels in the Outfield","Angels in the Outfield",FALSE,1994,102,"Comedy,Family,Fantasy",6.2,44,"USA",2.4e+07,8916463,50236831,50236831,0,0,0,0
+"0111503",1994,"ok","True Lies","True Lies",FALSE,1994,141,"Action,Comedy,Thriller",7.2,63,"USA",1.15e+08,25869770,146282411,378882411,0,0,1,1
+"0109446",1994,"ok","The Client","The Client",FALSE,1994,119,"Crime,Drama,Mystery",6.7,65,"USA",4.5e+07,17174262,92115211,117615211,0,0,1,1
+"0109093",1994,"ok","Amateur","Amateur",FALSE,1994,105,"Comedy,Crime,Drama",6.9,53,"USA;UK;France",2300000,NA,757088,757088,0,0,0,0
+"0109198",1994,"ok","Bad Girls","Bad Girls",FALSE,1994,99,"Action,Adventure,Romance",5.2,NA,"USA",2.5e+07,5012200,15240435,15240435,0,0,0,0
+"0110622",1994,"about_men","Naked Gun 33 1/3: The Final Insult","Naked Gun 33 1/3: The Final Insult",FALSE,1994,83,"Comedy,Crime",6.5,63,"USA",3e+07,13216531,51132598,51132598,0,0,0,0
+"0109254",1994,"no_women","Beverly Hills Cop III","Beverly Hills Cop III",FALSE,1994,104,"Action,Comedy,Crime",5.6,16,"USA",5e+07,12426169,42614912,119208989,0,0,0,0
+"0109707",1994,"ok","Ed Wood","Ed Wood",FALSE,1994,127,"Biography,Comedy,Drama",7.8,70,"USA",1.8e+07,71566,5887457,5887457,1,2,0,0
+"0110598",1994,"ok","Muriel's Wedding","Muriel's Wedding",FALSE,1994,106,"Comedy,Drama",7.2,63,"Australia;France",9e+06,244969,15119639,15482277,0,0,0,0
+"0109504",1994,"ok","Crooklyn","Crooklyn",FALSE,1994,115,"Comedy,Drama",7,65,"USA",1.4e+07,4209475,13642861,13642861,0,0,0,0
+"0111143",1994,"no_women","The Shadow","The Shadow",FALSE,1994,108,"Action,Adventure,Crime",6.1,NA,"USA",2.5e+07,11713845,32063435,48063435,0,0,0,0
+"0109306",1994,"ok","Blue Sky","Blue Sky",FALSE,1994,101,"Drama,Romance",6.4,NA,"USA",1.6e+07,763890,3359465,3359465,1,1,0,0
+"0110074",1994,"no_talk","The Hudsucker Proxy","The Hudsucker Proxy",FALSE,1994,111,"Comedy,Drama,Fantasy",7.2,53,"UK;Germany;USA",4e+07,104490,2816518,2816518,0,0,0,0
+"0110308",1994,"no_talk","The Last Seduction","The Last Seduction",FALSE,1994,110,"Crime,Drama,Romance",7,85,"UK;USA",2500000,45058,5842603,5842603,0,0,0,0
+"0110678",1994,"no_women","No Escape","No Escape",FALSE,1994,118,"Action,Drama,Sci-Fi",6.1,NA,"USA",2e+07,4588736,15339030,15339030,0,0,0,0
+"0111301",1994,"ok","Street Fighter","Street Fighter",FALSE,1994,102,"Action,Adventure,Comedy",4,NA,"Japan;USA",3.5e+07,6859495,33423521,99431786,0,0,0,0
+"0111255",1994,"no_talk","The Specialist","The Specialist",FALSE,1994,110,"Action,Drama,Thriller",5.6,NA,"USA",4.5e+07,14317765,57362582,170362582,0,0,0,0
+"0109506",1994,"ok","The Crow","The Crow",FALSE,1994,102,"Action,Drama,Fantasy",7.6,71,"USA",2.3e+07,11774332,50693129,50693129,0,0,0,0
+"0111333",1994,"no_talk","The Swan Princess","The Swan Princess",FALSE,1994,93,"Animation,Comedy,Family",6.4,NA,"USA",4.5e+07,2445155,9771658,9771658,0,0,0,0
+"0111001",1994,"ok","The Road to Wellville","The Road to Wellville",FALSE,1994,118,"Comedy,Drama",5.9,NA,"USA",2.5e+07,2580108,6562513,6562513,0,0,0,0
+"0111280",1994,"ok","Star Trek: Generations","Star Trek: Generations",FALSE,1994,118,"Action,Adventure,Mystery",6.6,55,"USA",3.5e+07,23116394,75671125,118071125,0,0,0,0
+"0110475",1994,"no_talk","The Mask","The Mask",FALSE,1994,101,"Action,Comedy,Crime",6.9,56,"USA",2.3e+07,23117068,119938730,351583407,0,0,1,1
+"0110322",1994,"ok","Legends of the Fall","Legends of the Fall",FALSE,1994,133,"Drama,Romance,War",7.6,45,"USA",3e+07,101670,66638883,160638883,1,1,0,0
+"0110932",1994,"about_men","Quiz Show","Quiz Show",FALSE,1994,133,"Biography,Drama,History",7.5,92,"USA",3.1e+07,757714,24822619,24822619,0,0,1,4
+"0109456",1994,"ok","Color of Night","Color of Night",FALSE,1994,121,"Mystery,Romance,Thriller",5.2,36,"USA",4e+07,6610488,19726050,19726050,0,0,0,0
+"0113409",1994,"no_talk","In the Mouth of Madness","In the Mouth of Madness",FALSE,1994,95,"Drama,Horror,Mystery",7.2,53,"USA",8e+06,3441807,8924549,8924549,0,0,0,0
+"0110632",1994,"ok","Natural Born Killers","Natural Born Killers",FALSE,1994,118,"Action,Crime,Drama",7.3,74,"USA",3.4e+07,11166687,50282766,50282766,0,0,0,0
+"0109813",1994,"ok","The Flintstones","The Flintstones",FALSE,1994,91,"Comedy,Family,Fantasy",4.9,38,"USA",4.6e+07,29688730,130531208,341631208,0,0,0,0
+"0110366",1994,"about_men","The Little Rascals","The Little Rascals",FALSE,1994,82,"Comedy,Family,Romance",6.3,45,"USA",2.3e+07,10028065,52125282,67308282,0,0,0,0
+"0111686",1994,"ok","Wes Craven's New Nightmare","Wes Craven's New Nightmare",FALSE,1994,112,"Fantasy,Horror,Mystery",6.4,64,"USA",8e+06,6667118,18090181,19721741,0,0,0,0
+"0109831",1994,"ok","Four Weddings and a Funeral","Four Weddings and a Funeral",FALSE,1994,117,"Comedy,Drama,Romance",7,81,"UK",4400000,138486,52700832,245700832,0,0,1,2
+"0111127",1994,"ok","Serial Mom","Serial Mom",FALSE,1994,95,"Comedy,Crime,Thriller",6.8,64,"USA",1.3e+07,2040450,7820688,7820688,0,0,0,0
+"0109579",1994,"no_women","Death and the Maiden","Death and the Maiden",FALSE,1994,103,"Drama,Mystery,Thriller",7.3,72,"UK;France",1.2e+07,74366,3103716,3103716,0,0,0,0
+"0110099",1994,"no_women","I.Q.","I.Q.",FALSE,1994,100,"Comedy,Romance",6.2,66,"USA",2.5e+07,3131201,26381221,26381221,0,0,0,0
+"0110167",1994,"no_talk","It Could Happen to You","It Could Happen to You",FALSE,1994,101,"Comedy,Drama,Romance",6.4,64,"USA",2e+07,8112822,37939757,37939757,0,0,0,0
+"0111512",1994,"ok","The Legend of Drunken Master","Jui kuen II",FALSE,1994,102,"Action,Comedy",7.6,74,"HongKong",1e+07,3845278,11555430,11555430,0,0,0,0
+"0111112",1994,"ok","The Secret of Roan Inish","The Secret of Roan Inish",FALSE,1994,103,"Drama,Family,Fantasy",7.5,NA,"USA;Ireland",3e+06,82601,6159269,6159269,0,0,0,0
+"0109444",1994,"no_women","Clear and Present Danger","Clear and Present Danger",FALSE,1994,141,"Action,Crime,Drama",6.9,74,"USA;Mexico",6.2e+07,20348017,122187717,215887717,0,0,1,2
+"0110657",1994,"ok","The Next Karate Kid","The Next Karate Kid",FALSE,1994,107,"Action,Drama,Family",4.4,36,"USA",1.2e+07,NA,8914777,15876353,0,0,0,0
+"0110971",1994,"about_men","Renaissance Man","Renaissance Man",FALSE,1994,128,"Comedy,Drama",6.2,44,"USA",4e+07,5557590,24332324,24332324,0,0,0,0
+"0110955",1994,"ok","The Ref","The Ref",FALSE,1994,96,"Comedy,Crime,Drama",6.9,NA,"USA",1.1e+07,3044097,11439193,11439193,0,0,0,0
+"0109447",1994,"ok","Clifford","Clifford",FALSE,1994,90,"Comedy",5.5,NA,"USA",1.9e+07,2571043,7408745,7408745,0,0,0,0
+"0114814",1995,"no_talk","The Usual Suspects","The Usual Suspects",FALSE,1995,106,"Crime,Mystery,Thriller",8.5,77,"USA;Germany",6e+06,645363,23341568,23341568,1,2,0,0
+"0114369",1995,"no_talk","Se7en","Se7en",FALSE,1995,127,"Crime,Drama,Mystery",8.6,65,"USA",3.3e+07,13949807,100125643,327333559,0,0,1,1
+"0114709",1995,"no_talk","Toy Story","Toy Story",FALSE,1995,81,"Adventure,Animation,Comedy",8.3,95,"USA",3e+07,29140617,222498679,404265438,0,0,1,3
+"0113243",1995,"about_men","Hackers","Hackers",FALSE,1995,105,"Comedy,Crime,Drama",6.3,46,"USA",2e+07,3173101,7563728,7563728,0,0,0,0
+"0112642",1995,"ok","Casper","Casper",FALSE,1995,100,"Comedy,Family,Fantasy",6.1,49,"USA",5e+07,16840385,100328194,287928194,0,0,0,0
+"0114069",1995,"ok","Outbreak","Outbreak",FALSE,1995,127,"Action,Drama,Thriller",6.6,64,"USA",5e+07,13420387,67659560,189859560,0,0,0,0
+"0112864",1995,"no_talk","Die Hard with a Vengeance","Die Hard: With a Vengeance",FALSE,1995,128,"Action,Adventure,Thriller",7.6,58,"USA",9e+07,22162245,100012499,366236538,0,0,0,0
+"0112508",1995,"no_talk","Billy Madison","Billy Madison",FALSE,1995,89,"Comedy",6.4,16,"USA",1e+07,6639080,25588734,26488734,0,0,0,0
+"0112573",1995,"about_men","Braveheart","Braveheart",FALSE,1995,178,"Biography,Drama,History",8.3,68,"USA",7.2e+07,9938276,75609945,213216216,1,5,0,0
+"0114148",1995,"ok","Pocahontas","Pocahontas",FALSE,1995,81,"Adventure,Animation,Drama",6.7,58,"USA",5.5e+07,2689714,141579773,346079773,1,2,0,0
+"0114388",1995,"ok","Sense and Sensibility","Sense and Sensibility",FALSE,1995,136,"Drama,Romance",7.6,84,"USA;UK",1.6e+07,721341,43182776,134582776,1,1,0,0
+"0112579",1995,"ok","The Bridges of Madison County","The Bridges of Madison County",FALSE,1995,135,"Drama,Romance",7.6,66,"USA",2.4e+07,10519257,71516617,182016617,0,0,1,1
+"0113749",1995,"about_men","Mallrats","Mallrats",FALSE,1995,94,"Comedy,Romance",7.1,41,"USA",6e+06,1153838,2122561,2122561,0,0,0,0
+"0114436",1995,"ok","Showgirls","Showgirls",FALSE,1995,128,"Drama",4.9,16,"France;USA",4.5e+07,8112627,20350754,20350754,0,0,0,0
+"0114614",1995,"ok","Tank Girl","Tank Girl",FALSE,1995,104,"Action,Comedy,Sci-Fi",5.3,46,"USA;UK",2.5e+07,2018183,4064495,4064495,0,0,0,0
+"0113347",1995,"ok","How to Make an American Quilt","How to Make an American Quilt",FALSE,1995,117,"Comedy,Drama,Romance",6.3,NA,"USA",1e+07,5790445,23600020,41200020,0,0,0,0
+"0114558",1995,"ok","Strange Days","Strange Days",FALSE,1995,145,"Action,Crime,Drama",7.2,66,"USA",4.2e+07,31062,7959291,7959291,0,0,0,0
+"0112697",1995,"ok","Clueless","Clueless",FALSE,1995,97,"Comedy,Romance",6.8,68,"USA",1.2e+07,10612443,56631572,56631572,0,0,0,0
+"0113855",1995,"no_talk","Mortal Kombat","Mortal Kombat",FALSE,1995,101,"Action,Adventure,Fantasy",5.8,58,"USA",1.8e+07,23283887,70454098,122195920,0,0,0,0
+"0114906",1995,"ok","Welcome to the Dollhouse","Welcome to the Dollhouse",FALSE,1995,88,"Comedy,Drama",7.4,83,"USA",8e+05,NA,4569019,4569019,0,0,0,0
+"0113101",1995,"ok","Four Rooms","Four Rooms",FALSE,1995,98,"Comedy",6.8,NA,"USA",4e+06,427733,4257354,4257354,0,0,0,0
+"0112462",1995,"no_talk","Batman Forever","Batman Forever",FALSE,1995,121,"Action,Adventure,Fantasy",5.4,51,"USA;UK",1e+08,52784433,184069126,336567531,0,0,1,3
+"0114924",1995,"ok","While You Were Sleeping","While You Were Sleeping",FALSE,1995,103,"Comedy,Drama,Romance",6.7,67,"USA",1.7e+07,9288915,81057016,182057016,0,0,0,0
+"0113277",1995,"about_men","Heat","Heat",FALSE,1995,170,"Crime,Drama,Thriller",8.2,76,"USA",6e+07,8445656,67436818,187436818,0,0,0,0
+"0113198",1995,"about_men","A Goofy Movie","A Goofy Movie",FALSE,1995,78,"Adventure,Animation,Comedy",6.8,NA,"USA;Australia;France;Canada",1.8e+07,6129557,35348597,35348597,0,0,0,0
+"0113670",1995,"ok","A Little Princess","A Little Princess",FALSE,1995,97,"Drama,Family,Fantasy",7.7,83,"USA",1.7e+07,28612,10015449,10015449,0,0,1,2
+"0114319",1995,"ok","Sabrina","Sabrina",FALSE,1995,127,"Comedy,Drama,Romance",6.3,56,"Germany;USA",5.8e+07,5563259,53672080,53696278,0,0,1,2
+"0112384",1995,"ok","Apollo 13","Apollo 13",FALSE,1995,140,"Adventure,Drama,History",7.6,77,"USA",5.2e+07,25353380,173837933,355237933,1,2,0,0
+"0112571",1995,"ok","Boys on the Side","Boys on the Side",FALSE,1995,115,"Comedy,Drama",6.5,61,"USA;France",2.1e+07,4808873,23440188,23440188,0,0,0,0
+"0112722",1995,"ok","Copycat","Copycat",FALSE,1995,123,"Drama,Mystery,Thriller",6.6,54,"USA",2e+07,5170522,32051917,32051917,0,0,0,0
+"0112641",1995,"about_men","Casino","Casino",FALSE,1995,178,"Crime,Drama",8.2,73,"France;USA",5.2e+07,9946480,42512375,116112375,0,0,1,1
+"0112792",1995,"ok","Dangerous Minds","Dangerous Minds",FALSE,1995,99,"Biography,Drama",6.5,47,"USA",2.3e+07,14931503,84919401,179519401,0,0,0,0
+"0114898",1995,"about_men","Waterworld","Waterworld",FALSE,1995,135,"Action,Adventure,Sci-Fi",6.2,56,"USA",1.75e+08,21171780,88246220,264218220,0,0,1,1
+"0114323",1995,"ok","Safe","Safe",FALSE,1995,119,"Drama",7.2,76,"UK;USA",1e+06,15830,512245,512245,0,0,0,0
+"0109370",1995,"no_talk","Canadian Bacon","Canadian Bacon",FALSE,1995,91,"Comedy",6,NA,"USA;Canada",1.1e+07,53349,163971,163971,0,0,0,0
+"0113326",1995,"no_talk","Rumble in the Bronx","Hung fan kui",FALSE,1995,104,"Action,Comedy,Crime",6.8,61,"HongKong",7500000,9858380,32392047,32392047,0,0,0,0
+"0114746",1995,"no_talk","12 Monkeys","Twelve Monkeys",FALSE,1995,129,"Mystery,Sci-Fi,Thriller",8,74,"USA",29000001,184776,57141459,168839459,0,0,1,2
+"0113957",1995,"ok","The Net","The Net",FALSE,1995,114,"Action,Crime,Drama",5.9,51,"USA",2.2e+07,10037745,50727965,110627965,0,0,0,0
+"0113416",1995,"ok","The Incredibly True Adventure of Two Girls in Love","The Incredibly True Adventure of Two Girls in Love",FALSE,1995,94,"Comedy,Drama,Romance",6.5,NA,"USA",250000,NA,2210408,2210408,0,0,0,0
+"0112435",1995,"ok","The Baby-Sitters Club","The Baby-Sitters Club",FALSE,1995,94,"Comedy,Drama,Family",5.8,NA,"USA",6500000,3418908,9685976,9685976,0,0,0,0
+"0114108",1995,"about_men","The Pebble and the Penguin","The Pebble and the Penguin",FALSE,1995,74,"Adventure,Animation,Comedy",5.6,NA,"Ireland;USA",2.8e+07,1123041,3983912,3983912,0,0,0,0
+"0113820",1995,"ok","Mighty Morphin Power Rangers: The Movie","Mighty Morphin Power Rangers: The Movie",FALSE,1995,95,"Action,Adventure,Family",5.2,40,"USA;Japan;Australia;NewZealand",1.5e+07,13104788,38187431,66433194,0,0,0,0
+"0112346",1995,"ok","The American President","The American President",FALSE,1995,114,"Comedy,Drama,Romance",6.8,67,"USA",6.2e+07,10014558,60079496,107879496,0,0,1,1
+"0113497",1995,"ok","Jumanji","Jumanji",FALSE,1995,104,"Adventure,Comedy,Family",7,39,"USA",6.5e+07,11084370,100499940,262821940,0,0,0,0
+"0112471",1995,"no_women","Before Sunrise","Before Sunrise",FALSE,1995,101,"Drama,Romance",8.1,77,"USA;Austria;Switzerland",2500000,1423537,5535405,5986708,0,0,0,0
+"0114508",1995,"ok","Species","Species",FALSE,1995,108,"Action,Horror,Sci-Fi",5.8,49,"USA",3.5e+07,17161943,60074103,113374103,0,0,0,0
+"0114214",1995,"ok","The Quick and the Dead","The Quick and the Dead",FALSE,1995,107,"Action,Romance,Thriller",6.4,49,"Japan;USA",3.2e+07,6515861,18636537,18636537,0,0,0,0
+"0112401",1995,"no_talk","Assassins","Assassins",FALSE,1995,132,"Action,Crime,Thriller",6.3,NA,"France;USA",5e+07,9378637,30303072,30303072,0,0,0,0
+"0114787",1995,"no_talk","Underground","Underground",FALSE,1995,170,"Comedy,Drama,War",8.1,NA,"FederalRepublicofYugoslavia;France;Germany;Bulgaria;CzechRepublic;Hungary;UK;USA",1.4e+07,NA,171082,171082,0,0,0,0
+"0112715",1995,"no_women","Congo","Congo",FALSE,1995,109,"Action,Adventure,Mystery",5.3,22,"USA",5e+07,24642539,81022101,152022101,0,0,0,0
+"0113321",1995,"ok","Home for the Holidays","Home for the Holidays",FALSE,1995,103,"Comedy,Drama,Romance",6.6,56,"USA",2e+07,4007717,17519169,17519169,0,0,0,0
+"0112896",1995,"ok","Dracula: Dead and Loving It","Dracula: Dead and Loving It",FALSE,1995,88,"Comedy,Fantasy,Horror",5.9,NA,"France;USA",3e+07,2708298,10772144,10772144,0,0,0,0
+"0112857",1995,"no_talk","Devil in a Blue Dress","Devil in a Blue Dress",FALSE,1995,102,"Crime,Drama,Mystery",6.7,78,"USA",2.7e+07,5422385,16140822,16140822,0,0,0,0
+"0112682",1995,"ok","The City of Lost Children","La cité des enfants perdus",FALSE,1995,112,"Fantasy,Sci-Fi",7.5,73,"France;Germany;Spain;Belgium;USA",1.8e+07,34348,1738611,1781465,0,0,0,0
+"0112281",1995,"no_women","Ace Ventura: When Nature Calls","Ace Ventura: When Nature Calls",FALSE,1995,90,"Adventure,Comedy,Crime",6.4,45,"USA",3e+07,37804076,108385533,212385533,0,0,0,0
+"0113540",1995,"ok","Kids","Kids",FALSE,1995,91,"Drama",7.1,63,"USA",1500000,85709,7412216,7412216,0,0,0,0
+"0112819",1995,"ok","Dead Presidents","Dead Presidents",FALSE,1995,119,"Action,Crime,Drama",6.9,NA,"USA",1e+07,7943778,24147179,24147179,0,0,0,0
+"0113071",1995,"about_men","First Knight","First Knight",FALSE,1995,134,"Action,Adventure,Drama",6,NA,"USA;UK",5.5e+07,10856442,37600435,127600435,0,0,0,0
+"0113189",1995,"ok","GoldenEye","GoldenEye",FALSE,1995,130,"Action,Adventure,Thriller",7.2,65,"UK;USA",6e+07,26205007,106429941,352194034,0,0,0,0
+"0114057",1995,"about_men","Othello","Othello",FALSE,1995,123,"Drama,Romance",6.9,NA,"USA;UK",1.1e+07,29097,2844379,2844379,0,0,0,0
+"0112851",1995,"no_talk","Desperado","Desperado",FALSE,1995,104,"Action,Crime,Thriller",7.2,55,"USA;Mexico",7e+06,7910446,25405445,25405445,0,0,0,0
+"0114095",1995,"ok","Party Girl","Party Girl",FALSE,1995,94,"Comedy",6.6,55,"USA",150000,57237,472370,472370,0,0,0,0
+"0112431",1995,"ok","Babe","Babe",FALSE,1995,91,"Comedy,Drama,Family",6.7,83,"Australia;USA",3e+07,8742545,63658910,254134910,1,1,0,0
+"0114852",1995,"ok","Village of the Damned","Village of the Damned",FALSE,1995,98,"Horror,Sci-Fi,Thriller",5.7,41,"USA",2.2e+07,3222450,9418365,9418365,0,0,0,0
+"0113972",1995,"ok","Nick of Time","Nick of Time",FALSE,1995,90,"Action,Crime,Drama",6.3,NA,"USA",3.3e+07,2781601,8175346,8175346,0,0,0,0
+"0113118",1995,"about_men","Friday","Friday",FALSE,1995,91,"Comedy,Drama",7.3,54,"USA",3500000,6589341,27467564,28215918,0,0,0,0
+"0113492",1995,"ok","Judge Dredd","Judge Dredd",FALSE,1995,96,"Action,Crime,Sci-Fi",5.6,NA,"USA",9e+07,12291536,34693481,113493481,0,0,0,0
+"0112818",1995,"ok","Dead Man Walking","Dead Man Walking",FALSE,1995,122,"Crime,Drama",7.5,80,"UK;USA",1.1e+07,118266,39363635,39363635,1,1,0,0
+"0112461",1995,"no_talk","The Basketball Diaries","The Basketball Diaries",FALSE,1995,102,"Biography,Crime,Drama",7.3,46,"USA",2e+06,765335,2381087,2381087,0,0,0,0
+"0114702",1995,"no_talk","Total Eclipse","Total Eclipse",FALSE,1995,111,"Biography,Drama,Romance",6.6,42,"UK;France;Belgium",8e+06,131269,340139,340139,0,0,0,0
+"0111359",1995,"no_talk","Tall Tale","Tall Tale",FALSE,1995,96,"Adventure,Family,Fantasy",5.9,NA,"USA",3.2e+07,3046181,8247627,11047627,0,0,0,0
+"0113627",1995,"about_men","Leaving Las Vegas","Leaving Las Vegas",FALSE,1995,111,"Drama,Romance",7.5,82,"France;UK;USA",3600000,70864,32029928,32029928,1,1,0,0
+"0112966",1995,"no_women","The Englishman Who Went Up a Hill But Came Down a Mountain","The Englishman Who Went Up a Hill But Came Down a Mountain",FALSE,1995,99,"Comedy,Drama",6.6,NA,"UK",40997769,2811355,10904930,10904930,0,0,0,0
+"0114885",1995,"about_men","Waiting to Exhale","Waiting to Exhale",FALSE,1995,124,"Comedy,Drama,Romance",5.9,NA,"USA",1.6e+07,14126927,67052156,81452156,0,0,0,0
+"0114287",1995,"no_women","Rob Roy","Rob Roy",FALSE,1995,139,"Adventure,Biography,Drama",6.9,55,"UK",2.8e+07,2023272,31596911,31596911,0,0,1,1
+"0113862",1995,"ok","Mr. Holland's Opus","Mr. Holland's Opus",FALSE,1995,143,"Drama,Music",7.3,59,"USA",2.3e+07,14466,82569971,106269971,0,0,1,1
+"0112442",1995,"no_talk","Bad Boys","Bad Boys",FALSE,1995,119,"Action,Comedy,Crime",6.9,41,"USA",1.9e+07,15523358,65807024,141407024,0,0,0,0
+"0113228",1995,"ok","Grumpier Old Men","Grumpier Old Men",FALSE,1995,101,"Comedy,Romance",6.7,46,"USA",2.5e+07,7797185,71518503,71518503,0,0,0,0
+"0112760",1995,"no_talk","Cutthroat Island","Cutthroat Island",FALSE,1995,124,"Action,Adventure,Comedy",5.7,37,"France;Italy;Germany;USA",9.8e+07,2371415,10017322,10017322,0,0,0,0
+"0112740",1995,"no_women","Crimson Tide","Crimson Tide",FALSE,1995,116,"Action,Drama,Thriller",7.3,66,"USA",5.3e+07,18612190,91387195,157387195,0,0,1,3
+"0117500",1996,"no_talk","The Rock","The Rock",FALSE,1996,136,"Action,Adventure,Thriller",7.4,58,"USA",7.5e+07,25069525,134069511,335062621,0,0,1,1
+"0117723",1996,"no_talk","Spy Hard","Spy Hard",FALSE,1996,81,"Action,Comedy",5.4,25,"USA",1.8e+07,10448420,26960191,26960191,0,0,0,0
+"0117951",1996,"about_men","Trainspotting","Trainspotting",FALSE,1996,93,"Drama",8.1,83,"UK",3500000,262673,16491080,16593356,0,0,1,1
+"0115736",1996,"ok","Bound","Bound",FALSE,1996,109,"Crime,Romance,Thriller",7.3,61,"USA",4500000,900902,3802260,3802260,0,0,0,0
+"0117008",1996,"ok","Matilda","Matilda",FALSE,1996,98,"Comedy,Family,Fantasy",6.9,72,"USA",3.6e+07,8208609,33459416,33459416,0,0,0,0
+"0115759",1996,"no_women","Broken Arrow","Broken Arrow",FALSE,1996,108,"Action,Adventure,Thriller",6,61,"USA",5e+07,15583510,70770147,150270147,0,0,0,0
+"0117705",1996,"no_talk","Space Jam","Space Jam",FALSE,1996,88,"Adventure,Animation,Comedy",6.4,59,"USA",8e+07,27528529,90418342,230418342,0,0,0,0
+"0116629",1996,"ok","Independence Day","Independence Day",FALSE,1996,145,"Action,Adventure,Sci-Fi",7,59,"USA",7.5e+07,50228264,306169268,817400891,1,1,0,0
+"0117060",1996,"no_talk","Mission: Impossible","Mission: Impossible",FALSE,1996,110,"Action,Adventure,Thriller",7.1,59,"USA",8e+07,45436830,180981856,457731198,0,0,0,0
+"0116367",1996,"no_talk","From Dusk Till Dawn","From Dusk Till Dawn",FALSE,1996,108,"Action,Crime,Horror",7.2,48,"USA;Mexico",1.9e+07,10240805,25836616,25836616,0,0,0,0
+"0115798",1996,"no_talk","The Cable Guy","The Cable Guy",FALSE,1996,96,"Comedy,Drama,Thriller",6.1,56,"USA",4.7e+07,19806226,60240295,102825796,0,0,0,0
+"0117420",1996,"no_women","The Quest","The Quest",FALSE,1996,95,"Action,Adventure,Drama",5.6,NA,"USA;Canada",3e+07,7029120,21686547,57400547,0,0,0,0
+"0116130",1996,"no_women","Down Periscope","Down Periscope",FALSE,1996,92,"Comedy",6.2,39,"USA",3.1e+07,7231087,25785603,37553752,0,0,0,0
+"0117571",1996,"ok","Scream","Scream",FALSE,1996,111,"Horror,Mystery",7.2,65,"USA",1.4e+07,6354586,103046663,173046663,0,0,0,0
+"0116493",1996,"ok","Harriet the Spy","Harriet the Spy",FALSE,1996,100,"Comedy,Drama,Family",5.9,NA,"USA",1.2e+07,6601651,26570048,26570048,0,0,0,0
+"0116313",1996,"ok","The First Wives Club","The First Wives Club",FALSE,1996,103,"Comedy",6.4,58,"USA",2.6e+07,18913411,105489203,181489203,0,0,1,1
+"0116361",1996,"ok","Freeway","Freeway",FALSE,1996,102,"Comedy,Crime,Drama",6.8,61,"USA;France",3e+06,14945,295493,295493,0,0,0,0
+"0116136",1996,"about_men","DragonHeart","DragonHeart",FALSE,1996,103,"Action,Adventure,Fantasy",6.5,NA,"USA",5.7e+07,15027150,51367375,115267375,0,0,1,1
+"0116583",1996,"no_talk","The Hunchback of Notre Dame","The Hunchback of Notre Dame",FALSE,1996,91,"Animation,Drama,Family",6.9,74,"USA;France",1e+08,21037414,100138851,325338851,0,0,1,1
+"0116908",1996,"ok","The Long Kiss Goodnight","The Long Kiss Goodnight",FALSE,1996,121,"Action,Crime,Drama",6.8,44,"USA",6.5e+07,9065363,33447612,89456761,0,0,0,0
+"0117589",1996,"ok","Secrets & Lies","Secrets & Lies",FALSE,1996,136,"Comedy,Drama",8,91,"UK;France",4500000,60813,13417292,13417292,0,0,1,5
+"0115963",1996,"ok","The Craft","The Craft",FALSE,1996,101,"Drama,Fantasy,Horror",6.4,55,"USA",1.5e+07,6710995,24819936,24819936,0,0,0,0
+"0116225",1996,"no_talk","Escape from L.A.","Escape from L.A.",FALSE,1996,101,"Action,Adventure,Sci-Fi",5.8,54,"USA",5e+07,8912557,25477365,25477365,0,0,0,0
+"0116329",1996,"ok","Fly Away Home","Fly Away Home",FALSE,1996,107,"Adventure,Drama,Family",6.8,NA,"USA",2.2e+07,4708044,25143818,25143818,0,0,1,1
+"0115433",1996,"ok","101 Dalmatians","101 Dalmatians",FALSE,1996,103,"Adventure,Comedy,Crime",5.7,49,"USA;UK",7.5e+07,33504025,136189294,320689294,0,0,0,0
+"0117998",1996,"ok","Twister","Twister",FALSE,1996,113,"Action,Adventure,Thriller",6.4,68,"USA",9.2e+07,41059405,241721524,494471524,0,0,1,2
+"0116705",1996,"no_talk","Jingle All the Way","Jingle All the Way",FALSE,1996,89,"Comedy,Family",5.6,34,"USA",6e+07,12112267,60592389,129832389,0,0,0,0
+"0117765",1996,"ok","Striptease","Striptease",FALSE,1996,115,"Comedy,Crime,Drama",4.5,37,"USA",4e+07,12322069,33109743,113309743,0,0,0,0
+"0116282",1996,"about_men","Fargo","Fargo",FALSE,1996,98,"Crime,Drama,Thriller",8.1,85,"USA;UK",7e+06,730265,24611975,60611975,1,2,0,0
+"0117603",1996,"ok","Set It Off","Set It Off",FALSE,1996,123,"Action,Crime,Drama",6.9,NA,"USA",9e+06,8812105,36461139,41590886,0,0,0,0
+"0116442",1996,"ok","Grace of My Heart","Grace of My Heart",FALSE,1996,116,"Comedy,Drama,Music",6.7,NA,"USA",5e+06,173654,660313,660313,0,0,0,0
+"0116191",1996,"ok","Emma","Emma",FALSE,1996,120,"Comedy,Drama,Romance",6.6,66,"UK;USA",6e+06,240649,22231658,22231658,1,1,0,0
+"0116209",1996,"ok","The English Patient","The English Patient",FALSE,1996,162,"Drama,Romance,War",7.4,87,"USA;UK",2.7e+07,278439,78676425,231976425,1,9,0,0
+"0117718",1996,"ok","The Spitfire Grill","The Spitfire Grill",FALSE,1996,117,"Drama",7,NA,"USA",6e+06,150049,12658486,12658486,0,0,0,0
+"0117057",1996,"ok","The Mirror Has Two Faces","The Mirror Has Two Faces",FALSE,1996,126,"Comedy,Drama,Romance",6.6,NA,"USA",4.2e+07,12210868,41083864,41083864,0,0,1,2
+"0117887",1996,"ok","That Thing You Do!","That Thing You Do!",FALSE,1996,108,"Comedy,Drama,Music",6.9,71,"USA",2.6e+07,6208595,25857416,34585416,0,0,1,1
+"0118113",1996,"ok","Walking and Talking","Walking and Talking",FALSE,1996,86,"Comedy,Drama,Romance",6.7,67,"UK;USA;Germany;Italy;France",1e+06,NA,1287480,1287480,0,0,0,0
+"0115856",1996,"ok","When the Cat's Away","Chacun cherche son chat",FALSE,1996,91,"Comedy,Romance",6.8,NA,"France",3e+05,NA,1474628,1474628,0,0,0,0
+"0117093",1996,"no_talk","Mother Night","Mother Night",FALSE,1996,114,"Drama,Romance,War",7.1,NA,"USA",6e+06,48661,403701,403701,0,0,0,0
+"0117731",1996,"ok","Star Trek: First Contact","Star Trek: First Contact",FALSE,1996,111,"Action,Adventure,Drama",7.6,71,"USA",4.5e+07,30716131,92027888,146027888,0,0,1,1
+"0116421",1996,"no_talk","The Glimmer Man","The Glimmer Man",FALSE,1996,91,"Action,Comedy,Crime",5.4,33,"USA",4.5e+07,7605504,20351264,20351264,0,0,0,0
+"0119256",1996,"no_women","Hard Eight","Sydney",FALSE,1996,102,"Crime,Drama",7.2,78,"USA",3e+06,69486,222559,222559,0,0,0,0
+"0116365",1996,"ok","The Frighteners","The Frighteners",FALSE,1996,110,"Comedy,Fantasy,Horror",7.1,52,"NewZealand;USA",3e+07,5565495,16759216,29359216,0,0,0,0
+"0116778",1996,"no_talk","Kingpin","Kingpin",FALSE,1996,114,"Comedy,Sport",6.9,43,"USA",2.7e+07,5582079,25023434,25023434,0,0,0,0
+"0115678",1996,"ok","Big Night","Big Night",FALSE,1996,109,"Drama,Romance",7.3,80,"USA",4100000,185749,12008376,12008376,0,0,0,0
+"0116683",1996,"ok","James and the Giant Peach","James and the Giant Peach",FALSE,1996,79,"Adventure,Animation,Family",6.7,78,"UK;USA",3.8e+07,7539098,28946127,28946127,0,0,1,1
+"0117509",1996,"ok","Romeo + Juliet","Romeo + Juliet",FALSE,1996,120,"Drama,Romance",6.7,60,"USA;Mexico;Australia",14500000,11133231,46351345,151841661,0,0,1,1
+"0116996",1996,"ok","Mars Attacks!","Mars Attacks!",FALSE,1996,106,"Comedy,Sci-Fi",6.3,52,"USA",7e+07,9384272,37771017,101371017,0,0,0,0
+"0116277",1996,"no_talk","The Fan","The Fan",FALSE,1996,116,"Action,Drama,Sport",5.9,32,"USA",5.5e+07,6271406,18626419,18626419,0,0,0,0
+"0116260",1996,"ok","Eye for an Eye","Eye for an Eye",FALSE,1996,101,"Crime,Drama,Thriller",6.2,NA,"USA",2e+07,6968044,26877589,26877589,0,0,0,0
+"0115857",1996,"no_talk","Chain Reaction","Chain Reaction",FALSE,1996,107,"Action,Drama,Sci-Fi",5.7,NA,"USA",5e+07,7545944,21226204,60209334,0,0,0,0
+"0115685",1996,"about_men","The Birdcage","The Birdcage",FALSE,1996,117,"Comedy",7.1,72,"USA",3.1e+07,18275828,124060553,185260553,0,0,1,1
+"0116514",1996,"no_talk","Hellraiser: Bloodline","Hellraiser: Bloodline",FALSE,1996,85,"Horror,Sci-Fi",5.2,21,"USA;UK",4e+06,4505036,9336886,9336886,0,0,0,0
+"0116905",1996,"about_men","Lone Star","Lone Star",FALSE,1996,135,"Drama,Mystery",7.4,78,"USA",5e+06,232184,12408986,12408986,0,0,1,1
+"0117372",1996,"ok","The Preacher's Wife","The Preacher's Wife",FALSE,1996,123,"Comedy,Drama,Fantasy",5.6,NA,"USA",4e+07,7649752,48102795,48102795,0,0,1,1
+"0117802",1996,"about_men","Swingers","Swingers",FALSE,1996,96,"Comedy,Drama",7.2,71,"USA",2e+05,74118,4555020,4555020,0,0,0,0
+"0115641",1996,"no_talk","Beavis and Butt-Head Do America","Beavis and Butt-Head Do America",FALSE,1996,81,"Adventure,Animation,Comedy",6.8,64,"USA",1.2e+07,20114233,63118386,63118386,0,0,0,0
+"0115964",1996,"ok","Crash","Crash",FALSE,1996,100,"Drama",6.4,47,"Canada",9e+06,738339,2664812,2664812,0,0,0,0
+"0118111",1996,"ok","Waiting for Guffman","Waiting for Guffman",FALSE,1996,84,"Comedy",7.5,71,"USA",4e+06,37990,2923982,2923982,0,0,0,0
+"0117737",1996,"ok","Stealing Beauty","Stealing Beauty",FALSE,1996,118,"Drama,Mystery,Romance",6.6,60,"Italy;France;UK",1e+07,103028,4722310,4762310,0,0,0,0
+"0115632",1996,"about_men","Basquiat","Basquiat",FALSE,1996,107,"Biography,Drama",6.9,65,"USA",3300000,83863,3011195,3011195,0,0,0,0
+"0115994",1996,"ok","Curdled","Curdled",FALSE,1996,88,"Comedy,Crime,Thriller",5.9,NA,"USA",2300000,16294,49620,49620,0,0,0,0
+"0116213",1996,"ok","Eraser","Eraser",FALSE,1996,115,"Action,Drama,Thriller",6.1,56,"USA",1e+08,24566446,101295562,242295562,0,0,1,1
+"0117991",1996,"ok","Twelfth Night or What You Will","Twelfth Night or What You Will",FALSE,1996,134,"Comedy,Drama,Romance",7.2,NA,"Ireland;UK",5e+06,33451,588621,588621,0,0,0,0
+"0116378",1996,"ok","The Funeral","The Funeral",FALSE,1996,99,"Crime,Drama",6.6,NA,"USA",12500000,41768,1227324,1227324,0,0,0,0
+"0117665",1996,"no_talk","Sleepers","Sleepers",FALSE,1996,147,"Crime,Drama,Thriller",7.6,49,"USA",4.4e+07,12305745,53315285,165615285,0,0,1,1
+"0116250",1996,"ok","Evita","Evita",FALSE,1996,135,"Biography,Drama,History",6.3,45,"USA",5.5e+07,195085,50047179,141047179,1,1,0,0
+"0116669",1996,"about_men","Jack","Jack",FALSE,1996,113,"Comedy,Drama,Fantasy",5.8,31,"USA",4.5e+07,11191496,58620973,58620973,0,0,0,0
+"0117381",1996,"no_talk","Primal Fear","Primal Fear",FALSE,1996,129,"Crime,Drama,Mystery",7.7,47,"USA",3e+07,9871222,56116183,102616183,0,0,1,1
+"0115988",1996,"ok","The Crucible","The Crucible",FALSE,1996,124,"Drama,History",6.8,NA,"USA",2.5e+07,62995,7343114,7343114,0,0,1,2
+"0116695",1996,"about_men","Jerry Maguire","Jerry Maguire",FALSE,1996,139,"Comedy,Drama,Romance",7.3,77,"USA",5e+07,17084296,153952592,273552592,1,1,0,0
+"0116999",1996,"ok","Marvin's Room","Marvin's Room",FALSE,1996,98,"Drama",6.7,68,"USA",2.3e+07,57739,12803305,12803305,0,0,1,1
+"0116830",1996,"no_talk","Last Man Standing","Last Man Standing",FALSE,1996,101,"Action,Crime,Drama",6.4,NA,"USA",6.7e+07,7010333,18115927,47267001,0,0,0,0
+"0117918",1996,"ok","Tin Cup","Tin Cup",FALSE,1996,135,"Comedy,Drama,Romance",6.4,60,"USA",4.5e+07,10128834,53854588,53854588,0,0,0,0
+"0116040",1996,"no_talk","Daylight","Daylight",FALSE,1996,114,"Action,Adventure,Drama",5.9,NA,"USA",8e+07,10015875,33023469,159212469,0,0,1,1
+"0117039",1996,"no_talk","Michael Collins","Michael Collins",FALSE,1996,133,"Biography,Drama,Thriller",7.2,60,"UK;Ireland;USA",2.5e+07,182221,11092559,11135803,0,0,1,2
+"0117331",1996,"ok","The Phantom","The Phantom",FALSE,1996,100,"Action,Adventure,Comedy",4.9,NA,"Australia;USA",4.5e+07,5072346,17323326,17323326,0,0,0,0
+"0115956",1996,"no_talk","Courage Under Fire","Courage Under Fire",FALSE,1996,116,"Action,Drama,Mystery",6.6,77,"USA",4.6e+07,12501586,59031057,100860818,0,0,0,0
+"0116483",1996,"no_women","Happy Gilmore","Happy Gilmore",FALSE,1996,92,"Comedy,Sport",7,31,"USA",1.2e+07,8514125,38824099,41205099,0,0,0,0
+"0115571",1996,"no_talk","The Arrival","The Arrival",FALSE,1996,115,"Sci-Fi,Thriller",6.3,56,"USA;Mexico",2.5e+07,4806763,14063331,14063331,0,0,0,0
+"0118655",1997,"about_men","Austin Powers: International Man of Mystery","Austin Powers: International Man of Mystery",FALSE,1997,94,"Adventure,Comedy",7,51,"USA",16500000,9548111,53883989,67683989,0,0,0,0
+"0119116",1997,"no_talk","The Fifth Element","The Fifth Element",FALSE,1997,126,"Action,Adventure,Sci-Fi",7.7,52,"France;UK;USA",9.3e+07,17031345,63820180,264029966,0,0,1,1
+"0119174",1997,"no_talk","The Game","The Game",FALSE,1997,129,"Action,Drama,Mystery",7.8,61,"USA",5e+07,14337029,48323648,109423648,0,0,0,0
+"0119731",1997,"no_talk","Murder at 1600","Murder at 1600",FALSE,1997,107,"Action,Crime,Drama",6.1,47,"USA",4e+07,7962268,25804707,25804707,0,0,0,0
+"0119177",1997,"no_talk","Gattaca","Gattaca",FALSE,1997,106,"Drama,Sci-Fi,Thriller",7.8,64,"USA",3.6e+07,4320202,12532777,12532777,0,0,1,1
+"0119654",1997,"no_talk","Men in Black","Men in Black",FALSE,1997,98,"Action,Adventure,Comedy",7.3,71,"USA",9e+07,51068455,250690539,589390539,1,1,0,0
+"0118971",1997,"ok","The Devil's Advocate","The Devil's Advocate",FALSE,1997,144,"Drama,Mystery,Thriller",7.5,60,"USA;Germany",5.7e+07,12170536,60944660,152944660,0,0,0,0
+"0120201",1997,"ok","Starship Troopers","Starship Troopers",FALSE,1997,129,"Action,Adventure,Sci-Fi",7.2,51,"USA",1.05e+08,22058773,54814377,121214377,0,0,1,1
+"0118583",1997,"ok","Alien: Resurrection","Alien: Resurrection",FALSE,1997,109,"Action,Horror,Sci-Fi",6.2,63,"USA",7.5e+07,16474092,47795658,161376069,0,0,0,0
+"0118883",1997,"about_men","Conspiracy Theory","Conspiracy Theory",FALSE,1997,135,"Action,Mystery,Thriller",6.7,49,"USA",7.5e+07,19313566,75982834,136982834,0,0,0,0
+"0120514",1997,"ok","Wilde","Wilde",FALSE,1997,118,"Biography,Drama,Romance",6.9,NA,"UK;Japan;Germany",1e+07,69424,2158775,2158775,0,0,0,0
+"0120338",1997,"ok","Titanic","Titanic",FALSE,1997,194,"Drama,Romance",7.8,75,"USA",2e+08,28638131,659363944,2194439542,1,11,0,0
+"0118928",1997,"ok","Dante's Peak","Dante's Peak",FALSE,1997,108,"Action,Adventure,Thriller",5.9,43,"USA",1.16e+08,18479435,67127760,178127760,0,0,0,0
+"0119528",1997,"no_talk","Liar Liar","Liar Liar",FALSE,1997,86,"Comedy,Fantasy",6.9,70,"USA",4.5e+07,31423025,181410615,302710615,0,0,0,0
+"0119137",1997,"about_men","Flubber","Flubber",FALSE,1997,93,"Comedy,Family,Sci-Fi",5.3,37,"USA",8e+07,26725207,92977226,177977226,0,0,0,0
+"0119173",1997,"ok","G.I. Jane","G.I. Jane",FALSE,1997,125,"Action,Drama,War",5.9,62,"USA;UK",5e+07,11094241,48169156,48169156,0,0,0,0
+"0118880",1997,"about_men","Con Air","Con Air",FALSE,1997,115,"Action,Crime,Thriller",6.9,52,"USA",7.5e+07,24131738,101117573,224012234,0,0,1,2
+"0118799",1997,"no_women","Life Is Beautiful","La vita è bella",FALSE,1997,116,"Comedy,Drama,Romance",8.6,59,"Italy",2e+07,118920,57563264,230098753,1,3,0,0
+"0119217",1997,"no_women","Good Will Hunting","Good Will Hunting",FALSE,1997,126,"Drama,Romance",8.3,70,"USA",1e+07,272912,138433435,225933435,1,2,0,0
+"0119925",1997,"no_talk","The Postman","The Postman",FALSE,1997,177,"Action,Adventure,Drama",6.1,29,"USA",8e+07,5260324,17626234,17626234,0,0,0,0
+"0119081",1997,"ok","Event Horizon","Event Horizon",FALSE,1997,96,"Horror,Sci-Fi,Thriller",6.7,35,"UK;USA",6e+07,9511915,26673242,26673242,0,0,0,0
+"0119282",1997,"ok","Hercules","Hercules",FALSE,1997,93,"Adventure,Animation,Comedy",7.3,74,"USA;France",8.5e+07,249567,99112101,252712101,0,0,1,1
+"0118884",1997,"ok","Contact","Contact",FALSE,1997,150,"Drama,Mystery,Sci-Fi",7.4,62,"USA",9e+07,20584908,100920329,171120329,0,0,1,1
+"0119822",1997,"ok","As Good as It Gets","As Good as It Gets",FALSE,1997,139,"Comedy,Drama,Romance",7.7,67,"USA",5e+07,12606928,148478011,314178011,1,2,0,0
+"0119229",1997,"ok","Grosse Pointe Blank","Grosse Pointe Blank",FALSE,1997,107,"Action,Comedy,Crime",7.3,76,"USA",1.5e+07,6870397,28084357,28084357,0,0,0,0
+"0119432",1997,"about_men","Jungle 2 Jungle","Jungle 2 Jungle",FALSE,1997,105,"Comedy,Family",5.2,42,"USA;France",3.2e+07,12812047,59927618,59927618,0,0,0,0
+"0119142",1997,"ok","For Richer or Poorer","For Richer or Poorer",FALSE,1997,115,"Comedy",5.8,NA,"USA",3.5e+07,6015970,31642995,32748995,0,0,0,0
+"0118571",1997,"no_talk","Air Force One","Air Force One",FALSE,1997,124,"Action,Drama,Thriller",6.5,61,"USA;Germany",8.5e+07,37132505,172956409,315156409,0,0,1,2
+"0119738",1997,"about_men","My Best Friend's Wedding","My Best Friend's Wedding",FALSE,1997,105,"Comedy,Drama,Romance",6.3,50,"USA",3.8e+07,21678377,127120029,299288605,0,0,1,1
+"0118617",1997,"ok","Anastasia","Anastasia",FALSE,1997,94,"Adventure,Animation,Drama",7.2,61,"USA",5e+07,120541,58406347,139804348,0,0,1,2
+"0118570",1997,"no_talk","Air Bud","Air Bud",FALSE,1997,98,"Comedy,Drama,Family",5.2,NA,"USA;Canada",3e+06,4878632,23144499,23144499,0,0,0,0
+"0119215",1997,"no_talk","Good Burger","Good Burger",FALSE,1997,95,"Comedy,Family",5.7,41,"USA",9e+06,7058333,23712993,23712993,0,0,0,0
+"0119115",1997,"no_talk","Fierce Creatures","Fierce Creatures",FALSE,1997,93,"Comedy",6.4,62,"UK;USA",2.5e+07,3759480,9381260,9381260,0,0,0,0
+"0118829",1997,"ok","Cats Don't Dance","Cats Don't Dance",FALSE,1997,75,"Animation,Comedy,Family",6.9,NA,"USA",3.2e+07,939781,3566637,3566637,0,0,0,0
+"0119080",1997,"ok","Eve's Bayou","Eve's Bayou",FALSE,1997,109,"Drama",7.3,78,"USA",6e+06,3287846,14842388,14842388,0,0,0,0
+"0119396",1997,"ok","Jackie Brown","Jackie Brown",FALSE,1997,154,"Crime,Drama,Thriller",7.5,64,"USA",1.2e+07,9292248,39673162,39673162,0,0,1,1
+"0119488",1997,"no_talk","L.A. Confidential","L.A. Confidential",FALSE,1997,138,"Crime,Drama,Mystery",8.2,90,"USA",3.5e+07,5211198,64616940,126216940,1,2,0,0
+"0118749",1997,"ok","Boogie Nights","Boogie Nights",FALSE,1997,155,"Drama",7.9,85,"USA",1.5e+07,50168,26400640,43101594,0,0,1,3
+"0120461",1997,"ok","Volcano","Volcano",FALSE,1997,104,"Action,Drama,Sci-Fi",5.5,55,"USA",9e+07,14581740,49323468,122823468,0,0,0,0
+"0118842",1997,"ok","Chasing Amy","Chasing Amy",FALSE,1997,113,"Comedy,Drama,Romance",7.2,71,"USA",250000,52446,12021272,12021272,0,0,0,0
+"0119859",1997,"ok","Paradise Road","Paradise Road",FALSE,1997,122,"Drama,History,War",6.8,48,"Australia;USA",1.6e+07,62518,2007100,2007100,0,0,0,0
+"0120434",1997,"ok","Vegas Vacation","Vegas Vacation",FALSE,1997,93,"Comedy",6,20,"USA",2.5e+07,12837927,36400360,36400360,0,0,0,0
+"0120094",1997,"ok","Selena","Selena",FALSE,1997,127,"Biography,Drama,Music",6.7,67,"USA",2e+07,11615722,35281794,35281794,0,0,0,0
+"0120133",1997,"ok","A Simple Wish","A Simple Wish",FALSE,1997,89,"Comedy,Family,Fantasy",5.4,NA,"USA",2.8e+07,2732880,8345056,8345056,0,0,0,0
+"0118845",1997,"no_women","Happy Together","Chun gwong cha sit",FALSE,1997,96,"Drama,Romance",7.8,69,"HongKong;Japan;SouthKorea",4200000,NA,320319,320319,0,0,0,0
+"0120177",1997,"ok","Spawn","Spawn",FALSE,1997,96,"Action,Drama,Horror",5.3,34,"USA",4e+07,19738749,54870175,87840042,0,0,0,0
+"0119468",1997,"about_men","Kiss the Girls","Kiss the Girls",FALSE,1997,115,"Crime,Drama,Mystery",6.6,46,"USA",2.7e+07,13215167,60527873,60527873,0,0,0,0
+"0124819",1997,"no_talk","Orgazmo","Orgazmo",FALSE,1997,94,"Comedy",6.2,48,"USA;Japan",1e+06,210073,602302,602302,0,0,0,0
+"0116922",1997,"no_talk","Lost Highway","Lost Highway",FALSE,1997,134,"Mystery,Thriller",7.6,52,"France;USA",1.5e+07,212710,3675201,3703548,0,0,0,0
+"0120152",1997,"ok","Smilla's Sense of Snow","Smilla's Sense of Snow",FALSE,1997,121,"Crime,Drama,Mystery",6.4,45,"Denmark;Germany;Sweden",3.5e+07,107108,2372903,2372903,0,0,0,0
+"0119190",1997,"ok","George of the Jungle","George of the Jungle",FALSE,1997,92,"Action,Adventure,Comedy",5.5,53,"USA",5.5e+07,16540791,105263257,174463257,0,0,0,0
+"0119874",1997,"ok","The Peacemaker","The Peacemaker",FALSE,1997,124,"Action,Adventure,Thriller",5.9,43,"USA",5e+07,12311939,41263140,110463140,0,0,0,0
+"0119361",1997,"no_talk","In the Company of Men","In the Company of Men",FALSE,1997,97,"Comedy,Drama",7.2,81,"Canada;USA",25000,100006,2804473,2804473,0,0,0,0
+"0120082",1997,"ok","Scream 2","Scream 2",FALSE,1997,120,"Horror,Mystery",6.2,63,"USA",2.4e+07,32926342,101363301,172363301,0,0,0,0
+"0119345",1997,"ok","I Know What You Did Last Summer","I Know What You Did Last Summer",FALSE,1997,101,"Horror,Mystery",5.7,52,"USA",1.7e+07,15818645,72586134,125586134,0,0,0,0
+"0119567",1997,"ok","The Lost World: Jurassic Park","The Lost World: Jurassic Park",FALSE,1997,129,"Action,Adventure,Sci-Fi",6.6,59,"USA",7.3e+07,72132785,229086679,618638999,0,0,1,1
+"0119896",1997,"ok","Picture Perfect","Picture Perfect",FALSE,1997,101,"Comedy,Drama,Romance",5.5,44,"USA",1e+07,7809026,31407873,44332015,0,0,0,0
+"0119094",1997,"no_talk","Face/Off","Face/Off",FALSE,1997,138,"Action,Crime,Sci-Fi",7.3,82,"USA",8e+07,23387530,112276146,245676146,0,0,1,1
+"0120169",1997,"ok","Soul Food","Soul Food",FALSE,1997,115,"Comedy,Drama",7,68,"USA",7500000,11197897,43700855,43700855,0,0,0,0
+"0119784",1997,"ok","The Night Flier","The Night Flier",FALSE,1997,94,"Fantasy,Horror,Mystery",6,36,"USA;Italy",1e+06,91549,125397,125397,0,0,0,0
+"0119324",1997,"ok","The House of Yes","The House of Yes",FALSE,1997,85,"Comedy,Drama",6.6,54,"USA",1500000,63266,626057,626057,0,0,0,0
+"0119164",1997,"about_men","The Full Monty","The Full Monty",FALSE,1997,91,"Comedy,Drama",7.2,75,"UK;USA",3500000,176585,45950122,257938649,1,1,0,0
+"0119535",1997,"about_men","A Life Less Ordinary","A Life Less Ordinary",FALSE,1997,103,"Comedy,Crime,Fantasy",6.4,35,"UK;USA",1.2e+07,2007279,4366722,4366722,0,0,0,0
+"0119008",1997,"no_talk","Donnie Brasco","Donnie Brasco",FALSE,1997,127,"Biography,Crime,Drama",7.7,76,"USA",3.5e+07,11660216,41909762,124909762,0,0,1,1
+"0120102",1997,"no_talk","Seven Years in Tibet","Seven Years in Tibet",FALSE,1997,136,"Adventure,Biography,Drama",7.1,55,"USA;UK",7e+07,10020378,37957682,131457682,0,0,0,0
+"0118604",1997,"no_talk","An American Werewolf in Paris","An American Werewolf in Paris",FALSE,1997,105,"Comedy,Fantasy,Horror",5.1,31,"UK;Netherlands;Luxembourg;USA;France;Germany",2.5e+07,7600878,26570463,26570463,0,0,0,0
+"0119237",1997,"ok","Gummo","Gummo",FALSE,1997,89,"Comedy,Drama",6.8,19,"USA",1300000,NA,116799,116799,0,0,0,0
+"0118887",1997,"no_women","Cop Land","Cop Land",FALSE,1997,105,"Crime,Drama,Thriller",6.9,64,"USA",1.5e+07,13510482,44862187,44862187,0,0,0,0
+"0119558",1997,"ok","Lolita","Lolita",FALSE,1997,137,"Drama,Romance",6.9,46,"France;USA",6.2e+07,19492,1071255,1071255,0,0,0,0
+"0118615",1997,"about_men","Anaconda","Anaconda",FALSE,1997,89,"Action,Adventure,Horror",4.8,37,"USA",4.5e+07,16620887,65885767,136885767,0,0,0,0
+"0120347",1997,"no_talk","Tomorrow Never Dies","Tomorrow Never Dies",FALSE,1997,119,"Action,Adventure,Thriller",6.5,52,"UK;USA",1.1e+08,25143007,125304276,333011068,0,0,0,0
+"0119303",1997,"ok","Home Alone 3","Home Alone 3",FALSE,1997,102,"Comedy,Crime,Family",4.5,NA,"USA",3.2e+07,5085482,30882515,79082515,0,0,0,0
+"0119360",1997,"about_men","In & Out","In & Out",FALSE,1997,90,"Comedy,Romance",6.4,70,"USA",3.5e+07,15019821,63856929,63856929,0,0,1,1
+"0118849",1997,"ok","Children of Heaven","Bacheha-Ye aseman",FALSE,1997,89,"Drama,Family,Sport",8.3,NA,"Iran",180000,20100,933933,933933,0,0,1,1
+"0118755",1997,"ok","The Borrowers","The Borrowers",FALSE,1997,89,"Adventure,Comedy,Family",5.9,NA,"UK;USA",2.9e+07,4470111,22619589,22619589,0,0,0,0
+"0118607",1997,"no_women","Amistad","Amistad",FALSE,1997,155,"Biography,Drama,History",7.3,63,"USA",3.6e+07,4573523,44229441,44229441,0,0,1,4
+"0120768",1998,"no_talk","The Negotiator","The Negotiator",FALSE,1998,140,"Action,Crime,Drama",7.3,62,"Germany;USA",5e+07,10218831,44547681,44547681,0,0,0,0
+"0120611",1998,"no_talk","Blade","Blade",FALSE,1998,120,"Action,Horror,Sci-Fi",7.1,45,"USA",4.5e+07,17073856,70087718,131183530,0,0,0,0
+"0120647",1998,"ok","Deep Impact","Deep Impact",FALSE,1998,120,"Action,Drama,Romance",6.2,40,"USA",7.5e+07,41152375,140464664,349464664,0,0,0,0
+"0120762",1998,"ok","Mulan","Mulan",FALSE,1998,88,"Adventure,Animation,Family",7.6,71,"USA",9e+07,22745143,120620254,304320254,0,0,1,1
+"0120382",1998,"no_talk","The Truman Show","The Truman Show",FALSE,1998,103,"Comedy,Drama,Sci-Fi",8.1,90,"USA",6e+07,31542121,125618201,264118201,0,0,1,3
+"0120631",1998,"ok","Ever After: A Cinderella Story","EverAfter",FALSE,1998,121,"Comedy,Drama,Romance",7,66,"USA",2.6e+07,8526904,65705771,98005666,0,0,0,0
+"0120863",1998,"no_talk","The Thin Red Line","The Thin Red Line",FALSE,1998,170,"Drama,War",7.6,78,"USA",5.2e+07,282534,36400491,98126565,0,0,1,7
+"0120777",1998,"ok","The Opposite of Sex","The Opposite of Sex",FALSE,1997,105,"Comedy,Drama,Romance",6.3,70,"USA",5e+06,102385,5881367,5881367,0,0,0,0
+"0128445",1998,"ok","Rushmore","Rushmore",FALSE,1998,93,"Comedy,Drama",7.7,86,"USA",9e+06,43666,17105219,17195500,0,0,0,0
+"0120184",1998,"no_talk","Sphere","Sphere",FALSE,1998,134,"Action,Mystery,Sci-Fi",6.1,35,"USA",8e+07,14433957,37020277,37020277,0,0,0,0
+"0118636",1998,"no_talk","Apt Pupil","Apt Pupil",FALSE,1998,111,"Crime,Drama,Thriller",6.7,51,"USA;France;Canada",1.4e+07,3583151,8863193,8863193,0,0,0,0
+"0118715",1998,"no_talk","The Big Lebowski","The Big Lebowski",FALSE,1998,117,"Comedy,Crime,Sport",8.1,71,"USA;UK",1.5e+07,5533844,18034458,46735469,0,0,0,0
+"0120669",1998,"no_talk","Fear and Loathing in Las Vegas","Fear and Loathing in Las Vegas",FALSE,1998,118,"Adventure,Comedy,Drama",7.6,41,"USA",18500000,3338590,10680275,10680275,0,0,0,0
+"0133751",1998,"ok","The Faculty","The Faculty",FALSE,1998,104,"Horror,Sci-Fi",6.5,61,"USA",1.5e+07,11633495,40283321,40283321,0,0,0,0
+"0120888",1998,"ok","The Wedding Singer","The Wedding Singer",FALSE,1998,97,"Comedy,Music,Romance",6.8,59,"USA",1.8e+07,18865080,80245725,123306987,0,0,0,0
+"0120591",1998,"no_talk","Armageddon","Armageddon",FALSE,1998,151,"Action,Adventure,Sci-Fi",6.7,42,"USA",1.4e+08,36089972,201578182,553709788,0,0,1,4
+"0128853",1998,"ok","You've Got Mail","You've Got Mail",FALSE,1998,119,"Comedy,Drama,Romance",6.6,57,"USA",6.5e+07,18426749,115821495,250821495,0,0,0,0
+"0136244",1998,"ok","Hideous Kinky","Hideous Kinky",FALSE,1998,98,"Adventure,Drama,Romance",6,NA,"UK;France",1.2e+07,82431,1263279,1263279,0,0,0,0
+"0120802",1998,"ok","The Red Violin","Le violon rouge",FALSE,1998,130,"Drama,Music,Mystery",7.6,57,"Canada;Italy;USA;UK;Austria",1.8e+07,47415,10019109,10019109,1,1,0,0
+"0147612",1998,"ok","Happiness","Happiness",FALSE,1998,134,"Comedy,Drama",7.7,81,"USA",2200000,130303,2982011,2982011,0,0,0,0
+"0120577",1998,"no_talk","54","54",FALSE,1998,93,"Drama,Music",5.9,33,"USA",1.3e+07,6611532,16757163,16757163,0,0,0,0
+"0120844",1998,"ok","Star Trek: Insurrection","Star Trek: Insurrection",FALSE,1998,103,"Action,Adventure,Sci-Fi",6.4,64,"USA",5.8e+07,22052836,70187658,112587658,0,0,0,0
+"0120746",1998,"no_talk","The Mask of Zorro","The Mask of Zorro",FALSE,1998,136,"Action,Adventure,Comedy",6.7,63,"USA;Germany;Mexico",9.5e+07,22525855,94095523,250288523,0,0,1,2
+"0120828",1998,"no_talk","Six Days Seven Nights","Six Days Seven Nights",FALSE,1998,102,"Action,Adventure,Comedy",5.8,51,"USA",7e+07,16485276,74339294,164839294,0,0,0,0
+"0120791",1998,"ok","Practical Magic","Practical Magic",FALSE,1998,104,"Comedy,Drama,Fantasy",6.3,46,"USA",7.5e+07,13104694,46732881,46732881,0,0,0,0
+"0120789",1998,"ok","Pleasantville","Pleasantville",FALSE,1998,124,"Comedy,Drama,Fantasy",7.5,71,"USA",6e+07,8855063,40584421,49805462,0,0,1,3
+"0120744",1998,"no_talk","The Man in the Iron Mask","The Man in the Iron Mask",FALSE,1998,132,"Action,Adventure,Drama",6.5,48,"France;USA",3.5e+07,17271450,56968902,182968902,0,0,0,0
+"0120815",1998,"no_women","Saving Private Ryan","Saving Private Ryan",FALSE,1998,169,"Drama,War",8.6,91,"USA",7e+07,30576104,217049603,482349603,1,5,0,0
+"0120686",1998,"ok","Stepmom","Stepmom",FALSE,1998,125,"Comedy,Drama",6.8,58,"USA",5e+07,19142440,91137662,159710793,0,0,0,0
+"0120812",1998,"no_talk","Rush Hour","Rush Hour",FALSE,1998,98,"Action,Comedy,Crime",7,60,"USA",3.3e+07,33001803,141186864,244721064,0,0,0,0
+"0128442",1998,"no_talk","Rounders","Rounders",FALSE,1998,121,"Crime,Drama",7.3,54,"USA",1.2e+07,8459126,22912409,22912409,0,0,0,0
+"0138704",1998,"about_men","Pi","Pi",FALSE,1998,84,"Drama,Horror,Mystery",7.4,72,"USA",60000,31069,3221152,3221152,0,0,0,0
+"0120794",1998,"ok","The Prince of Egypt","The Prince of Egypt",FALSE,1998,99,"Adventure,Animation,Drama",7.1,64,"USA",7e+07,14524321,101413188,218613188,1,1,0,0
+"0119517",1998,"ok","Your Friends & Neighbors","Your Friends & Neighbors",FALSE,1998,100,"Comedy,Drama,Romance",6.3,70,"USA",5e+06,340288,4714658,4714658,0,0,0,0
+"0118929",1998,"no_talk","Dark City","Dark City",FALSE,1998,100,"Mystery,Sci-Fi,Thriller",7.6,66,"Australia;USA",2.7e+07,5576953,14378331,27200316,0,0,0,0
+"0138097",1998,"ok","Shakespeare in Love","Shakespeare in Love",FALSE,1998,123,"Comedy,Drama,History",7.1,87,"USA;UK",2.5e+07,224012,100317794,289317794,1,7,0,0
+"0120800",1998,"ok","Quest for Camelot","Quest for Camelot",FALSE,1998,86,"Adventure,Animation,Comedy",6.3,NA,"USA",4e+07,6041602,22510798,22510798,0,0,1,1
+"0120902",1998,"ok","The X Files","The X Files",FALSE,1998,121,"Drama,Mystery,Sci-Fi",7,60,"USA",6.6e+07,30138758,83898313,189176423,0,0,0,0
+"0127536",1998,"ok","Elizabeth","Elizabeth",FALSE,1998,124,"Biography,Drama,History",7.4,75,"UK",3e+07,275131,30082699,82150642,1,1,0,0
+"0118789",1998,"no_talk","Buffalo '66","Buffalo '66",FALSE,1998,110,"Comedy,Drama,Romance",7.5,68,"USA;Canada",1500000,39555,2375097,2375097,0,0,0,0
+"0120623",1998,"ok","A Bug's Life","A Bug's Life",FALSE,1998,95,"Adventure,Animation,Comedy",7.2,77,"USA",1.2e+08,291121,162798565,363258859,0,0,1,1
+"0120685",1998,"ok","Godzilla","Godzilla",FALSE,1998,139,"Action,Sci-Fi,Thriller",5.4,32,"USA;Japan",1.3e+08,44047541,136314294,379014294,0,0,0,0
+"0120780",1998,"about_men","Out of Sight","Out of Sight",FALSE,1998,123,"Comedy,Crime,Drama",7,85,"USA",4.8e+07,12020435,37562568,77745568,0,0,1,2
+"0119942",1998,"ok","Primary Colors","Primary Colors",FALSE,1998,143,"Comedy,Drama",6.6,70,"UK;France;Germany;Japan;USA",6.5e+07,12045395,39001187,52090187,0,0,1,2
+"0120586",1998,"about_men","American History X","American History X",FALSE,1998,119,"Drama",8.5,62,"USA",2e+07,156076,6719864,23875127,0,0,1,1
+"0120831",1998,"ok","Slums of Beverly Hills","Slums of Beverly Hills",FALSE,1998,91,"Comedy,Drama",6.6,69,"USA",5e+06,125561,5502773,5502773,0,0,0,0
+"0154420",1998,"ok","The Celebration","Festen",FALSE,1998,105,"Drama",8,82,"Denmark;Sweden",1300000,NA,1656223,1656223,0,0,0,0
+"0122718",1998,"no_talk","Small Soldiers","Small Soldiers",FALSE,1998,108,"Action,Adventure,Comedy",6.2,NA,"USA",4e+07,14047592,54682547,54682547,0,0,0,0
+"0120813",1998,"no_women","Safe Men","Safe Men",FALSE,1998,88,"Comedy,Crime",5.9,NA,"USA",1e+06,21210,45724,45724,0,0,0,0
+"0120321",1998,"ok","Smoke Signals","Smoke Signals",FALSE,1998,89,"Comedy,Drama",7.1,76,"Canada;USA",2e+06,43574,6745362,6745362,0,0,0,0
+"0120749",1998,"no_talk","Mercury Rising","Mercury Rising",FALSE,1998,111,"Action,Crime,Drama",6.1,37,"USA",6e+07,10104715,32935289,93107289,0,0,0,0
+"0131857",1998,"no_talk","BASEketball","BASEketball",FALSE,1998,103,"Comedy,Sport",6.5,38,"USA",2.5e+07,3086105,7027290,7027290,0,0,0,0
+"0134619",1998,"no_talk","Disturbing Behavior","Disturbing Behavior",FALSE,1998,84,"Horror,Mystery,Sci-Fi",5.7,NA,"Australia;USA;Canada",1.5e+07,7007714,17514980,17514980,0,0,0,0
+"0120877",1998,"no_women","Vampires","Vampires",FALSE,1998,108,"Action,Horror,Thriller",6.2,42,"Japan;USA",2e+07,9106497,20308772,20308772,0,0,0,0
+"0120148",1998,"ok","Sliding Doors","Sliding Doors",FALSE,1998,99,"Comedy,Drama,Fantasy",6.7,59,"UK;USA",6e+06,834817,11841544,11841544,0,0,0,0
+"0120728",1998,"ok","The Last Days of Disco","The Last Days of Disco",FALSE,1998,113,"Comedy,Drama,Music",6.7,76,"USA",8e+06,277601,3020601,3020601,0,0,0,0
+"0120603",1998,"ok","Beloved","Beloved",FALSE,1998,172,"Drama,History,Horror",6,57,"USA",8e+07,8165551,22852487,22852487,0,0,1,1
+"0140888",1998,"ok","Central Station","Central do Brasil",FALSE,1998,110,"Drama",8,80,"Brazil;France",2900000,35708,5969553,5971073,0,0,1,2
+"0119313",1998,"ok","Hope Floats","Hope Floats",FALSE,1998,114,"Drama,Romance",6,42,"USA",3e+07,14210464,60053195,81471882,0,0,0,0
+"0144120",1998,"no_talk","Bride of Chucky","Bride of Chucky",FALSE,1998,89,"Comedy,Horror",5.4,48,"USA;Canada",2.5e+07,11830855,32400658,50688658,0,0,0,0
+"0146336",1998,"ok","Urban Legend","Urban Legend",FALSE,1998,99,"Horror,Mystery,Thriller",5.6,35,"USA;Canada",1.4e+07,10515444,38072438,72527595,0,0,0,0
+"0120694",1998,"ok","Halloween H20: 20 Years Later","Halloween H20: 20 Years Later",FALSE,1998,86,"Horror,Thriller",5.8,52,"USA",1.7e+07,16187724,55041738,55041738,0,0,0,0
+"0120890",1998,"ok","Wild Things","Wild Things",FALSE,1998,108,"Crime,Drama,Mystery",6.5,52,"USA",2e+07,9622444,30147739,30147739,0,0,0,0
+"0120660",1998,"no_talk","Enemy of the State","Enemy of the State",FALSE,1998,132,"Action,Thriller",7.3,67,"USA",9e+07,20038573,111549836,250849789,0,0,0,0
+"0120738",1998,"ok","Lost in Space","Lost in Space",FALSE,1998,130,"Action,Adventure,Family",5.2,42,"USA",8e+07,20154919,69117629,136159423,0,0,0,0
+"0129387",1998,"ok","There's Something About Mary","There's Something About Mary",FALSE,1998,119,"Comedy,Romance",7.1,69,"USA",2.3e+07,13740644,176484651,369884651,0,0,0,0
+"0120632",1998,"ok","City of Angels","City of Angels",FALSE,1998,114,"Drama,Fantasy,Romance",6.7,54,"USA;Germany",5.5e+07,15369048,78685114,198685114,0,0,0,0
+"0119336",1998,"no_talk","Hurlyburly","Hurlyburly",FALSE,1998,122,"Comedy,Drama",5.9,NA,"USA",1.5e+07,164826,1798862,1808004,0,0,0,0
+"0154506",1998,"no_women","Following","Following",FALSE,1998,69,"Crime,Mystery,Thriller",7.5,60,"UK",6000,NA,48482,48482,0,0,0,0
+"0129290",1998,"ok","Patch Adams","Patch Adams",FALSE,1998,115,"Biography,Comedy,Drama",6.8,25,"USA",9e+07,25262280,135026902,202292902,0,0,1,1
+"0134067",1998,"ok","The Rugrats Movie","The Rugrats Movie",FALSE,1998,79,"Adventure,Animation,Comedy",5.9,NA,"USA",2.4e+07,27321470,100494675,140894675,0,0,0,0
+"0130018",1998,"ok","I Still Know What You Did Last Summer","I Still Know What You Did Last Summer",FALSE,1998,100,"Horror,Mystery",4.7,21,"USA;Mexico",6.5e+07,16520038,40002112,40002112,0,0,0,0
+"0126604",1998,"ok","Pecker","Pecker",FALSE,1998,87,"Comedy,Drama",6.3,66,"USA",6e+06,541646,2281761,2281761,0,0,0,0
+"0122690",1998,"no_talk","Ronin","Ronin",FALSE,1998,122,"Action,Crime,Thriller",7.3,67,"UK;France;USA",5.5e+07,12697641,41616262,41616262,0,0,0,0
+"0120484",1998,"about_men","The Waterboy","The Waterboy",FALSE,1998,90,"Comedy,Sport",6.1,41,"USA",2.3e+07,39414071,161491646,185991646,0,0,0,0
+"0156729",1998,"no_talk","Last Night","Last Night",FALSE,1998,95,"Comedy,Drama,Romance",7.1,65,"Canada;France",2e+06,NA,591165,591165,0,0,0,0
+"0120832",1998,"no_talk","Snake Eyes","Snake Eyes",FALSE,1998,98,"Crime,Mystery,Thriller",6,52,"USA;Canada",7.3e+07,16310373,55591409,103891409,0,0,0,0
+"0120533",1998,"ok","Celebrity","Celebrity",FALSE,1998,113,"Comedy,Drama",6.3,41,"USA",1.2e+07,1588013,5078660,5078660,0,0,0,0
+"0119223",1998,"no_talk","Great Expectations","Great Expectations",FALSE,1998,111,"Drama,Romance",6.9,55,"USA",2.5e+07,9593290,26420672,55494066,0,0,0,0
+"0119643",1998,"no_talk","Meet Joe Black","Meet Joe Black",FALSE,1998,178,"Drama,Fantasy,Romance",7.2,43,"USA",9e+07,15017995,44619100,142940100,0,0,0,0
+"0122151",1998,"no_talk","Lethal Weapon 4","Lethal Weapon 4",FALSE,1998,127,"Action,Crime,Thriller",6.6,37,"USA",1.4e+08,34048124,130444603,285444603,0,0,0,0
+"0120787",1998,"ok","A Perfect Murder","A Perfect Murder",FALSE,1998,107,"Crime,Drama,Thriller",6.5,50,"USA",6e+07,16615704,67638368,128038368,0,0,0,0
+"0120587",1998,"ok","Antz","Antz",FALSE,1998,83,"Adventure,Animation,Comedy",6.5,72,"USA",1.05e+08,17195160,90757863,171757863,0,0,0,0
+"0127723",1998,"no_talk","Can't Hardly Wait","Can't Hardly Wait",FALSE,1998,100,"Comedy,Romance",6.5,52,"USA",1e+07,8025910,25605015,25605015,0,0,0,0
+"0120889",1998,"no_talk","What Dreams May Come","What Dreams May Come",FALSE,1998,113,"Drama,Fantasy,Romance",7.1,44,"USA;NewZealand",8.5e+07,15833592,55382927,55382927,1,1,0,0
+"0118892",1998,"ok","Dangerous Beauty","Dangerous Beauty",FALSE,1998,111,"Biography,Drama,Romance",7.2,NA,"USA",8e+06,105989,4553271,4553271,0,0,0,0
+"0119778",1998,"ok","Next Stop Wonderland","Next Stop Wonderland",FALSE,1998,104,"Comedy,Drama,Romance",6.6,71,"USA",1e+06,123055,3395581,3395581,0,0,0,0
+"0120696",1998,"about_men","Hard Rain","Hard Rain",FALSE,1998,97,"Action,Crime,Drama",5.9,36,"USA;UK;Denmark;France;Japan;NewZealand;Germany;Australia",7e+07,8009024,19870567,19870567,0,0,0,0
+"0118998",1998,"about_men","Doctor Dolittle","Doctor Dolittle",FALSE,1998,85,"Comedy,Family,Fantasy",5.4,46,"USA",71500000,29014324,144156605,294456605,0,0,0,0
+"0145660",1999,"no_talk","Austin Powers: The Spy Who Shagged Me","Austin Powers: The Spy Who Shagged Me",FALSE,1999,95,"Action,Adventure,Comedy",6.6,59,"USA",3.3e+07,17981900,206040086,312016928,0,0,1,1
+"0144640",1999,"no_talk","Three to Tango","Three to Tango",FALSE,1999,98,"Comedy,Romance",6,36,"Australia;USA",2e+07,4406135,10570375,10570375,0,0,0,0
+"0151804",1999,"no_talk","Office Space","Office Space",FALSE,1999,89,"Comedy",7.7,68,"USA",1e+07,4231727,10827810,10827810,0,0,0,0
+"0133093",1999,"ok","The Matrix","The Matrix",FALSE,1999,136,"Action,Sci-Fi",8.7,73,"USA",6.3e+07,27788331,171479930,465343787,1,4,0,0
+"0169547",1999,"ok","American Beauty","American Beauty",FALSE,1999,122,"Drama",8.3,84,"USA",1.5e+07,861531,130096601,356296601,1,5,0,0
+"0120363",1999,"no_talk","Toy Story 2","Toy Story 2",FALSE,1999,92,"Adventure,Animation,Comedy",7.9,88,"USA",9e+07,300163,245852179,497374776,0,0,1,1
+"0162661",1999,"ok","Sleepy Hollow","Sleepy Hollow",FALSE,1999,105,"Fantasy,Horror,Mystery",7.3,65,"Germany;USA",1e+08,30060467,101071502,206071502,1,1,0,0
+"0134273",1999,"no_talk","8MM","8MM",FALSE,1999,123,"Mystery,Thriller",6.5,19,"Germany;USA",4e+07,14252888,36663315,96618699,0,0,0,0
+"0181316",1999,"no_talk","Blue Streak","Blue Streak",FALSE,1999,93,"Action,Comedy,Crime",6.3,46,"Germany;USA",6.5e+07,19208806,68518533,117758500,0,0,0,0
+"0137523",1999,"no_talk","Fight Club","Fight Club",FALSE,1999,139,"Drama",8.8,66,"USA;Germany",6.3e+07,11035485,37030102,101187503,0,0,1,1
+"0179116",1999,"ok","But I'm a Cheerleader","But I'm a Cheerleader",FALSE,1999,85,"Comedy,Drama,Romance",6.6,39,"USA",1200000,60410,2205627,2595216,0,0,0,0
+"0172493",1999,"ok","Girl, Interrupted","Girl, Interrupted",FALSE,1999,127,"Biography,Drama",7.3,51,"USA;Germany",4e+07,95399,28912646,48350205,1,1,0,0
+"0171804",1999,"about_men","Boys Don't Cry","Boys Don't Cry",FALSE,1999,118,"Biography,Crime,Drama",7.5,86,"USA",2e+06,73720,11540607,11540607,1,1,0,0
+"0155776",1999,"ok","Jawbreaker","Jawbreaker",FALSE,1999,87,"Comedy,Crime,Thriller",5.7,22,"USA",3500000,1603425,3117085,3117085,0,0,0,0
+"0147800",1999,"ok","10 Things I Hate About You","10 Things I Hate About You",FALSE,1999,97,"Comedy,Drama,Romance",7.3,70,"USA",3e+07,8330681,38178166,53478166,0,0,0,0
+"0120915",1999,"ok","Star Wars: Episode I - The Phantom Menace","Star Wars: Episode I - The Phantom Menace",FALSE,1999,136,"Action,Adventure,Fantasy",6.5,51,"USA",1.15e+08,64820970,474544677,1027082707,0,0,1,3
+"0167404",1999,"ok","The Sixth Sense","The Sixth Sense",FALSE,1999,107,"Drama,Mystery,Thriller",8.1,64,"USA",4e+07,26681262,293506292,672806292,0,0,1,6
+"0155711",1999,"no_talk","Flawless","Flawless",FALSE,1999,112,"Comedy,Crime,Drama",6.5,50,"USA",1.5e+07,1590155,4488529,4488529,0,0,0,0
+"0144117",1999,"no_women","The Boondock Saints","The Boondock Saints",FALSE,1999,108,"Action,Crime,Thriller",7.8,44,"USA;Canada",6e+06,19930,30471,30471,0,0,0,0
+"0120655",1999,"ok","Dogma","Dogma",FALSE,1999,130,"Adventure,Comedy,Drama",7.3,62,"USA",1e+07,8669945,30652890,31429330,0,0,0,0
+"0120663",1999,"ok","Eyes Wide Shut","Eyes Wide Shut",FALSE,1999,159,"Drama,Mystery,Thriller",7.4,68,"UK;USA",6.5e+07,21706163,55691208,162238658,0,0,0,0
+"0123209",1999,"ok","The Other Sister","The Other Sister",FALSE,1999,129,"Comedy,Drama,Romance",6.5,28,"USA",3.5e+07,6624445,27807627,27807627,0,0,0,0
+"0139239",1999,"ok","Go","Go",FALSE,1999,102,"Comedy,Crime",7.2,72,"USA",2e+07,4706795,16943454,28451622,0,0,0,0
+"0126886",1999,"ok","Election","Election",FALSE,1999,103,"Comedy,Drama,Romance",7.2,83,"USA",2.5e+07,119080,14902041,14902041,0,0,1,1
+"0129167",1999,"no_women","The Iron Giant","The Iron Giant",FALSE,1999,86,"Action,Adventure,Animation",8,85,"USA",7e+07,5732614,23159305,23179225,0,0,0,0
+"0120601",1999,"ok","Being John Malkovich","Being John Malkovich",FALSE,1999,113,"Comedy,Drama,Fantasy",7.7,90,"USA",1.3e+07,637721,22863596,23106667,0,0,1,3
+"0177789",1999,"no_talk","Galaxy Quest","Galaxy Quest",FALSE,1999,102,"Adventure,Comedy,Sci-Fi",7.3,70,"USA",4.5e+07,7012630,71583916,90683916,0,0,0,0
+"0120855",1999,"about_men","Tarzan","Tarzan",FALSE,1999,88,"Adventure,Animation,Family",7.3,79,"USA",1.3e+08,34221968,171091819,448191819,1,1,0,0
+"0120891",1999,"about_men","Wild Wild West","Wild Wild West",FALSE,1999,106,"Action,Comedy,Sci-Fi",4.9,38,"USA",1.7e+08,27687484,113804681,222104681,0,0,0,0
+"0140379",1999,"about_men","A Midsummer Night's Dream","A Midsummer Night's Dream",FALSE,1999,116,"Comedy,Fantasy,Romance",6.4,61,"UK;Italy;USA",1.1e+07,4285620,16071990,16071990,0,0,0,0
+"0166485",1999,"ok","Anna and the King","Anna and the King",FALSE,1999,148,"Drama,History,Romance",6.7,56,"USA",9.2e+07,5223416,39263420,113996937,0,0,1,2
+"0190641",1999,"no_talk","Pokémon: The First Movie - Mewtwo Strikes Back","Gekijô-ban poketto monsutâ - Myûtsû no gyakushû",FALSE,1998,96,"Action,Adventure,Animation",6.3,35,"Japan",3e+07,31036678,85744662,163644662,0,0,0,0
+"0164912",1999,"no_talk","Stuart Little","Stuart Little",FALSE,1999,84,"Adventure,Comedy,Family",5.9,61,"Germany;USA",1.33e+08,15018223,140035367,300135367,0,0,1,1
+"0157503",1999,"ok","Drop Dead Gorgeous","Drop Dead Gorgeous",FALSE,1999,97,"Comedy,Romance,Thriller",6.6,28,"Germany;USA",1.5e+07,3986269,10571408,10571408,0,0,0,0
+"0149691",1999,"ok","Anywhere But Here","Anywhere But Here",FALSE,1999,114,"Comedy,Drama",6.2,59,"USA",2.3e+07,5607137,18670401,23631929,0,0,0,0
+"0158983",1999,"ok","South Park: Bigger, Longer & Uncut","South Park: Bigger, Longer & Uncut",FALSE,1999,81,"Animation,Comedy,Fantasy",7.7,73,"USA",2.1e+07,11335889,52037603,83137603,0,0,1,1
+"0163651",1999,"about_men","American Pie","American Pie",FALSE,1999,95,"Comedy",7,58,"USA",1.1e+07,18709680,102561004,235483004,0,0,0,0
+"0189584",1999,"no_women","The Big Kahuna","The Big Kahuna",FALSE,1999,90,"Comedy,Drama",6.6,56,"USA",7e+06,80957,3165544,3728888,0,0,0,0
+"0175880",1999,"ok","Magnolia","Magnolia",FALSE,1999,188,"Drama",8,77,"USA",3.7e+07,193604,22455976,48451803,0,0,1,3
+"0139134",1999,"ok","Cruel Intentions","Cruel Intentions",FALSE,1999,97,"Drama,Romance",6.8,56,"USA",10500000,13020565,38773785,76347426,0,0,0,0
+"0165643",1999,"ok","Black & White","Black and White",FALSE,1999,98,"Crime,Drama,Music",4.9,47,"USA",1.2e+07,2212535,5277299,5541431,0,0,0,0
+"0120616",1999,"no_talk","The Mummy","The Mummy",FALSE,1999,124,"Action,Adventure,Fantasy",7,48,"USA",8e+07,43369635,155385488,415933406,0,0,1,1
+"0120458",1999,"ok","Virus","Virus",FALSE,1999,99,"Action,Horror,Sci-Fi",5,19,"USA;UK;Germany;Japan;France",7.5e+07,6013640,14036005,30657854,0,0,0,0
+"0185937",1999,"ok","The Blair Witch Project","The Blair Witch Project",FALSE,1999,81,"Horror,Mystery",6.5,81,"USA",60000,1512054,140539099,248639099,0,0,0,0
+"0120657",1999,"no_talk","The 13th Warrior","The 13th Warrior",FALSE,1999,102,"Action,Adventure,History",6.6,42,"USA",1.6e+08,10267756,32698899,61698899,0,0,0,0
+"0122933",1999,"no_talk","Analyze This","Analyze This",FALSE,1999,103,"Comedy,Crime",6.7,61,"USA;Australia",8e+07,18383507,106885658,176885658,0,0,0,0
+"0151738",1999,"ok","Never Been Kissed","Never Been Kissed",FALSE,1999,107,"Comedy,Drama,Romance",6.1,60,"USA",2.5e+07,11836707,55474756,84565230,0,0,0,0
+"0125439",1999,"ok","Notting Hill","Notting Hill",FALSE,1999,124,"Comedy,Drama,Romance",7.1,68,"UK;USA",4.2e+07,21811180,116089678,363944522,0,0,0,0
+"0120784",1999,"no_talk","Payback","Payback",FALSE,1999,100,"Action,Crime,Drama",7.1,46,"USA",9e+07,21221526,81526121,161626121,0,0,0,0
+"0144814",1999,"ok","The Rage: Carrie 2","The Rage: Carrie 2",FALSE,1999,104,"Horror,Sci-Fi,Thriller",4.7,42,"USA",2.1e+07,7065123,17762705,17762705,0,0,0,0
+"0120689",1999,"no_talk","The Green Mile","The Green Mile",FALSE,1999,189,"Crime,Drama,Fantasy",8.6,61,"USA",6e+07,18017152,136801374,286801374,0,0,1,4
+"0124315",1999,"ok","The Cider House Rules","The Cider House Rules",FALSE,1999,126,"Drama,Romance",7.4,75,"USA",2.4e+07,110098,57545092,88545092,1,2,0,0
+"0126916",1999,"about_men","For Love of the Game","For Love of the Game",FALSE,1999,137,"Drama,Romance,Sport",6.6,43,"USA",8e+07,13041685,35188640,46112640,0,0,0,0
+"0134119",1999,"ok","The Talented Mr. Ripley","The Talented Mr. Ripley",FALSE,1999,139,"Crime,Drama,Thriller",7.4,76,"USA",4e+07,12738237,81298265,128798265,0,0,1,5
+"0132347",1999,"no_talk","Mystery Men","Mystery Men",FALSE,1999,121,"Action,Comedy,Fantasy",6.1,65,"USA",6.8e+07,10017865,29762011,33461011,0,0,0,0
+"0129332",1999,"no_talk","Ravenous","Ravenous",FALSE,1999,101,"Adventure,Comedy,Horror",7,46,"UK;Mexico;USA;CzechRepublic",1.2e+07,1040727,2062405,2062405,0,0,0,0
+"0131646",1999,"about_men","Wing Commander","Wing Commander",FALSE,1999,100,"Action,Adventure,Sci-Fi",4.3,21,"USA;Luxembourg",3e+07,5114365,11578059,11578059,0,0,0,0
+"0158811",1999,"ok","Muppets from Space","Muppets from Space",FALSE,1999,87,"Adventure,Comedy,Family",6.3,53,"USA",2.4e+07,4826049,16625807,22323612,0,0,0,0
+"0171363",1999,"ok","The Haunting","The Haunting",FALSE,1999,113,"Fantasy,Horror,Mystery",5,42,"USA;UK",8e+07,33435140,91411151,177311151,0,0,0,0
+"0133046",1999,"ok","Teaching Mrs. Tingle","Teaching Mrs. Tingle",FALSE,1999,96,"Comedy,Thriller",5.3,35,"USA",1.3e+07,3326870,8951935,8951935,0,0,0,0
+"0144168",1999,"ok","Dick","Dick",FALSE,1999,94,"Comedy",6.1,65,"France;Canada;USA",1.3e+07,2210267,6262878,6262878,0,0,0,0
+"0120907",1999,"no_talk","eXistenZ","eXistenZ",FALSE,1999,97,"Horror,Sci-Fi,Thriller",6.8,68,"UK;France;Canada",1.5e+07,810262,2856712,2856712,0,0,0,0
+"0125664",1999,"no_talk","Man on the Moon","Man on the Moon",FALSE,1999,118,"Biography,Comedy,Drama",7.4,58,"UK;Germany;Japan;USA",8.2e+07,7515585,34607430,47434430,0,0,0,0
+"0124298",1999,"ok","Blast from the Past","Blast from the Past",FALSE,1999,112,"Comedy,Drama,Romance",6.6,48,"USA",3.5e+07,7771066,26511114,40263020,0,0,0,0
+"0160862",1999,"ok","She's All That","She's All That",FALSE,1999,95,"Comedy,Romance",5.9,51,"USA",1e+07,16065430,63366989,103166989,0,0,0,0
+"0166896",1999,"ok","The Straight Story","The Straight Story",FALSE,1999,112,"Biography,Drama",8,86,"France;UK;USA",1e+07,92312,6203044,6416325,0,0,1,1
+"0120620",1999,"ok","Brokedown Palace","Brokedown Palace",FALSE,1999,100,"Drama,Mystery,Thriller",6.5,44,"USA",2.5e+07,3871616,10115013,10115013,0,0,0,0
+"0131369",1999,"no_talk","Edtv","Edtv",FALSE,1999,122,"Comedy,Drama",6.1,48,"USA",8e+07,8311290,22431897,35242897,0,0,0,0
+"0159097",1999,"ok","The Virgin Suicides","The Virgin Suicides",FALSE,1999,97,"Drama,Romance",7.2,76,"USA",9e+06,235122,4906229,10409377,0,0,0,0
+"0120613",1999,"ok","A Walk on the Moon","A Walk on the Moon",FALSE,1999,107,"Drama,Romance",6.6,70,"USA",1.4e+07,78709,4750660,4750660,0,0,0,0
+"0162710",1999,"ok","Trick","Trick",FALSE,1999,89,"Comedy,Music,Romance",7.1,NA,"USA",450000,118594,2087228,2087228,0,0,0,0
+"0131325",1999,"ok","Bowfinger","Bowfinger",FALSE,1999,97,"Comedy",6.4,71,"USA",5.5e+07,18062550,66384775,98625775,0,0,0,0
+"0120857",1999,"ok","Tea with Mussolini","Un tè con Mussolini",FALSE,1999,117,"Comedy,Drama,War",6.9,53,"Italy;UK",1.2e+07,1633183,14401563,14401563,0,0,0,0
+"0174856",1999,"about_men","The Hurricane","The Hurricane",FALSE,1999,146,"Biography,Drama,Sport",7.6,74,"USA",5e+07,384640,50699241,73956241,0,0,1,1
+"0142688",1999,"no_talk","The Ninth Gate","The Ninth Gate",FALSE,1999,133,"Mystery,Thriller",6.7,44,"France;Spain;USA",3.8e+07,6622518,18661336,58401898,0,0,0,0
+"0137338",1999,"ok","200 Cigarettes","200 Cigarettes",FALSE,1999,101,"Comedy,Drama,Romance",6,33,"USA",6e+06,3244277,6852450,6852450,0,0,0,0
+"0158371",1999,"no_talk","Sweet and Lowdown","Sweet and Lowdown",FALSE,1999,95,"Comedy,Drama,Music",7.2,70,"USA",29750000,94686,4197015,4525794,0,0,1,2
+"0143145",1999,"about_men","The World Is Not Enough","The World Is Not Enough",FALSE,1999,128,"Action,Adventure,Thriller",6.4,57,"UK;USA",1.35e+08,35519007,126943684,361832400,0,0,0,0
+"0120910",1999,"no_talk","Fantasia 2000","Fantasia 2000",FALSE,1999,75,"Animation,Comedy,Family",7.2,59,"USA",8e+07,2290525,60655420,90874570,0,0,0,0
+"0182789",1999,"ok","Bicentennial Man","Bicentennial Man",FALSE,1999,132,"Comedy,Drama,Sci-Fi",6.9,42,"USA;Germany",1e+08,8234926,58223861,87423861,0,0,1,1
+"0139462",1999,"no_talk","Message in a Bottle","Message in a Bottle",FALSE,1999,126,"Drama,Romance",6.3,39,"USA",8e+07,16751560,52880016,118880016,0,0,0,0
+"0205000",1999,"ok","Deuce Bigalow: Male Gigolo","Deuce Bigalow: Male Gigolo",FALSE,1999,88,"Comedy,Romance",5.7,30,"USA",1.7e+07,12224016,65538755,92938755,0,0,0,0
+"0155267",1999,"no_talk","The Thomas Crown Affair","The Thomas Crown Affair",FALSE,1999,113,"Crime,Romance,Thriller",6.8,72,"USA",4.8e+07,14600719,69305181,124305181,0,0,0,0
+"0120646",1999,"about_men","The Deep End of the Ocean","The Deep End of the Ocean",FALSE,1999,106,"Drama",6.4,45,"USA",3.8e+07,5558400,13898649,28121100,0,0,0,0
+"0145531",1999,"ok","Stigmata","Stigmata",FALSE,1999,103,"Horror",6.2,28,"USA;Mexico",2.9e+07,18309666,50046268,89446268,0,0,0,0
+"0139414",1999,"ok","Lake Placid","Lake Placid",FALSE,1999,82,"Action,Comedy,Horror",5.7,34,"USA",3.5e+07,10974145,31770414,56870414,0,0,0,0
+"0150377",1999,"ok","Double Jeopardy","Double Jeopardy",FALSE,1999,105,"Crime,Drama,Mystery",6.5,40,"USA;Germany;Canada",7e+07,23162542,116741558,177841558,0,0,0,0
+"0166943",1999,"ok","Music of the Heart","Music of the Heart",FALSE,1999,124,"Drama,Music",6.8,54,"USA",2.7e+07,3653281,14859394,14936407,0,0,1,2
+"0149261",1999,"no_talk","Deep Blue Sea","Deep Blue Sea",FALSE,1999,105,"Action,Adventure,Sci-Fi",5.9,54,"USA;Mexico",6e+07,19107643,73648142,164648142,0,0,0,0
+"0132477",1999,"no_talk","October Sky","October Sky",FALSE,1999,108,"Biography,Drama,Family",7.8,71,"USA",2.5e+07,5905250,32570685,34698685,0,0,0,0
+"0163187",1999,"no_talk","Runaway Bride","Runaway Bride",FALSE,1999,116,"Comedy,Romance",5.5,39,"USA",7e+07,35055556,152257509,309460292,0,0,0,0
+"0138510",1999,"about_men","Idle Hands","Idle Hands",FALSE,1999,92,"Comedy,Fantasy,Horror",6.2,31,"USA",2.5e+07,1807181,4152230,4152230,0,0,0,0
+"0146838",1999,"about_men","Any Given Sunday","Any Given Sunday",FALSE,1999,162,"Drama,Sport",6.9,52,"USA",5.5e+07,13584625,75530832,100230832,0,0,0,0
+"0142342",1999,"about_men","Big Daddy","Big Daddy",FALSE,1999,93,"Comedy,Drama",6.4,41,"USA",34200000,41536370,163479795,234801895,0,0,0,0
+"0141098",1999,"about_men","Forces of Nature","Forces of Nature",FALSE,1999,105,"Comedy,Romance",5.4,46,"USA",7.5e+07,13510728,52900680,93900680,0,0,0,0
+"0199753",2000,"no_women","Red Planet","Red Planet",FALSE,2000,106,"Action,Sci-Fi,Thriller",5.7,34,"USA;Australia",8e+07,8721296,17480890,33463969,0,0,0,0
+"0209144",2000,"no_talk","Memento","Memento",FALSE,2000,113,"Mystery,Thriller",8.4,80,"USA",9e+06,235488,25544867,39723096,0,0,1,2
+"0144084",2000,"ok","American Psycho","American Psycho",FALSE,2000,101,"Comedy,Crime,Drama",7.6,64,"USA;Canada",7e+06,4961015,15070285,34266564,0,0,0,0
+"0164052",2000,"ok","Hollow Man","Hollow Man",FALSE,2000,112,"Action,Horror,Sci-Fi",5.8,24,"USA;Germany",9.5e+07,26414386,73209340,190213455,0,0,1,1
+"0183523",2000,"no_talk","Mission to Mars","Mission to Mars",FALSE,2000,114,"Adventure,Sci-Fi,Thriller",5.7,34,"USA;Canada;France",1e+08,22855247,60883407,110983407,0,0,0,0
+"0120903",2000,"no_talk","X-Men","X-Men",FALSE,2000,104,"Action,Adventure,Sci-Fi",7.4,64,"USA",7.5e+07,54471475,157299718,296339528,0,0,0,0
+"0190865",2000,"no_talk","Vertical Limit","Vertical Limit",FALSE,2000,124,"Action,Adventure,Drama",5.9,48,"USA;Germany",7.5e+07,15507845,69243859,215663859,0,0,0,0
+"0184894",2000,"no_talk","Shanghai Noon","Shanghai Noon",FALSE,2000,110,"Action,Adventure,Comedy",6.6,77,"USA;HongKong",5.5e+07,15607034,56937502,99274467,0,0,0,0
+"0242423",2000,"about_men","Dude, Where's My Car?","Dude, Where's My Car?",FALSE,2000,83,"Comedy,Mystery,Sci-Fi",5.5,30,"USA",1.3e+07,13845914,46729800,73180723,0,0,0,0
+"0190138",2000,"ok","The Whole Nine Yards","The Whole Nine Yards",FALSE,2000,98,"Comedy,Crime",6.7,47,"USA",41300000,13731070,57262492,106371651,0,0,0,0
+"0120917",2000,"ok","The Emperor's New Groove","The Emperor's New Groove",FALSE,2000,78,"Adventure,Animation,Comedy",7.3,70,"USA",1e+08,9812302,89302687,169327687,0,0,1,1
+"0134847",2000,"ok","Pitch Black","Pitch Black",FALSE,2000,109,"Horror,Sci-Fi",7.1,49,"USA;Australia",2.3e+07,11577688,39240659,53187659,0,0,0,0
+"0195685",2000,"ok","Erin Brockovich","Erin Brockovich",FALSE,2000,131,"Biography,Drama",7.3,73,"USA",5.2e+07,28138465,125595205,256271286,1,1,0,0
+"0210070",2000,"ok","Ginger Snaps","Ginger Snaps",FALSE,2000,108,"Drama,Fantasy,Horror",6.8,70,"Canada",5e+06,1430,2554,2554,0,0,0,0
+"0181984",2000,"no_talk","Boiler Room","Boiler Room",FALSE,2000,120,"Crime,Drama,Thriller",7,63,"USA",7e+06,5742129,16970581,28780255,0,0,0,0
+"0212346",2000,"ok","Miss Congeniality","Miss Congeniality",FALSE,2000,109,"Action,Comedy,Crime",6.2,43,"USA",4.5e+07,10046534,106807667,212742720,0,0,0,0
+"0120630",2000,"ok","Chicken Run","Chicken Run",FALSE,2000,84,"Adventure,Animation,Comedy",7,88,"UK;USA;France",4.5e+07,17506162,106834564,224834564,0,0,0,0
+"0204946",2000,"ok","Bring It On","Bring It On",FALSE,2000,98,"Comedy,Romance,Sport",6,52,"USA",1.1e+07,17362105,68379000,90449929,0,0,0,0
+"0241303",2000,"ok","Chocolat","Chocolat",FALSE,2000,121,"Drama,Romance",7.2,64,"UK;USA",2.5e+07,157624,71509363,152699946,0,0,1,5
+"0190332",2000,"ok","Crouching Tiger, Hidden Dragon","Wo hu cang long",FALSE,2000,120,"Action,Adventure,Fantasy",7.8,94,"Taiwan;HongKong;USA;China",1.7e+07,663205,128078872,213525736,1,4,0,0
+"0181875",2000,"ok","Almost Famous","Almost Famous",FALSE,2000,122,"Adventure,Comedy,Drama",7.9,90,"USA",6e+07,2314646,32534850,47383689,1,1,0,0
+"0198021",2000,"ok","Where the Heart Is","Where the Heart Is",FALSE,2000,120,"Comedy,Drama,Romance",6.8,30,"USA",1.5e+07,8292939,33772838,40863718,0,0,0,0
+"0218839",2000,"ok","Best in Show","Best in Show",FALSE,2000,90,"Comedy",7.4,78,"USA",1e+07,413436,18715392,20789556,0,0,0,0
+"0191754",2000,"ok","28 Days","28 Days",FALSE,2000,103,"Comedy,Drama",6,46,"USA",4.3e+07,10310672,37170488,62198945,0,0,0,0
+"0146882",2000,"about_men","High Fidelity","High Fidelity",FALSE,2000,113,"Comedy,Drama,Music",7.5,79,"UK;USA",3e+07,6429107,27287137,47126295,0,0,0,0
+"0120913",2000,"ok","Titan A.E.","Titan A.E.",FALSE,2000,94,"Action,Adventure,Animation",6.6,48,"USA",7.5e+07,9376845,22753426,36754634,0,0,0,0
+"0138749",2000,"no_women","The Road to El Dorado","The Road to El Dorado",FALSE,2000,89,"Adventure,Animation,Comedy",6.9,51,"USA",9.5e+07,12846652,50863742,76432727,0,0,0,0
+"0161081",2000,"ok","What Lies Beneath","What Lies Beneath",FALSE,2000,130,"Drama,Fantasy,Horror",6.6,51,"USA",1e+08,29702959,155464351,291420351,0,0,0,0
+"0122459",2000,"ok","Return to Me","Return to Me",FALSE,2000,115,"Comedy,Drama,Romance",6.9,54,"USA",2.4e+07,7820836,32722798,36609995,0,0,0,0
+"0210945",2000,"ok","Remember the Titans","Remember the Titans",FALSE,2000,113,"Biography,Drama,Sport",7.8,48,"USA",3e+07,20905831,115654751,136706683,0,0,0,0
+"0210075",2000,"ok","Girlfight","Girlfight",FALSE,2000,110,"Drama,Sport",6.7,70,"USA",1e+06,197896,1565852,1666028,0,0,0,0
+"0210616",2000,"ok","Center Stage","Center Stage",FALSE,2000,115,"Drama,Music,Romance",6.7,52,"USA",2.9e+07,4604621,17200925,26385941,0,0,0,0
+"0217869",2000,"no_women","Unbreakable","Unbreakable",FALSE,2000,106,"Drama,Mystery,Sci-Fi",7.3,62,"USA",7.5e+07,30330771,95011339,248118121,0,0,0,0
+"0160127",2000,"ok","Charlie's Angels","Charlie's Angels",FALSE,2000,98,"Action,Adventure,Comedy",5.5,52,"USA;Germany",9.3e+07,40128550,125305545,264105545,0,0,0,0
+"0172495",2000,"no_women","Gladiator","Gladiator",FALSE,2000,155,"Action,Adventure,Drama",8.5,67,"USA;UK;Malta;Morocco",1.03e+08,34819017,187705427,460583960,1,5,0,0
+"0200550",2000,"ok","Coyote Ugly","Coyote Ugly",FALSE,2000,100,"Comedy,Drama,Music",5.7,27,"USA",4.5e+07,17319282,60786269,113916474,0,0,0,0
+"0207201",2000,"no_talk","What Women Want","What Women Want",FALSE,2000,127,"Comedy,Fantasy,Romance",6.4,47,"USA",7e+07,33614543,182811707,374111707,0,0,0,0
+"0168629",2000,"ok","Dancer in the Dark","Dancer in the Dark",FALSE,2000,140,"Crime,Drama,Musical",8,61,"Denmark;Germany;Netherlands;Italy;USA;UK;France;Sweden;Finland;Iceland;Argentina;Norway;Taiwan;Belgium",12800000,91612,4184036,40031879,0,0,1,1
+"0210299",2000,"ok","Songcatcher","Songcatcher",FALSE,2000,109,"Drama,Music",7.2,63,"USA",1800000,41967,3059834,3171273,0,0,0,0
+"0180093",2000,"ok","Requiem for a Dream","Requiem for a Dream",FALSE,2000,102,"Drama",8.3,68,"USA",4500000,64770,3635482,7390108,0,0,1,1
+"0255094",2000,"ok","The Circle","Dayereh",FALSE,2000,90,"Drama",7.4,85,"Iran;Italy;Switzerland",10000,NA,484472,799953,0,0,0,0
+"0182508",2000,"no_talk","Urbania","Urbania",FALSE,2000,103,"Drama",6.8,73,"USA",225000,72129,1032075,1032075,0,0,0,0
+"0212338",2000,"about_men","Meet the Parents","Meet the Parents",FALSE,2000,108,"Comedy,Romance",7,73,"USA",5.5e+07,28623300,166244045,330444045,0,0,1,1
+"0199725",2000,"ok","Love & Basketball","Love & Basketball",FALSE,2000,124,"Drama,Romance,Sport",7.2,70,"USA",2e+07,8139180,27459615,27728118,0,0,0,0
+"0187078",2000,"no_talk","Gone in 60 Seconds","Gone in Sixty Seconds",FALSE,2000,118,"Action,Crime,Thriller",6.5,35,"USA",9e+07,25336048,101648571,237202299,0,0,0,0
+"0187393",2000,"ok","The Patriot","The Patriot",FALSE,2000,165,"Action,Drama,History",7.2,63,"USA;Germany",1.1e+08,22413710,113330342,215294342,0,0,1,3
+"0249462",2000,"ok","Billy Elliot","Billy Elliot",FALSE,2000,110,"Drama,Music",7.7,74,"UK;France",5e+06,215681,21995263,109280263,0,0,1,3
+"0255589",2000,"no_talk","The Isle","Seom",FALSE,2000,90,"Drama,Thriller",7,61,"SouthKorea",1e+06,4546,20666,24963,0,0,0,0
+"0195234",2000,"ok","Saving Grace","Saving Grace",FALSE,2000,93,"Comedy,Crime",6.9,62,"UK",1e+07,287452,12178602,28741330,0,0,0,0
+"0190590",2000,"no_women","O Brother, Where Art Thou?","O Brother, Where Art Thou?",FALSE,2000,107,"Adventure,Comedy,Crime",7.7,69,"UK;France;USA",2.6e+07,195104,45512588,71868327,0,0,1,2
+"0185431",2000,"no_talk","Little Nicky","Little Nicky",FALSE,2000,90,"Comedy,Fantasy",5.3,38,"USA",8.5e+07,16063904,39464775,58292295,0,0,0,0
+"0146309",2000,"no_talk","Thirteen Days","Thirteen Days",FALSE,2000,145,"Drama,History,Thriller",7.3,67,"USA",8e+07,46668,34592089,66579890,0,0,0,0
+"0162222",2000,"about_men","Cast Away","Cast Away",FALSE,2000,143,"Adventure,Drama,Romance",7.8,73,"USA",9e+07,28883406,233632142,429632142,0,0,1,2
+"0219699",2000,"ok","The Gift","The Gift",FALSE,2000,112,"Drama,Fantasy,Horror",6.6,62,"USA",1e+07,11827,12008642,44567606,0,0,0,0
+"0163978",2000,"no_talk","The Beach","The Beach",FALSE,2000,119,"Adventure,Drama,Romance",6.7,43,"USA;UK",5e+07,15277921,39785027,144056873,0,0,0,0
+"0215545",2000,"no_talk","Bamboozled","Bamboozled",FALSE,2000,135,"Comedy,Drama,Music",6.5,50,"USA",1e+07,190720,2274979,2463650,0,0,0,0
+"0173716",2000,"ok","Cecil B. Demented","Cecil B. Demented",FALSE,2000,87,"Comedy,Crime,Thriller",6.3,57,"USA;France",1e+07,127141,1284646,1961544,0,0,0,0
+"0165929",2000,"no_women","Romeo Must Die","Romeo Must Die",FALSE,2000,115,"Action,Crime,Thriller",6.1,52,"USA",2.5e+07,18014503,55973336,91036760,0,0,0,0
+"0209958",2000,"about_men","The Cell","The Cell",FALSE,2000,107,"Horror,Sci-Fi,Thriller",6.3,40,"USA;Germany",3.3e+07,17515050,61334059,104155843,0,0,1,1
+"0195714",2000,"no_talk","Final Destination","Final Destination",FALSE,2000,98,"Horror,Thriller",6.7,36,"USA",2.3e+07,10015822,53331147,112880294,0,0,0,0
+"0134084",2000,"ok","Scream 3","Scream 3",FALSE,2000,116,"Horror,Mystery",5.6,56,"USA",4e+07,34713342,89143175,161834276,0,0,0,0
+"0202677",2000,"about_men","The Way of the Gun","The Way of the Gun",FALSE,2000,119,"Action,Crime,Drama",6.7,49,"USA",8500000,2150979,6055661,13200972,0,0,0,0
+"0213203",2000,"ok","Rugrats in Paris: The Movie","Rugrats in Paris: The Movie - Rugrats II",FALSE,2000,78,"Adventure,Animation,Comedy",6.1,62,"Germany;USA",3e+07,22718184,76507756,103291131,0,0,0,0
+"0243862",2000,"ok","Italian for Beginners","Italiensk for begyndere",FALSE,2000,112,"Comedy,Drama,Romance",7,77,"Denmark;Sweden",1e+06,66047,4544753,16350876,0,0,0,0
+"0216216",2000,"ok","The 6th Day","The 6th Day",FALSE,2000,123,"Action,Mystery,Sci-Fi",5.9,49,"USA",8.2e+07,13020883,34604280,96085477,0,0,0,0
+"0220099",2000,"no_women","The Tigger Movie","The Tigger Movie",FALSE,2000,77,"Animation,Comedy,Drama",6.3,53,"USA;Japan",3e+07,9427532,45554533,96159800,0,0,0,0
+"0175142",2000,"ok","Scary Movie","Scary Movie",FALSE,2000,88,"Comedy",6.2,48,"USA",1.9e+07,42346669,157019771,278019771,0,0,0,0
+"0120755",2000,"no_women","Mission: Impossible II","Mission: Impossible II",FALSE,2000,123,"Action,Adventure,Thriller",6.1,59,"USA;Germany",1.25e+08,57845297,215409889,546388108,0,0,0,0
+"0245712",2000,"no_talk","Amores Perros","Amores perros",FALSE,2000,154,"Drama,Thriller",8.1,83,"Mexico",2e+06,61047,5408467,20908467,0,0,1,1
+"0186894",2000,"about_men","Bounce","Bounce",FALSE,2000,106,"Drama,Romance",5.7,52,"USA",3.5e+07,11423716,36805288,53425292,0,0,0,0
+"0211181",2000,"ok","102 Dalmatians","102 Dalmatians",FALSE,2000,100,"Adventure,Comedy,Family",4.9,35,"USA;UK",8.5e+07,19883351,66957026,183611771,0,0,1,1
+"0271219",2000,"about_men","Tadpole","Tadpole",FALSE,2002,78,"Comedy,Drama,Romance",6.1,71,"USA",150000,80682,2891288,3200241,0,0,0,0
+"0162983",2000,"ok","Hanging Up","Hanging Up",FALSE,2000,94,"Comedy,Drama",4.9,33,"Germany;USA",6e+07,13567978,36050230,51880044,0,0,0,0
+"0134983",2000,"ok","Supernova","Supernova",FALSE,2000,90,"Horror,Sci-Fi,Thriller",4.9,19,"USA;Switzerland",9e+07,5778639,14230455,14828081,0,0,0,0
+"0186566",2000,"about_men","Space Cowboys","Space Cowboys",FALSE,2000,130,"Action,Adventure,Thriller",6.4,73,"USA",6.5e+07,18093776,90464773,128884132,0,0,1,1
+"0223897",2000,"ok","Pay It Forward","Pay It Forward",FALSE,2000,123,"Drama",7.2,40,"USA",4e+07,9631359,33519628,55707411,0,0,0,0
+"0130623",2000,"ok","Dinosaur","Dinosaur",FALSE,2000,82,"Adventure,Animation,Family",6.5,56,"USA",127500000,38854851,137748063,349822765,0,0,0,0
+"0181536",2000,"about_men","Finding Forrester","Finding Forrester",FALSE,2000,136,"Drama",7.3,62,"USA",4.3e+07,701207,51804714,80049764,0,0,0,0
+"0174480",2000,"no_talk","Autumn in New York","Autumn in New York",FALSE,2000,103,"Drama,Romance",5.7,24,"USA",6.5e+07,10987006,37761915,90726668,0,0,0,0
+"0163983",2000,"about_men","Bless the Child","Bless the Child",FALSE,2000,107,"Crime,Drama,Horror",5.1,17,"USA;Germany",6.5e+07,9413684,29381494,40443010,0,0,0,0
+"0195945",2000,"about_men","Next Friday","Next Friday",FALSE,2000,98,"Comedy",6.2,41,"USA",1.1e+07,14465156,57328603,59827328,0,0,0,0
+"0170016",2000,"ok","How the Grinch Stole Christmas","How the Grinch Stole Christmas",FALSE,2000,104,"Comedy,Family,Fantasy",6.2,46,"USA;Germany",1.23e+08,55082330,260044825,345141403,1,1,0,0
+"0181865",2000,"ok","Traffic","Traffic",FALSE,2000,147,"Crime,Drama,Thriller",7.6,86,"USA;Mexico;Germany",4.8e+07,184725,124115725,207515725,1,4,0,0
+"0185014",2000,"no_talk","Wonder Boys","Wonder Boys",FALSE,2000,107,"Comedy,Drama",7.3,73,"USA;Germany;UK;Japan",5.5e+07,5808919,19393557,33426588,1,1,0,0
+"0203019",2000,"no_talk","Men of Honor","Men of Honor",FALSE,2000,129,"Biography,Drama",7.2,56,"USA",3.2e+07,13339465,48818921,82343495,0,0,0,0
+"0218967",2000,"ok","The Family Man","The Family Man",FALSE,2000,125,"Comedy,Drama,Fantasy",6.8,42,"USA",6e+07,10554960,75793305,124745083,0,0,0,0
+"0210567",2000,"ok","Beautiful","Beautiful",FALSE,2000,112,"Comedy,Drama",5.6,23,"USA;UK",1.4e+07,1409433,3157348,3169930,0,0,0,0
+"0177971",2000,"about_men","The Perfect Storm","The Perfect Storm",FALSE,2000,130,"Action,Adventure,Drama",6.4,59,"USA",1.4e+08,41325042,182618434,328718434,0,0,1,2
+"0183505",2000,"no_talk","Me, Myself & Irene","Me, Myself & Irene",FALSE,2000,116,"Comedy",6.6,49,"USA",5.1e+07,24209385,90570999,149270999,0,0,0,0
+"0191397",2000,"ok","The Replacements","The Replacements",FALSE,2000,118,"Comedy,Sport",6.6,30,"USA",5e+07,11039214,44737059,50054511,0,0,0,0
+"0205271",2000,"ok","Dr. T & the Women","Dr. T & the Women",FALSE,2000,122,"Comedy,Drama,Romance",4.6,64,"USA;Germany",2.3e+07,5012867,13113041,22844291,0,0,0,0
+"0208874",2000,"about_men","The Contender","The Contender",FALSE,2000,126,"Drama,Thriller",6.9,59,"USA;Germany;UK",2e+07,5363900,17872723,22428990,0,0,1,2
 "0160399",2001,"no_women","Impostor","Impostor",FALSE,2001,95,"Drama,Mystery,Sci-Fi",6.2,33,"USA",3e+07,3022523,6285176,8694320,0,0,0,0
 "0240772",2001,"no_talk","Ocean's Eleven","Ocean's Eleven",FALSE,2001,116,"Crime,Thriller",7.7,74,"USA",8.5e+07,38107822,183417150,450717150,0,0,0,0
 "0212720",2001,"no_talk","A.I. Artificial Intelligence","A.I. Artificial Intelligence",FALSE,2001,146,"Drama,Sci-Fi",7.2,65,"USA;UK",1e+08,29352630,78616689,235926552,0,0,1,2
