@@ -17,3 +17,6 @@ marathon <- marathon %>% mutate(year = lubridate::year(lubridate::mdy(marathon$d
 write.csv(marathon, "data-raw/marathon/marathon.csv", row.names = F)
 save(marathon, file = "data/marathon.rda")
 
+
+
+
