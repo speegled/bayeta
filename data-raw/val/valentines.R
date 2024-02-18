@@ -9,3 +9,4 @@ hh$percent_celebrating[hh$year == 2015] <- NA
 write.csv(hh, "data-raw/val/val.csv", row.names = FALSE)
 valentines <- hh
 save(valentines, file = "data/valentines.rda")
+
