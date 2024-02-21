@@ -40,3 +40,4 @@ mod_male <- lm(time ~ year, data = marathon_small, subset = marathon_small$gende
 abline(mod_male)
 
 write.csv(marathon_small, "data-raw/marathon/marathon_small.csv", row.names = F)
+
