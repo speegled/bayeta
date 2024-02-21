@@ -16,3 +16,27 @@ marathon$year <- NULL
 marathon <- marathon %>% mutate(year = lubridate::year(lubridate::mdy(marathon$date)),.after = date)
 write.csv(marathon, "data-raw/marathon/marathon.csv", row.names = F)
 save(marathon, file = "data/marathon.rda")
+
+load("data/marathon.rda")
+marathon
+library(tidyverse)
+marathon_small <- marathon %>%
+  group_by(sex) %>%
+  filter(time_seconds != max(time_seconds)) %>%
+  arrange(sex)
+
+marathon_small <- read.csv("data-raw/marathon/marathon_small.csv")
+marathon_small <- marathon_small %>%
+  janitor::clean_names() %>%
+  group_by(gender) %>%
+  filter(time != max(time)) %>%
+  arrange(gender)
+
+plot(marathon_small$year, marathon_small$time, pch = marathon_small$gender)
+mod_female <- lm(time ~ year, data = marathon_small, subset = marathon_small$gender == "F")
+abline(mod_female)
+
+mod_male <- lm(time ~ year, data = marathon_small, subset = marathon_small$gender == "M")
+abline(mod_male)
+
+write.csv(marathon_small, "data-raw/marathon/marathon_small.csv", row.names = F)
