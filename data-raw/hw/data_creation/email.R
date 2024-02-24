@@ -5,3 +5,8 @@ ee$number
 tt <- table(ee$spam, ee$number)
 knitr::kable(addmargins(tt), format = "latex")
 write.csv(ee, "data-raw/hw/email.csv", row.names = F)
+
+ii <- openintro::immigration
+knitr::kable(addmargins(table(ii$political, ii$response)), format = "latex")
+?openintro::immigration
+write.csv(ii, "data-raw/hw/imm.csv", row.names = F)
