@@ -3,6 +3,7 @@
 #'
 dd <- haven::read_dta("data-raw/sex_temp_math/pone.0216362.s003.dta")
 head(dd)
+head(dd)
 library(tidyverse)
 dd_small <- dd |>
   mutate(sex = ifelse(male, "male", "female")) |>
@@ -12,8 +13,8 @@ dd_small <- dd |>
 write.csv(dd, "sex_temp_math.csv", row.names = F)
 write.csv(dd_small, "sex_temp_math_small.csv", row.names = F)
 sex_temp_small <- dd_small
-sex_temp_math <- dd
-save(sex_temp_math, sex_temp_small, file = c("data/sex_temp.rda"))
+sex_temp <- dd
+save(sex_temp, file = c("data/sex_temp.rda"))
 load("data/sex_temp.rda")
 rm(sex_temp_math)
 cool_females <- sex_temp_small |>
@@ -36,6 +37,7 @@ write.csv(warm_females, "data-raw/sex_temp_math/warm_females.csv", row.names = F
 
 boxplot(sex_temp_small$mathcorrect ~ sex_temp_small$temp)
 
-
+table(dd$session)
+dd
 
 
