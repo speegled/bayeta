@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.15)  23 MAR 2024 09:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.15)  23 MAR 2024 09:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1381,8 +1381,6 @@ LaTeX Font Info:    Font shape `OT1/Carlito-OsF/m/it' will be
 
 ] [34
 
-] [35
-
 ]
 \tf@nav=\write6
 \openout6 = `sintefbeamer.nav'.
@@ -1399,8 +1397,8 @@ Package rerunfilecheck Info: File `sintefbeamer.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 26632 strings out of 478994
- 506733 string characters out of 5858184
+ 26630 strings out of 478994
+ 506714 string characters out of 5858184
  782263 words of memory out of 5000000
  43447 multiletter control sequences out of 15000+600000
  468762 words of font info for 88 fonts, out of 8000000 for 9000
@@ -1424,10 +1422,10 @@ sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
 r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/
 local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/lo
 cal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on sintefbeamer.pdf (35 pages, 770635 bytes).
+Output written on sintefbeamer.pdf (34 pages, 767349 bytes).
 PDF statistics:
- 297 PDF objects out of 1000 (max. 8388607)
- 223 compressed objects within 3 object streams
- 72 named destinations out of 1000 (max. 500000)
+ 292 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
+ 70 named destinations out of 1000 (max. 500000)
  84 words of extra memory for PDF output out of 10000 (max. 10000000)
 
