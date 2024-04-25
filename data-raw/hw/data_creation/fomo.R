@@ -1,0 +1,6 @@
+dd <- read.csv("/Users/speegled/Downloads/doi_10_5061_dryad_6n2c2n2__v20200520/Study_1A_summer_school_lab_study.csv", sep = ";")
+library(tidyverse)
+dd$age <- str_replace(dd$age, ",", ".")
+dd$age <- as.numeric(dd$age)
+dd <- janitor::clean_names(dd)
+write.csv(dd, "data-raw/hw/fomo.csv", row.names = F)
