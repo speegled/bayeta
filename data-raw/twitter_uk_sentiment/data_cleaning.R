@@ -40,7 +40,39 @@ dd
 write.csv(left_join(dd, aa, by = "word"), "data-raw/twitter_uk_sentiment/word_count.csv", row.names = F)
 small_word <- aa$word[apply(aa[,-11], 1, sum) > 4]
 small_dd <- left_join(filter(dd, word %in% small_word), aa, by = "word")
+unique(small_dd$word)
+small_dd |>
+  filter(!str_detect(word, "rape|assault|abuse|sex"))
 write_csv(small_dd, "data-raw/twitter_uk_sentiment/word_count.csv")
+small_dd <- filter(dd, word %in% small_word)
+write_csv(small_dd, "data-raw/twitter_uk_sentiment/word_count.csv")
+write_csv(aa, "data-raw/twitter_uk_sentiment/sentiment_nrc.csv")
+
+left_join(small_dd, aa) |>
+  filter(word == "abuse", lubridate::month(datetime) == 2) |>
+  ggplot(aes(x = datetime, y = count)) +
+  geom_smooth() +
+  geom_point(alpha = .1)
+
+dd <- left_join(small_dd, aa)
+library(lubridate)
+dd |>
+  filter(month(datetime) == 2, day(datetime) < 10) |>
+  group_by(datetime, surprise) |>
+  summarize(count = sum(count)) |>
+  mutate(surprise = factor(surprise)) |>
+  summarize(percent = first(count)/sum(count)) |>
+  ggplot(aes(x = datetime, y = percent)) +
+  geom_point() +
+  geom_line()
+
+
+
+
+
+
+
+
 
 
 
