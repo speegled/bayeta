@@ -5,7 +5,7 @@ aa <- readxl::read_xlsx("/Users/speegled/Downloads/pone.0187779.s004.xlsx") |>
 library(tidyverse)
 aa <- aa |>
   mutate(treat = str_extract(sub_id, "[a-zA-Z]*"), .after = sub_id)
-write.csv(aa, "data-raw/hw/mkart.csv", row.names = F)
+write.csv(aa, "data-raw/hw/smario.csv", row.names = F)
 
 table(aa$treat)
 
