@@ -1,5 +1,4 @@
-write.csv(fosdata::mice_pot, "data-raw/hw/mice.csv", row.names = F)
-
+# https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187779
 aa <- readxl::read_xlsx("/Users/speegled/Downloads/pone.0187779.s004.xlsx") |>
   janitor::clean_names()
 library(tidyverse)
