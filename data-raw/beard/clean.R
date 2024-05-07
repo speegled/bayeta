@@ -29,3 +29,8 @@ dd <- bind_rows(rename_with(dd[,1:5], .fn = rnm),
 
 write.csv(dd, "data-raw/beard/bead.csv", row.names = F)
 
+dd <- read.csv("data-raw/beard/bead.csv")
+library(tidyverse)
+dd <- dd |>
+  filter(status %in% c("hairy", "sheared"))
+write.csv(dd, "data-raw/beard/beard_two.csv", row.names = F)
